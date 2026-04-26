@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2088918,0x46bc7726a370834b2381dda5470dae15497242729299cdfeaa44dd7648f439c6,421315,"BNB Up or Down - April 27, 4:40PM-4:45PM ET","BNB Up or Down - April 27, 4:40PM-4:45PM ET",,0.0,0.0,,,,,,,2026-04-27T20:45:00Z,2026-04-26T20:51:38.932594+00:00
+2089390,0x37df016eeac98f2c6994f559c244ef640542b9efed225f9bc8f43dc924b63dda,421497,Rainbow Six Siege: Can You Be My Enemy vs FearX (BO3) - Asia-Pacific League Kickoff: North Decider Brackets,Game Handicap: FX (-1.5) vs Can You Be My Enemy (+1.5),,0.0,0.0,,,,,,,2026-04-27T10:00:00Z,2026-04-26T21:49:59.339449+00:00
