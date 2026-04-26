@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2087600,0x546780113878edbbc93477b4cab5c2dac86a7197bb1fd33d5d61d62a92155553,420777,"Hyperliquid Up or Down - April 27, 1:00PM-1:15PM ET","Hyperliquid Up or Down - April 27, 1:00PM-1:15PM ET",,0.0,0.0,,,,,,,2026-04-27T17:15:00Z,2026-04-26T17:11:53.859150+00:00
+2087811,0xcbabced9d93e6039a01b348ac5ed5e936a91c61636d06149c19ecf88b1b24645,420894,"Hyperliquid Up or Down - April 27, 1:55PM-2:00PM ET","Hyperliquid Up or Down - April 27, 1:55PM-2:00PM ET",,0.0,0.0,,,,,,,2026-04-27T18:00:00Z,2026-04-26T18:07:51.731413+00:00
