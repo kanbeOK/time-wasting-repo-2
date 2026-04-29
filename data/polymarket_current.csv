@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2068404,0xbdfa9d496cb8ad13731f084bac0a193de68b5ef4b3410e62e26c8171a7b0495b,410401,Dota 2: South America Rejects vs 1win (BO3) - DreamLeague Division 2 Playoffs,Total Kills Over/Under 53.5 in Game 2?,,0.0,,,,,,,,2026-04-24T19:30:00Z,2026-04-29T14:41:56.401312+00:00
+2012028,0x20aeabc990a2ef099f4da0aa4a93838989c07f894696dd6fca348161e51da9c4,391149,Counter-Strike: AaB Esport vs  Phantom Academy (BO1) - Parken Challenger Championship Group A,Map 1: Odd/Even Total Rounds?,,,54.984,,,,,,,2026-04-18T18:30:00Z,2026-04-29T16:50:38.150898+00:00
