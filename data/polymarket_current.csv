@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2114308,0x27c60133fc531e830690337fb558c73b17df509b8c2bca1b59a09c92f1d8045e,430580,"BNB Up or Down - April 30, 6:05AM-6:10AM ET","BNB Up or Down - April 30, 6:05AM-6:10AM ET",,0.0,0.0,,,,,,,2026-04-30T10:10:00Z,2026-04-29T10:15:19.015755+00:00
+2085603,0x2780d42bdb7e32872eedb837e7f872eac823537e3a4290889a408fb90f0e8a36,419997,Audax CS Italiano vs. CD Cobresal - More Markets,Audax CS Italiano vs. CD Cobresal: Both Teams to Score,,133.1591,,,,,,,,2026-05-23T16:30:00Z,2026-04-29T12:07:17.185796+00:00
