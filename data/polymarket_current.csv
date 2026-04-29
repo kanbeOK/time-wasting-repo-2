@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2012028,0x20aeabc990a2ef099f4da0aa4a93838989c07f894696dd6fca348161e51da9c4,391149,Counter-Strike: AaB Esport vs  Phantom Academy (BO1) - Parken Challenger Championship Group A,Map 1: Odd/Even Total Rounds?,,,54.984,,,,,,,2026-04-18T18:30:00Z,2026-04-29T16:50:38.150898+00:00
+2118143,0xb65a076c600566aba2269fa6bcab35b23e8b60de616095e8134fe37a8830b10d,431846,"Dogecoin Up or Down - April 30, 2:10PM-2:15PM ET","Dogecoin Up or Down - April 30, 2:10PM-2:15PM ET",,0.0,0.0,,,,,,,2026-04-30T18:15:00Z,2026-04-29T18:23:15.730353+00:00
