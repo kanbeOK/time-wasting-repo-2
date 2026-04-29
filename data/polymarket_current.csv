@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2085603,0x2780d42bdb7e32872eedb837e7f872eac823537e3a4290889a408fb90f0e8a36,419997,Audax CS Italiano vs. CD Cobresal - More Markets,Audax CS Italiano vs. CD Cobresal: Both Teams to Score,,133.1591,,,,,,,,2026-05-23T16:30:00Z,2026-04-29T12:07:17.185796+00:00
+2068404,0xbdfa9d496cb8ad13731f084bac0a193de68b5ef4b3410e62e26c8171a7b0495b,410401,Dota 2: South America Rejects vs 1win (BO3) - DreamLeague Division 2 Playoffs,Total Kills Over/Under 53.5 in Game 2?,,0.0,,,,,,,,2026-04-24T19:30:00Z,2026-04-29T14:41:56.401312+00:00
