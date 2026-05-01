@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2131867,0xd6f685f49f482c9af774fe73f7beb074410927cef437f6aeb451c9f8d8730daf,437530,"Bitcoin Up or Down - May 2, 6:40AM-6:45AM ET","Bitcoin Up or Down - May 2, 6:40AM-6:45AM ET",,6942.701,,,,,,,,2026-05-02T10:45:00Z,2026-05-01T10:54:22.130130+00:00
+2132099,0x3adff0adfcbce5de6db8412d62d1bacff59d9edda060e05a15bc7f76677ecacc,437673,"Hyperliquid Up or Down - May 2, 7:50AM-7:55AM ET","Hyperliquid Up or Down - May 2, 7:50AM-7:55AM ET",,0.0,0.0,,,,,,,2026-05-02T11:55:00Z,2026-05-01T12:03:44.301095+00:00
