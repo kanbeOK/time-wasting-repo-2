@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2147523,0x608e46518ee826f7141979a8ecde1c4c9e6cb1c868290d316f629219e853160f,444394,"Hyperliquid Up or Down - May 4, 7:40AM-7:45AM ET","Hyperliquid Up or Down - May 4, 7:40AM-7:45AM ET",,0.0,0.0,,,,,,,2026-05-04T11:45:00Z,2026-05-03T11:52:57.977724+00:00
+2148254,0x2e17492cfd27672777722eafde9f483c2b90faae52c64668bef7f6225d566473,444657,"XRP Up or Down - May 4, 9:30AM-9:35AM ET","XRP Up or Down - May 4, 9:30AM-9:35AM ET",,2733.0,,,,,,,,2026-05-04T13:35:00Z,2026-05-03T13:41:04.012617+00:00
