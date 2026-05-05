@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2164167,0xd46baa5e90d551a3fe23113dd50efdfb9b175d1476a7fd067673631a2763b5ab,451058,"XRP Up or Down - May 6, 5:20AM-5:25AM ET","XRP Up or Down - May 6, 5:20AM-5:25AM ET",,0.0,0.0,,,,,,,2026-05-06T09:25:00Z,2026-05-05T09:30:22.478732+00:00
+2164665,0x1c72c4b8924f019ead36cb8377075c15e767a84ac406449f915128dd0310eb29,451298,"XRP Up or Down - May 6, 6:55AM-7:00AM ET","XRP Up or Down - May 6, 6:55AM-7:00AM ET",,0.0,0.0,,,,,,,2026-05-06T11:00:00Z,2026-05-05T11:05:30.308937+00:00
