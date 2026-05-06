@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2171963,0xe2249d4e09a5896da62dc6474559fffff1da28c6b7a16eae93d5d69c98ed0c91,453976,"Solana Up or Down - May 7, 12:45AM-12:50AM ET","Solana Up or Down - May 7, 12:45AM-12:50AM ET",,0.0,0.0,,,,,,,2026-05-07T04:50:00Z,2026-05-06T04:59:29.894198+00:00
+2172931,0x592b65b9c5dc687ea8405665881a28956eeb7fe0dfecd845ea3dc3b1b2150df6,454366,"Bitcoin Up or Down - May 7, 3:30AM-3:45AM ET","Bitcoin Up or Down - May 7, 3:30AM-3:45AM ET",,16988.454,,,,,,,,2026-05-07T07:45:00Z,2026-05-06T07:41:56.758482+00:00
