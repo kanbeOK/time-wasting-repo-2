@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2268247,0x295a8b2d5ec67ba9dee375fb0d69c810a021a77281e9be712cff24935342e3e7,487971,"Hyperliquid Up or Down - May 16, 8:05AM-8:10AM ET","Hyperliquid Up or Down - May 16, 8:05AM-8:10AM ET",,2064.3008,,,,,,,,2026-05-16T12:10:00Z,2026-05-15T18:08:18.526822+00:00
+2268843,0xc4b01f496e989458f85c77e1fbcd01efe5af6456035aaaebde7dee0be51e9c08,488259,"BNB Up or Down - May 16, 10:15AM-10:30AM ET","BNB Up or Down - May 16, 10:15AM-10:30AM ET",,1767.2239,,,,,,,,2026-05-16T14:30:00Z,2026-05-15T20:04:59.139920+00:00
