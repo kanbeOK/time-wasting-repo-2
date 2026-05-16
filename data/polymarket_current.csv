@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2275174,0x3a2c5e99266ee9c37d314fdd0d7a5841f3c555d5ead8ccebcb804e407c176d41,490619,World Championships: Canada vs. Slovenia,World Championships: Canada vs. Slovenia,,2.5,,,,,,,,2026-05-22T14:20:00Z,2026-05-16T11:58:39.928880+00:00
+2275668,0x4049d7e4404f7e3e6f4feab94e320e0924f044e8dfa7662334706900bbf1f82b,490905,"Dogecoin Up or Down - May 17, 4:25AM-4:30AM ET","Dogecoin Up or Down - May 17, 4:25AM-4:30AM ET",,603.5607,,,,,,,,2026-05-17T08:30:00Z,2026-05-16T13:53:55.419842+00:00
