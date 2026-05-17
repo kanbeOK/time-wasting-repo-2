@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2287493,0x4d3cd66e4c8b3bc4eef3ff69c389a4075d3e860c44a3777d79d7cb7df31698af,496208,"Solana Up or Down - May 18, 6:20PM-6:25PM ET","Solana Up or Down - May 18, 6:20PM-6:25PM ET",,0.0,0.0,,,,,,,2026-05-18T22:25:00Z,2026-05-17T22:30:03.729824+00:00
+2288101,0x53e99ff0788c47d476fd963dc093d3bd8ef958fefab0703f2c7c3b32cb2b0179,496377,"Dogecoin Up or Down - May 18, 7:25PM-7:30PM ET","Dogecoin Up or Down - May 18, 7:25PM-7:30PM ET",,0.0,0.0,,,,,,,2026-05-18T23:30:00Z,2026-05-17T23:35:48.098415+00:00
