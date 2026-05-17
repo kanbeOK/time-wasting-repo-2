@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2286397,0xaa6b395b2e9842e594ccbd5a79183ea8d3675a22062c300d57e478b40105da3d,495627,"Ethereum Up or Down - May 18, 2:00PM-2:05PM ET","Ethereum Up or Down - May 18, 2:00PM-2:05PM ET",,5607.6898,,,,,,,,2026-05-18T18:05:00Z,2026-05-17T18:37:09.185846+00:00
+2287021,0x0fcb64ab97de2fa64f460b9855e23f3f7c65b95523bd6e7647aaad7a357e6364,495894,"Dogecoin Up or Down - May 18, 3:55PM-4:00PM ET","Dogecoin Up or Down - May 18, 3:55PM-4:00PM ET",,0.0,0.0,,,,,,,2026-05-18T20:00:00Z,2026-05-17T20:07:49.665368+00:00
