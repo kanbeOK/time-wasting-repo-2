@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2285299,0x8a7b1eb7e5273e7e3cdeaa248b83003fbed88fc4a7070543d20ac004d2152d5a,495434,"Solana Up or Down - May 18, 12:40PM-12:45PM ET","Solana Up or Down - May 18, 12:40PM-12:45PM ET",,2177.4435,,,,,,,,2026-05-18T16:45:00Z,2026-05-17T17:06:47.950139+00:00
+2286397,0xaa6b395b2e9842e594ccbd5a79183ea8d3675a22062c300d57e478b40105da3d,495627,"Ethereum Up or Down - May 18, 2:00PM-2:05PM ET","Ethereum Up or Down - May 18, 2:00PM-2:05PM ET",,5607.6898,,,,,,,,2026-05-18T18:05:00Z,2026-05-17T18:37:09.185846+00:00
