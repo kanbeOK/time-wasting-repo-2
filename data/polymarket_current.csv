@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2280973,0xd81cbb1d7bcf5006c5d155771295ee6f2037a9a7f56d7e5ac03a48055d55118d,493340,"BNB Up or Down - May 18, 10PM ET","BNB Up or Down - May 18, 10PM ET",,2.2,,,,,,,,2026-05-19T03:00:00Z,2026-05-17T04:10:58.498633+00:00
+2282604,0x2ddc88ece55da9033bbab2c300efa6ab4db289184c58f190e61da194f41c04f7,493914,"XRP Up or Down - May 18, 1:35AM-1:40AM ET","XRP Up or Down - May 18, 1:35AM-1:40AM ET",,946.9292,,,,,,,,2026-05-18T05:40:00Z,2026-05-17T07:23:00.391103+00:00
