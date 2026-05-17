@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2283087,0xf4af26cd7b4ae0c9955b14ce15e40b9ec9001decdbaa67aa0a3966afe0e58a66,494208,"Ethereum Up or Down - May 18, 3:45AM-4:00AM ET","Ethereum Up or Down - May 18, 3:45AM-4:00AM ET",,16745.1728,,,,,,,,2026-05-18T08:00:00Z,2026-05-17T09:20:58.410440+00:00
+2283371,0xff71bd35efe218cd565192397867a5c7e1930f8b553122215eff3cf0f539f307,494438,"Bitcoin Up or Down - May 18, 5:30AM-5:45AM ET","Bitcoin Up or Down - May 18, 5:30AM-5:45AM ET",,19464.098,,,,,,,,2026-05-18T09:45:00Z,2026-05-17T10:53:07.682268+00:00
