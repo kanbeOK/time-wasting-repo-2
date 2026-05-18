@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2295010,0xc22f46847ae4b4014cde3f3356ca39357a0ddc4820809b461ad635b8e492506b,499200,"BNB Up or Down - May 19, 2:45PM-3:00PM ET","BNB Up or Down - May 19, 2:45PM-3:00PM ET",,695.2036,,,,,,,,2026-05-19T19:00:00Z,2026-05-18T18:56:41.969841+00:00
+2296187,0x8fb258019ca6691f4d7563cc878bc978a8d2b8fdc8ec22ba15735bc4bd249cb6,499500,"Solana Up or Down - May 19, 4:30PM-4:45PM ET","Solana Up or Down - May 19, 4:30PM-4:45PM ET",,1491.0114,,,,,,,,2026-05-19T20:45:00Z,2026-05-18T20:41:41.383705+00:00
