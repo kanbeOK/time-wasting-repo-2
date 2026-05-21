@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2321736,0x89ed98ee2bd12a9cef433f4e58aa75a2087ba91d307d3f075057296f86c1d04e,510036,"XRP Up or Down - May 22, 11:30AM-11:45AM ET","XRP Up or Down - May 22, 11:30AM-11:45AM ET",,0.0,0.0,,,,,,,2026-05-22T15:45:00Z,2026-05-21T15:46:59.191188+00:00
+2324271,0xbd8cd9153cdd382ca381a136ff2e4d984b3f5ce4264fd4747846b4f91ca108a5,510515,"Ethereum Up or Down - May 22, 1:15PM-1:30PM ET","Ethereum Up or Down - May 22, 1:15PM-1:30PM ET",,16986.265,,,,,,,,2026-05-22T17:30:00Z,2026-05-21T18:07:09.071824+00:00
