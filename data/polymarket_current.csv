@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2348124,0x9221657373d69b8e9ec6623acb6121e98326f80a0bb4d905e94d2897c25d5053,521053,"Ethereum Up or Down - May 25, 2:35PM-2:40PM ET","Ethereum Up or Down - May 25, 2:35PM-2:40PM ET",,4758.2056,,,,,,,,2026-05-25T18:40:00Z,2026-05-24T19:48:24.990899+00:00
+2348150,0x6102557fa644f1fa003ec491b4ce0bc7aee146fca2f5509969c02f4af51527aa,521054,What will Trump say this week? (May 31),"Will Trump say ""Generation"" this week?",,12.52,,,,,,,,2026-05-31T00:00:00Z,2026-05-24T21:05:47.180483+00:00
