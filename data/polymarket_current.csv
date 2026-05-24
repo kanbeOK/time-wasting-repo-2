@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2348150,0x6102557fa644f1fa003ec491b4ce0bc7aee146fca2f5509969c02f4af51527aa,521054,What will Trump say this week? (May 31),"Will Trump say ""Generation"" this week?",,12.52,,,,,,,,2026-05-31T00:00:00Z,2026-05-24T21:05:47.180483+00:00
+2348741,0x33d54e6f4ebf57d0bc8d5a55a94b30fda38e176c7fba0b6f4c779041bec86585,521490,"XRP Up or Down - May 25, 6:20PM-6:25PM ET","XRP Up or Down - May 25, 6:20PM-6:25PM ET",,0.0,0.0,,,,,,,2026-05-25T22:25:00Z,2026-05-24T22:32:13.644578+00:00
