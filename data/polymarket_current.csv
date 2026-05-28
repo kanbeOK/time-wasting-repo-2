@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2380586,0xacb9f0f2ec68718feb14669b9b190534cf47b5a19bf987095d4c449464bf1697,535420,"Dogecoin Up or Down - May 29, 3:30PM-3:45PM ET","Dogecoin Up or Down - May 29, 3:30PM-3:45PM ET",,0.0,0.0,,,,,,,2026-05-29T19:45:00Z,2026-05-28T19:43:28.512081+00:00
+2381672,0x2a753aeed6a38ba1d1934a75d16b1307486cd8fd6a657edb553852ed1f0aa16d,535776,"XRP Up or Down - May 29, 5:50PM-5:55PM ET","XRP Up or Down - May 29, 5:50PM-5:55PM ET",,0.0,0.0,,,,,,,2026-05-29T21:55:00Z,2026-05-28T22:02:07.986932+00:00
