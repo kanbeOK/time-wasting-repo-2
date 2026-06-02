@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2421737,0xbb1df26edbe10f039574343085b0615d07cd9e5c81aa2fed5843941781f180cd,552777,"Solana Up or Down - June 3, 5:05PM-5:10PM ET","Solana Up or Down - June 3, 5:05PM-5:10PM ET",,0.0,0.0,,,,,,,2026-06-03T21:10:00Z,2026-06-02T21:19:59.176290+00:00
+2423195,0x6be102ac84ced63583781bd59d8792391966dbdd5bf9db23776a00bc0202e80c,553185,"Dogecoin Up or Down - June 3, 7:05PM-7:10PM ET","Dogecoin Up or Down - June 3, 7:05PM-7:10PM ET",,0.0,0.0,,,,,,,2026-06-03T23:10:00Z,2026-06-02T23:17:48.457913+00:00
