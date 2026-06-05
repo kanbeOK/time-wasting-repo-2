@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2441452,0x96fe9192d5db765afd89632b94146280004b068d7aa0b9cd2dd038d33a5a429e,560958,"Dogecoin Up or Down - June 6, 12:30AM-12:45AM ET","Dogecoin Up or Down - June 6, 12:30AM-12:45AM ET",,0.0,0.0,,,,,,,2026-06-06T04:45:00Z,2026-06-05T04:40:03.152318+00:00
+2442372,0x7bf7ca79015edbb2e7622dd80b5be39a6fdb8acc4ad75b3bae430c1ba22d3ba0,561474,"BNB Up or Down - June 6, 4:40AM-4:45AM ET","BNB Up or Down - June 6, 4:40AM-4:45AM ET",,0.0,0.0,,,,,,,2026-06-06T08:45:00Z,2026-06-05T08:49:34.883734+00:00
