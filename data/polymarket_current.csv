@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2459093,0x301f37dc1cb2e0c43f0e79c5997470ff39361d5e20d61175e569c566023e438d,567650,"Solana Up or Down - June 7, 9:25PM-9:30PM ET","Solana Up or Down - June 7, 9:25PM-9:30PM ET",,0.0,0.0,,,,,,,2026-06-08T01:30:00Z,2026-06-07T01:38:57.770198+00:00
+2460732,0x5afddab11862a965fe4d4e8a2c35cf926802468f4fc07de613adfd100cbeea39,568386,"XRP Up or Down - June 8, 2:25AM-2:30AM ET","XRP Up or Down - June 8, 2:25AM-2:30AM ET",,0.0,0.0,,,,,,,2026-06-08T06:30:00Z,2026-06-07T06:38:44.547271+00:00
