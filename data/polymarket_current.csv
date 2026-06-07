@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2462313,0xb1e20f75394319366f87295f513b8aac527103a86dcfc0eaf9b85ddc4ff8eee7,569400,"XRP Up or Down - June 8, 10:15AM-10:20AM ET","XRP Up or Down - June 8, 10:15AM-10:20AM ET",,0.0,0.0,,,,,,,2026-06-08T14:20:00Z,2026-06-07T14:30:47.570895+00:00
+2462884,0x20208113a0bee764f7444ec2b8a90c1fd84bf2b7d0fb4d808c47da52b1521486,569695,World Cup: Goalkeeper to Score?,World Cup: Goalkeeper to Score?,,0.0,0.0,,,,,,,2026-07-20T03:59:00Z,2026-06-07T16:24:43.524403+00:00
