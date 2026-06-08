@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2472281,0xb5fc337bb3bf503710ef267ef63bd35633dd7752b24467b803422aa48f68e575,573389,"Bitcoin Up or Down - June 9, 1:55PM-2:00PM ET","Bitcoin Up or Down - June 9, 1:55PM-2:00PM ET",,0.0,0.0,,,,,,,2026-06-09T18:00:00Z,2026-06-08T18:05:22.049081+00:00
+2473076,0xc49bc7b11d000f3bd222118f58181c343470669d22408a9e1ca24c323ee9d7ff,573747,"XRP Up or Down - June 9, 4:25PM-4:30PM ET","XRP Up or Down - June 9, 4:25PM-4:30PM ET",,1371.017,,,,,,,,2026-06-09T20:30:00Z,2026-06-08T20:41:11.860395+00:00
