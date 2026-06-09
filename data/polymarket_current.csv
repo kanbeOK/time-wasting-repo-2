@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2476691,0x91de77ae72af7bdd5de7eab20485c48ecf109402692ef0766b4227be4377ede9,575157,"Ethereum Up or Down - June 10, 12:35AM-12:40AM ET","Ethereum Up or Down - June 10, 12:35AM-12:40AM ET",,0.0,0.0,,,,,,,2026-06-10T04:40:00Z,2026-06-09T04:48:22.319843+00:00
+2477647,0xa53f15d9963fe336736b5246333693251ec8b5491569660caba4fe47748719cc,575670,"Hyperliquid Up or Down - June 10, 4:25AM-4:30AM ET","Hyperliquid Up or Down - June 10, 4:25AM-4:30AM ET",,0.0,0.0,,,,,,,2026-06-10T08:30:00Z,2026-06-09T08:37:19.615894+00:00
