@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2501027,0xbc2de705feb86831d2a92aad405e9314f9f5f7af8701b041143dc82923238aae,581820,"Solana Up or Down - June 11, 7:45PM-8:00PM ET","Solana Up or Down - June 11, 7:45PM-8:00PM ET",,0.0,0.0,,,,,,,2026-06-12T00:00:00Z,2026-06-10T23:59:02.199467+00:00
+2503044,0x3b1f17f2e25a2c38d3472c4c31520fb5c46f334a4209f3eba66d5c9b9464dd1c,582555,"Hyperliquid Up or Down - June 12, 12:40AM-12:45AM ET","Hyperliquid Up or Down - June 12, 12:40AM-12:45AM ET",,0.0,0.0,,,,,,,2026-06-12T04:45:00Z,2026-06-11T04:54:58.369952+00:00
