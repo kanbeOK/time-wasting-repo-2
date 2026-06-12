@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2518569,0x6342b096dda78fdb3bb076dfb6fb31853892aeb9e16c1fb0efb4257cfe2405d2,587798,"Hyperliquid Up or Down - June 13, 12:40PM-12:45PM ET","Hyperliquid Up or Down - June 13, 12:40PM-12:45PM ET",,0.0,0.0,,,,,,,2026-06-13T16:45:00Z,2026-06-12T16:51:35.229058+00:00
+2520246,0xe133b0c82ac7c5b8b16568371a8c934976c319b46de53a34b30a7667bdbe7e40,588145,"Dogecoin Up or Down - June 13, 3:00PM-3:15PM ET","Dogecoin Up or Down - June 13, 3:00PM-3:15PM ET",,1622.36,,,,,,,,2026-06-13T19:15:00Z,2026-06-12T19:14:53.492241+00:00
