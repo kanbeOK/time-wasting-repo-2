@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2512307,0xa900c9f650191b7b7dffba3d2c9885761b437fe060b0391b316a9b3a36134a66,585399,"Ethereum Up or Down - June 12, 7:55PM-8:00PM ET","Ethereum Up or Down - June 12, 7:55PM-8:00PM ET",,0.0,0.0,,,,,,,2026-06-13T00:00:00Z,2026-06-12T00:06:23.016656+00:00
+2514912,0xe50939c3960a0b416b185ed13ecd893e95ddaf6e0bf79a61558600ab02b3d9c8,586163,"Solana Up or Down - June 13, 1:05AM-1:10AM ET","Solana Up or Down - June 13, 1:05AM-1:10AM ET",,0.0,0.0,,,,,,,2026-06-13T05:10:00Z,2026-06-12T05:17:52.259391+00:00
