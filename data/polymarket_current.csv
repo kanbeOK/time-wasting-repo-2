@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2547056,0xe7dd6e95f7e418e7f50c37cf0eafcff91a9a86dd192d9195a5fb0ae84768b804,595598,"Ethereum Up or Down - June 15, 6:35PM-6:40PM ET","Ethereum Up or Down - June 15, 6:35PM-6:40PM ET",,0.0,0.0,,,,,,,2026-06-15T22:40:00Z,2026-06-14T22:44:45.340987+00:00
+2547990,0x51dae5e7ea1743918c27ab8da9c4fe6559409494aadc4d2b2f8a1b0d40f9dbbb,595817,"BNB Up or Down - June 15, 8:10PM-8:15PM ET","BNB Up or Down - June 15, 8:10PM-8:15PM ET",,0.0,0.0,,,,,,,2026-06-16T00:15:00Z,2026-06-15T00:19:59.090473+00:00
