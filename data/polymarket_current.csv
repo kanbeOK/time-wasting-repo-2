@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2587586,0x325a8c6f850d5f74e172cffce15c8edf6dd8c1805e6bfa94e75645fdaf84bec2,606321,Will any player break the record for lowest score in a round at the 2026 U.S. Open?,Will any player break the record for lowest score in a round at the 2026 U.S. Open?,,0.0,0.0,,,,,,,2026-06-21T23:59:00Z,2026-06-17T22:22:36.770190+00:00
+2589986,0x360ccd2cffe932a0291a8ce2648ba589869b0cc64ee743833a217ebc1324c5d9,606527,"Dogecoin Up or Down - June 18, 7:45PM-8:00PM ET","Dogecoin Up or Down - June 18, 7:45PM-8:00PM ET",,1636.9016,,,,,,,,2026-06-19T00:00:00Z,2026-06-17T23:59:17.302060+00:00
