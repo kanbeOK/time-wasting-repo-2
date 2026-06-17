@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2570843,0xacf5909683971c3b7c6b75a6cf18d737e7b9796894962781ffe8c87ac75ac80d,602474,"BNB Up or Down - June 17, 5:00PM-5:05PM ET","BNB Up or Down - June 17, 5:00PM-5:05PM ET",,1756.5536,,,,,,,,2026-06-17T21:05:00Z,2026-06-16T23:41:35.959554+00:00
+2575660,0x31cc019bfced647d0ba2245fdff75201485956b2612626f70b0c780f2ca01f94,603628,Lowest temperature in Shanghai on June 19?,Will the lowest temperature in Shanghai be 29°C or higher on June 19?,,150.907,36.81,,,,,,,2026-06-19T12:00:00Z,2026-06-17T05:01:51.787492+00:00
