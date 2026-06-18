@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2589986,0x360ccd2cffe932a0291a8ce2648ba589869b0cc64ee743833a217ebc1324c5d9,606527,"Dogecoin Up or Down - June 18, 7:45PM-8:00PM ET","Dogecoin Up or Down - June 18, 7:45PM-8:00PM ET",,1636.9016,,,,,,,,2026-06-19T00:00:00Z,2026-06-17T23:59:17.302060+00:00
+1993507,0x6553d403593dca57ac08238b0f00750c9fb90a16ab65a0217966edafde559e73,382767,California Governor Primary Election: First Place,Will another person finish first in the 2026 California Governor primary election?,,0.0,0.0,,,,,,,2026-06-02T00:00:00Z,2026-06-18T04:56:47.317722+00:00
