@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1993507,0x6553d403593dca57ac08238b0f00750c9fb90a16ab65a0217966edafde559e73,382767,California Governor Primary Election: First Place,Will another person finish first in the 2026 California Governor primary election?,,0.0,0.0,,,,,,,2026-06-02T00:00:00Z,2026-06-18T04:56:47.317722+00:00
+1993507,0x6553d403593dca57ac08238b0f00750c9fb90a16ab65a0217966edafde559e73,382767,California Governor Primary Election: First Place,Will another person finish first in the 2026 California Governor primary election?,,0.0,0.0,,,,,,,2026-06-02T00:00:00Z,2026-06-18T09:22:01.147515+00:00
