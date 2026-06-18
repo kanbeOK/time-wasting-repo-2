@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1993543,0xd793eee203f98b27a67fbf9f94592f021ce14d4e321e27750546b3c55f288cd0,382797,GV CD San José vs. CD Real Tomayapo,Will CD Real Tomayapo win on 2026-05-12?,,121.70434,1063.705788,,,,,,,2026-05-12T22:00:00Z,2026-06-18T12:38:15.109758+00:00
+1996901,0x16ae2e79df899fd25b6d42970ee0deb9d9dfdf25ba9594a3aa7f80e97246f1fc,384097,LoL: Dignitas vs Disguised (BO3) - Esports World Cup North America Qualifier Playoffs,Game 3: Odd/Even Total Kills?,,0.0,,,,,,,,2026-04-17T01:55:00Z,2026-06-18T16:39:01.503513+00:00
