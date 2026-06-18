@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1996901,0x16ae2e79df899fd25b6d42970ee0deb9d9dfdf25ba9594a3aa7f80e97246f1fc,384097,LoL: Dignitas vs Disguised (BO3) - Esports World Cup North America Qualifier Playoffs,Game 3: Odd/Even Total Kills?,,0.0,,,,,,,,2026-04-17T01:55:00Z,2026-06-18T16:39:01.503513+00:00
+1997322,0x0d54e966b7f9febfc5c78ca2edfd4257c88ae25a08a2c0116a8f3df4a8615960,384337,Counter-Strike: LFO vs hindsight (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,55.9304,,,,,,,2026-04-17T01:10:00Z,2026-06-18T19:34:11.861561+00:00
