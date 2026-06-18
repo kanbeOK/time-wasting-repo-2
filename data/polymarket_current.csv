@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1993507,0x6553d403593dca57ac08238b0f00750c9fb90a16ab65a0217966edafde559e73,382767,California Governor Primary Election: First Place,Will another person finish first in the 2026 California Governor primary election?,,0.0,0.0,,,,,,,2026-06-02T00:00:00Z,2026-06-18T09:22:01.147515+00:00
+1993543,0xd793eee203f98b27a67fbf9f94592f021ce14d4e321e27750546b3c55f288cd0,382797,GV CD San José vs. CD Real Tomayapo,Will CD Real Tomayapo win on 2026-05-12?,,121.70434,1063.705788,,,,,,,2026-05-12T22:00:00Z,2026-06-18T12:38:15.109758+00:00
