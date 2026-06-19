@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1997392,0x0a7e69419304005d82b7d0a8156fc17e3c5a9646b43500a8e659683e4a37d1c7,384358,Counter-Strike: eternal premium vs ENJOY (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,10.58,,,,,,,2026-04-16T23:45:00Z,2026-06-19T00:12:29.825116+00:00
+1997736,0xf28a1e1fb227bdacf14d7ea4e9ac62861b779b6aa26197dd49b130131eba5fc4,384550,Counter-Strike: CYBERSHOKE Prospects vs megoshort (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,44.97,,,,,,,2026-04-16T22:15:00Z,2026-06-19T05:35:32.405563+00:00
