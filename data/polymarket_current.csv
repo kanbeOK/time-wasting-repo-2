@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1999808,0xb264f5ade97f295fcef29021dd6f4a83fd45a82e9c2b2b0f283cc19fc9e8e3d4,385619,Peru General Election invalidated by June 30?,Peru General Election invalidated by June 30?,,17846.04355,178967.05261800002,,,,,,,2026-06-30T00:00:00Z,2026-06-19T14:17:54.516123+00:00
+2000296,0xa834cb93d7da5316c9b770c5f92a7c78f7c65c85e197f497a19f02b94fdf7e90,385797,Will Trump try to fire Powell as Fed Board Member by...?,"Will Trump try to fire Powell as Fed Board Member by December 31, 2026?",,1576.5703,7217.881162000002,,,,,,,2026-12-31T00:00:00Z,2026-06-19T17:00:04.083042+00:00
