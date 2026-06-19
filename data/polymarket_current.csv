@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1997345,0xbb9769307654726bd2f14aa7c0fcade7a25dcc8dac7ea9fe7c88a95b1cdfdf7b,384339,Counter-Strike: R2 Esports Club vs ALKA (BO3) - CCT South America Challengers #1 Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-17T02:00:00Z,2026-06-18T22:21:22.595072+00:00
+1997392,0x0a7e69419304005d82b7d0a8156fc17e3c5a9646b43500a8e659683e4a37d1c7,384358,Counter-Strike: eternal premium vs ENJOY (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,10.58,,,,,,,2026-04-16T23:45:00Z,2026-06-19T00:12:29.825116+00:00
