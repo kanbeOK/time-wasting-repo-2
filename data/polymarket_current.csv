@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-1997736,0xf28a1e1fb227bdacf14d7ea4e9ac62861b779b6aa26197dd49b130131eba5fc4,384550,Counter-Strike: CYBERSHOKE Prospects vs megoshort (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,44.97,,,,,,,2026-04-16T22:15:00Z,2026-06-19T05:35:32.405563+00:00
+1998636,0x654a1a8034f1c49bd1468b0c253169dcdfc841b2a1f441b2c489da5c0c994f36,385100,GV CD San José vs. CD Real Tomayapo - More Markets,GV CD San José vs. CD Real Tomayapo: O/U 4.5,,34.5,570.2257419999999,,,,,,,2026-05-12T22:00:00Z,2026-06-19T10:52:30.912100+00:00
