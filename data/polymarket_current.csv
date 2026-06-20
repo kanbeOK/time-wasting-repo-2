@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2001531,0x72cdf0c90f3e22196d210ba2dc968e36044310a62373f1da249150728d1e5a88,386211,President of Andalusia after election?,Will Person Y be the next President of Andalusia following the regional election?,,0.0,0.0,,,,,,,2026-05-17T00:00:00Z,2026-06-20T08:03:49.822318+00:00
+2001531,0x72cdf0c90f3e22196d210ba2dc968e36044310a62373f1da249150728d1e5a88,386211,President of Andalusia after election?,Will Person Y be the next President of Andalusia following the regional election?,,0.0,0.0,,,,,,,2026-05-17T00:00:00Z,2026-06-20T10:59:54.131010+00:00
