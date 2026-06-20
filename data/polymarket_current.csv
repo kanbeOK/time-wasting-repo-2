@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2333782,0x5813dc7ee3feea004711c97bdf27c407c3e943d876432ef50b49b8399eae9f37,386812,Israel withdraws from Lebanon by...?,"Israel withdraws from Lebanon by July 31, 2026?",,112058.6707,734068.5751670004,,,,,,,2026-07-31T00:00:00Z,2026-06-20T17:05:45.170461+00:00
+2333782,0x5813dc7ee3feea004711c97bdf27c407c3e943d876432ef50b49b8399eae9f37,386812,Israel withdraws from Lebanon by...?,"Israel withdraws from Lebanon by July 31, 2026?",,101057.1716,755526.4062960005,,,,,,,2026-07-31T00:00:00Z,2026-06-20T18:56:01.234434+00:00
