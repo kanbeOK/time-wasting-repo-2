@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2126516,0x1a8808d7a309a210b3e413331005c3d7e8cd27d2da4a4acd4ff04b4072d2ed81,386788,Israel x Iran permanent peace deal by...?,"Israel x Iran permanent peace deal by July 31, 2026?",,102087.5356,251122.6228620004,,,,,,,2026-07-31T00:00:00Z,2026-06-20T12:57:17.036747+00:00
+2333782,0x5813dc7ee3feea004711c97bdf27c407c3e943d876432ef50b49b8399eae9f37,386812,Israel withdraws from Lebanon by...?,"Israel withdraws from Lebanon by July 31, 2026?",,101892.8034,730128.9994550004,,,,,,,2026-07-31T00:00:00Z,2026-06-20T15:07:16.946711+00:00
