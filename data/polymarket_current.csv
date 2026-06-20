@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2000402,0xf86d08d442a1bdb27ecf426ebf49c3055247461ef84fce02e8e7b964e2d78be2,385825,Which movie has biggest opening week in 2026?,Will Movie U have the best domestic opening week in 2026?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-06-19T23:39:54.655825+00:00
+2001298,0x39af3bd5d2a6dde07575e72999e6bcb9f1ae4dc5516713d36b25cff4ab33d3b3,386153,LoL: Bohemian Guardians vs eSuba (BO3) - Hitpoint Masters Regular Season,Game 2: Any Player Penta Kill?,,0.60306,77.85,,,,,,,2026-04-17T20:15:00Z,2026-06-20T04:23:56.067243+00:00
