@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2006132,0xe5c81c3cfcae297efde61ac0bef6108eff7976430c27e87f71283cd3939076ff,387333,Counter-Strike: aimclub vs Drama eSports (BO3) - Exort Series Main Stage,Map Handicap: DRAMA (-1.5) vs aimclub (+1.5),,,291.12,,,,,,,2026-04-17T18:30:00Z,2026-06-21T07:17:16.608819+00:00
+2006993,0x2a411edc2ef12c04d4e460ce2244d3db0fda6ae13c20472197df6206c3f5700c,387334,Counter-Strike: Eternal Fire Academy vs CSGOPOSITIVE (BO3) - Exort Series Main Stage,Map Handicap: EF.A (-1.5) vs CSGOPOSITIVE (+1.5),,,29.990000000000002,,,,,,,2026-04-17T21:40:00Z,2026-06-21T10:53:56.481458+00:00
