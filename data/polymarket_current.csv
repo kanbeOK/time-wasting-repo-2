@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2003437,0x1e5157afa558fe1ee9381ab352689cd6ed9f7c69e36035fcd82a5fc2bd3a372b,387316,Counter-Strike: RoundsGG vs eternal premium (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,433.45464100000004,,,,,,,2026-04-17T23:15:00Z,2026-06-20T23:17:55.954721+00:00
+2003437,0x1e5157afa558fe1ee9381ab352689cd6ed9f7c69e36035fcd82a5fc2bd3a372b,387316,Counter-Strike: RoundsGG vs eternal premium (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,433.45464100000004,,,,,,,2026-04-17T23:15:00Z,2026-06-21T02:00:46.813120+00:00
