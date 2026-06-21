@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2005156,0x1f14bdbf92b0eb009fe8b995a3011ee503ec79b37919b85bb53ec81ae78422c1,388099,Counter-Strike: ALKA vs Players (BO1) - Gamers Club Liga Série A Group C,Map 1: Odd/Even Total Rounds?,,0.0558,10.48125,,,,,,,2026-04-20T23:00:00Z,2026-06-21T22:19:57.515150+00:00
+2005156,0x1f14bdbf92b0eb009fe8b995a3011ee503ec79b37919b85bb53ec81ae78422c1,388099,Counter-Strike: ALKA vs Players (BO1) - Gamers Club Liga Série A Group C,Map 1: Odd/Even Total Rounds?,,0.0558,10.48125,,,,,,,2026-04-20T23:00:00Z,2026-06-21T23:52:53.561379+00:00
