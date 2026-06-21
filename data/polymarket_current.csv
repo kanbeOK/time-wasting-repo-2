@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2004725,0x4b4da8c999f42dfc9a569d6fc6784a8dbf9ec8d883ceac4d2714b8ebe35ac6f4,387814,Counter-Strike: AaB Esport vs BIG Academy (BO3) - European Pro League Regular Group A,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-17T14:10:00Z,2026-06-21T17:09:11.238291+00:00
+2004737,0xaf42fdca66751b6eea3ee5da049a4e6d6300d78e4ded138cefcfb6797369c06a,387815,Counter-Strike: XI Esport vs Sangal ALTERS (BO3) - European Pro League Regular Group A,Map 3: Odd/Even Total Rounds?,,,185.540189,,,,,,,2026-04-17T16:40:00Z,2026-06-21T19:03:57.297197+00:00
