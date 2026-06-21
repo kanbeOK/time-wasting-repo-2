@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2006993,0x2a411edc2ef12c04d4e460ce2244d3db0fda6ae13c20472197df6206c3f5700c,387334,Counter-Strike: Eternal Fire Academy vs CSGOPOSITIVE (BO3) - Exort Series Main Stage,Map Handicap: EF.A (-1.5) vs CSGOPOSITIVE (+1.5),,,29.990000000000002,,,,,,,2026-04-17T21:40:00Z,2026-06-21T13:13:45.879935+00:00
+2004725,0x4b4da8c999f42dfc9a569d6fc6784a8dbf9ec8d883ceac4d2714b8ebe35ac6f4,387814,Counter-Strike: AaB Esport vs BIG Academy (BO3) - European Pro League Regular Group A,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-17T14:10:00Z,2026-06-21T15:28:42.052860+00:00
