@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2004737,0xaf42fdca66751b6eea3ee5da049a4e6d6300d78e4ded138cefcfb6797369c06a,387815,Counter-Strike: XI Esport vs Sangal ALTERS (BO3) - European Pro League Regular Group A,Map 3: Odd/Even Total Rounds?,,,185.540189,,,,,,,2026-04-17T16:40:00Z,2026-06-21T19:03:57.297197+00:00
+2005094,0x0f9e0629c01d348a6c467777a75ef4ad955df0835019e3078583678614a2bbaf,388071,Counter-Strike: 8Sins vs playersclub (BO3) - CCT Europe Challengers Series 1 Playoffs,Map 3: Odd/Even Total Rounds?,,,39.99,,,,,,,2026-04-18T18:45:00Z,2026-06-21T20:54:18.108737+00:00
