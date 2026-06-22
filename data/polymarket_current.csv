@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2008040,0x05741fc99eb824383477a2ffeda5c3b4aff3ff749f6677342429fd50ad0c7014,389582,Counter-Strike: LPH Gaming vs NAVI Junior (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-18T14:15:00Z,2026-06-22T11:16:30.738176+00:00
+2008040,0x05741fc99eb824383477a2ffeda5c3b4aff3ff749f6677342429fd50ad0c7014,389582,Counter-Strike: LPH Gaming vs NAVI Junior (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-18T14:15:00Z,2026-06-22T16:13:36.645360+00:00
