@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2008040,0x05741fc99eb824383477a2ffeda5c3b4aff3ff749f6677342429fd50ad0c7014,389582,Counter-Strike: LPH Gaming vs NAVI Junior (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-18T14:15:00Z,2026-06-22T16:13:36.645360+00:00
+2008597,0xbc75a1bbf0d8735a28d688e2213dd0e107fd75dee22b63c96ad3871096dd7b1b,389887,Will Zohran Mamdani release another song?,Will Zohran Mamdani release another song?,,33.2262,105.79,,,,,,,2026-12-31T00:00:00Z,2026-06-22T19:55:03.517845+00:00
