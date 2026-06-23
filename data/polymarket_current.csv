@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2012008,0x0534dc8145ec6d86666512d57fe528c76621c726acabb06bdc552fa8d28c2b97,391143,Counter-Strike: AaB Esport vs ELITEN (BO1) - Parken Challenger Championship Group A,Map 1: Odd/Even Total Rounds?,,0.0,10.58,,,,,,,2026-04-18T16:10:00Z,2026-06-23T15:18:28.364398+00:00
+2012008,0x0534dc8145ec6d86666512d57fe528c76621c726acabb06bdc552fa8d28c2b97,391143,Counter-Strike: AaB Esport vs ELITEN (BO1) - Parken Challenger Championship Group A,Map 1: Odd/Even Total Rounds?,,0.0,10.58,,,,,,,2026-04-18T16:10:00Z,2026-06-23T17:27:40.335969+00:00
