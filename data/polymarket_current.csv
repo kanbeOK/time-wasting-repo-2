@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2008597,0xbc75a1bbf0d8735a28d688e2213dd0e107fd75dee22b63c96ad3871096dd7b1b,389887,Will Zohran Mamdani release another song?,Will Zohran Mamdani release another song?,,31.2262,105.79,,,,,,,2026-12-31T00:00:00Z,2026-06-22T23:52:16.787104+00:00
+2013111,0xef1c661b28f30df5460ed08b1c1e76fc898e8971a49db40c1282bae28c17ad68,390711,Counter-Strike: INFURITY Gaming vs Hermine Esports Club (BO3) - Exort Series Main Stage,Map Handicap: HEC (-1.5) vs INFURITY Gaming (+1.5),,0.0,1116.1499999999999,,,,,,,2026-04-18T15:30:00Z,2026-06-23T04:13:16.472835+00:00
