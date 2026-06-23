@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2012017,0x6786a1a370c5078cab444bc578577bfd36ebdf3ac58f19bda5f11e3852c5a151,391146,Counter-Strike: Sashi Academy vs Z7 Esports (BO1) - Parken Challenger Championship Group B,Map 1: Odd/Even Total Rounds?,,0.0,166.148,,,,,,,2026-04-18T15:30:00Z,2026-06-23T19:29:42.689547+00:00
+2013737,0xc1e198b3c0be6f9b8ffaddec1f832950a8ce9b0a65cb9f1c2503dc6102581a8a,391982,Bamin Real Potosí vs. Club ABB - More Markets,Bamin Real Potosí vs. Club ABB: Both Teams to Score,,61.465,72.328445,,,,,,,2026-05-14T22:00:00Z,2026-06-23T21:17:47.261883+00:00
