@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2013111,0xef1c661b28f30df5460ed08b1c1e76fc898e8971a49db40c1282bae28c17ad68,390711,Counter-Strike: INFURITY Gaming vs Hermine Esports Club (BO3) - Exort Series Main Stage,Map Handicap: HEC (-1.5) vs INFURITY Gaming (+1.5),,0.0,1116.1499999999999,,,,,,,2026-04-18T15:30:00Z,2026-06-23T04:13:16.472835+00:00
+2010736,0x340d3c2a4a2c2b387bb842cc94e4fccf56934ab436da1bbb0d7837dd49fe3a86,390712,Counter-Strike: HAVENs vs Ctrl Alt Defeat (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-18T18:45:00Z,2026-06-23T08:05:00.464131+00:00
