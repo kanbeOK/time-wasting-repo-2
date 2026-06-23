@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2010736,0x340d3c2a4a2c2b387bb842cc94e4fccf56934ab436da1bbb0d7837dd49fe3a86,390712,Counter-Strike: HAVENs vs Ctrl Alt Defeat (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-18T18:45:00Z,2026-06-23T08:05:00.464131+00:00
+2016006,0x8034142aa258e77f3f95b9f8e621a5d69a21559de081d389837a9115cdc441a3,390715,Counter-Strike: Wingman vs Wave Esports (BO3) - Exort Series Main Stage,Map Handicap: WING (-1.5) vs Wave Esports (+1.5),,,29.990000000000002,,,,,,,2026-04-19T00:30:00Z,2026-06-23T11:40:46.603200+00:00
