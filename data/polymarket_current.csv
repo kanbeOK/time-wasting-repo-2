@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2031012,0xd1bb2a13463a713e732e293cc8065e6dd132f93b0e8f09a0ee4f34e957373ef7,398406,Counter-Strike: Nebula In Chaox vs LPH Gaming (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-20T23:30:00Z,2026-06-24T18:19:47.609080+00:00
+2031420,0x9e9fafa2908439e3a0e1ad1b442172632be07332404fbf9af57a2f836693fcb2,398584,Counter-Strike: ZOTIX vs Clutchain Female (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,4.9901,,,,,,,2026-04-21T00:10:00Z,2026-06-24T20:19:53.794117+00:00
