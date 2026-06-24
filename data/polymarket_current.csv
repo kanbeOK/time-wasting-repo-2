@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2031420,0x9e9fafa2908439e3a0e1ad1b442172632be07332404fbf9af57a2f836693fcb2,398584,Counter-Strike: ZOTIX vs Clutchain Female (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,4.9901,,,,,,,2026-04-21T00:10:00Z,2026-06-24T20:19:53.794117+00:00
+2031442,0x88416df12d3b0586881cae89fc13e2007562ee1bd14dcb5a39f0064172a18bf7,398591,Counter-Strike: BIG EQUIPA vs Falcons Force (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,15.5,,,,,,,2026-04-21T00:10:00Z,2026-06-24T21:55:42.251866+00:00
