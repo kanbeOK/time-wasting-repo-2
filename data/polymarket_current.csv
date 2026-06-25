@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2373892,0xc0b86f7d763f85cc1756f8c8f7db483714deb39e9d79e946b5416dcd16f457a4,400089,Will Russia capture Verkhnia Tersa by...?,Will Russia capture Verkhnia Tersa by July 31?,,1988.4773,8723.661069999907,,,,,,,2026-07-31T00:00:00Z,2026-06-25T12:28:21.388884+00:00
+2036665,0x500fc6aac089c9e5e8e001e07dd63e01652bd7022e3234574757aefd14f4ec09,400490,MLB: Home Runs Leader,Will someone else hit the most home runs during the 2026 MLB regular season?,,0.0,0.0,,,,,,,2026-10-11T00:00:00Z,2026-06-25T15:28:06.500677+00:00
