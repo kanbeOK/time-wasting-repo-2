@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2036878,0xefd47b8e37ad1ca9636e3a6098cd32b3aaae4d9cb42f81924b35a2005eb128d8,400598,MLB: Doubles Leader,Will Player AW lead the MLB in doubles for the 2026 regular season?,,0.0,0.0,,,,,,,2026-10-11T00:00:00Z,2026-06-25T20:14:52.959196+00:00
+2037114,0x78601f54898bf8199833471414e2a9ed4dfd2c424407baeaacb034676d5a8df0,400690,Total crypto hack value in 2026?,Over $4B crypto hack value in 2026?,,99.2534,149.68623500000007,,,,,,,2027-01-01T05:00:00Z,2026-06-25T22:06:37.883652+00:00
