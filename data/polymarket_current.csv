@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2036665,0x500fc6aac089c9e5e8e001e07dd63e01652bd7022e3234574757aefd14f4ec09,400490,MLB: Home Runs Leader,Will someone else hit the most home runs during the 2026 MLB regular season?,,0.0,0.0,,,,,,,2026-10-11T00:00:00Z,2026-06-25T15:28:06.500677+00:00
+2036665,0x500fc6aac089c9e5e8e001e07dd63e01652bd7022e3234574757aefd14f4ec09,400490,MLB: Home Runs Leader,Will someone else hit the most home runs during the 2026 MLB regular season?,,0.0,0.0,,,,,,,2026-10-11T00:00:00Z,2026-06-25T17:32:39.637669+00:00
