@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2034771,0x4744ed09479e7348f47fb295f8e0fc7600e7ceb3085fcf881d9f278f0802ef8b,399953,Counter-Strike: OLDBOYS- vs OldBoys (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,5.0,,,,,,,2026-04-21T00:10:00Z,2026-06-25T06:16:01.797559+00:00
+2677044,0xf39f02e6d794c3bfcba332647fea6e2d130552a36b1df8416541a7b2063f83d7,400059,Will Russia capture Myropillia by...?,Will Russia capture Myropillia by December 31?,,15.8754,,,,,,,,2026-12-31T00:00:00Z,2026-06-25T09:54:24.948568+00:00
