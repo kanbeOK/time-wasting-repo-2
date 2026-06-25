@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2032924,0xae072896b892c50554b7e76e88d0bbf237be19b9b185ccbb7a89fc2bb8f66751,399293,Counter-Strike: Fire Flux Esports vs ALGO Esports (BO3) - United21 Group C,Map 3: Odd/Even Total Rounds?,,,50.0,,,,,,,2026-04-21T13:00:00Z,2026-06-25T01:33:11.492938+00:00
+2034771,0x4744ed09479e7348f47fb295f8e0fc7600e7ceb3085fcf881d9f278f0802ef8b,399953,Counter-Strike: OLDBOYS- vs OldBoys (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,5.0,,,,,,,2026-04-21T00:10:00Z,2026-06-25T06:16:01.797559+00:00
