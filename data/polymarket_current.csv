@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2042479,0x22b4ebb5c014a4225cc6bee4dac37368a6375925a3d240e33069f6dd2f59750e,402677,Counter-Strike: Z7 Esports vs Sashi Academy (BO3) - European Pro League Regular Group C,Games Total: O/U 2.5,,,55.58,,,,,,,2026-04-21T20:00:00Z,2026-06-26T20:19:44.892934+00:00
+2043289,0x8dae09d946aa26d436fbd9f6f3b413a91551a4638a8ae64d5289f4e350bdf043,402875,Counter-Strike: Passion Academy vs LPH Gaming (BO3) - United21 Group A,Map 3: Odd/Even Total Rounds?,,,61.157000000000004,,,,,,,2026-04-23T13:00:00Z,2026-06-26T21:49:06.167396+00:00
