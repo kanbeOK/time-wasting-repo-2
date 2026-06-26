@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2038068,0x0e772fa6ad7dafb0a711be7ab8a0c239000e7044ce04cbc88d2ba266c561cd1b,400880,MLB: Strikeouts Leader - Pitcher,Will Pitcher AX strike out the most batters during the 2026 MLB regular season?,,0.0,0.0,,,,,,,,2026-06-26T04:22:54.935356+00:00
+2039189,0x0edd1d593c97e40f196face2badc16d4264cb86792be66b8f12c440b47565061,401143,Who will Trump announce as next Secretary of Labor?,Will Donald Trump announce Person Z as the next United States Labor Secretary,,0.0,0.0,,,,,,,,2026-06-26T08:09:06.575238+00:00
