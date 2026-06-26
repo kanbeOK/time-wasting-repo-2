@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2043289,0x8dae09d946aa26d436fbd9f6f3b413a91551a4638a8ae64d5289f4e350bdf043,402875,Counter-Strike: Passion Academy vs LPH Gaming (BO3) - United21 Group A,Map 3: Odd/Even Total Rounds?,,,61.157000000000004,,,,,,,2026-04-23T13:00:00Z,2026-06-26T21:49:06.167396+00:00
+2043311,0x9062ad67c79d0a729610dee9a7eed714babb1eb1647e3cd9a1dd3a302d1ce591,402877,Counter-Strike: Imperial Academy vs BIG Academy (BO3) - United21 Group B,Map 3: Odd/Even Total Rounds?,,,50.0,,,,,,,2026-04-24T14:10:00Z,2026-06-26T23:15:39.663175+00:00
