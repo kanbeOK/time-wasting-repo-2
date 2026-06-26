@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2041322,0x72210c51ec2316846eb342c1f7efe878c4874848f5be171075f54950a3eaeab2,402064,Counter-Strike: aimclub vs CSGOPOSITIVE (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-21T17:30:00Z,2026-06-26T11:26:34.088151+00:00
+2041322,0x72210c51ec2316846eb342c1f7efe878c4874848f5be171075f54950a3eaeab2,402064,Counter-Strike: aimclub vs CSGOPOSITIVE (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-21T17:30:00Z,2026-06-26T13:33:16.743203+00:00
