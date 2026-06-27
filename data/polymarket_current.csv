@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2045556,0xbc2bd489999a67140c9e89633453eb9c2cba202b010cd1c6efdc6ea1da03e9ae,403623,Vesuvius eruption with 1+ VEI in 2026?,Vesuvius eruption with 1+ VEI in 2026?,,38.861,434.12843099999986,,,,,,,2026-12-31T00:00:00Z,2026-06-27T17:39:35.402472+00:00
+2382742,0x3a07dcd7a15b4b6d48e9489a60532094f3e3d03b1b79ba9f84d1fddc9c29c36b,403872,Will JD Vance visit Pakistan by...?,Will JD Vance visit Pakistan by June 30?,,10923.64068,4492.002289999999,,,,,,,2026-06-30T00:00:00Z,2026-06-27T19:40:04.279933+00:00
