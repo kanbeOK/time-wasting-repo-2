@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2044383,0xe6a03461ae4256d65d3de66a297e73be7c0c9848a0d381a67577d9a29c3b903f,403382,Pro Football: A.J. Brown to join Patriots by regular season start?,Pro Football: A.J. Brown to join Patriots by regular season start?,,853.46734,678.029405,,,,,,,2026-09-10T00:00:00Z,2026-06-27T05:34:23.787260+00:00
+2044846,0x9e137e1cc87a7ed7d3b9b37853abcea293cf19ba1f69e666115c38c6a3cb92a2,403518,FL-20 Democratic Primary Winner,Will another candidate be the Democratic nominee for FL-20?,,0.0,0.0,,,,,,,2026-08-18T00:00:00Z,2026-06-27T08:46:57.555989+00:00
