@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2043311,0x9062ad67c79d0a729610dee9a7eed714babb1eb1647e3cd9a1dd3a302d1ce591,402877,Counter-Strike: Imperial Academy vs BIG Academy (BO3) - United21 Group B,Map 3: Odd/Even Total Rounds?,,,50.0,,,,,,,2026-04-24T14:10:00Z,2026-06-26T23:15:39.663175+00:00
+2043534,0xc813dbd985ca4cf296ea8109e209f8ebabc85e385066e8c29d6da83c1dd10bc0,402970,Counter-Strike: KUUSAMO.gg vs ALGO Esports (BO3) - European Pro League Regular Group D,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-24T16:45:00Z,2026-06-27T01:30:04.377097+00:00
