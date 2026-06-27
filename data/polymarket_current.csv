@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2382742,0x3a07dcd7a15b4b6d48e9489a60532094f3e3d03b1b79ba9f84d1fddc9c29c36b,403872,Will JD Vance visit Pakistan by...?,Will JD Vance visit Pakistan by June 30?,,11974.5458,4492.002289999999,,,,,,,2026-06-30T00:00:00Z,2026-06-27T21:13:00.798968+00:00
+2046508,0xab5578566715f72cbe05c9faec9090d59799c5493848f46fd758bb68025508b3,403985,Russia Parliamentary Election: Turnout,Will voter turnout be 62% or higher in the 2026 Russian parliamentary election?,,15627.693,1964.5025,,,,,,,2026-09-20T00:00:00Z,2026-06-27T22:38:22.113157+00:00
