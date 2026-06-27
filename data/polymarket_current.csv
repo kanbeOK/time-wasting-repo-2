@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2045074,0xb21e0e7bbbca41ca0fc5484a6020be4796fc9ad718eb5dd56ccaa4f5279ad3a0,403556,MI-07 Democratic Primary Winner,Will Candidate C be the Democratic nominee for MI-07?,,0.0,0.0,,,,,,,2026-08-04T00:00:00Z,2026-06-27T11:01:28.396762+00:00
+2045143,0x294957921c9c918412fb581488be52ae5289399ff0176b909b820bfa6766fe0c,403557,Next Prime Minister of Italy?,Will Person AV be the next Prime Minister of Italy?,,0.0,0.0,,,,,,,2028-12-31T00:00:00Z,2026-06-27T12:53:18.928119+00:00
