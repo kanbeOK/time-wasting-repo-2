@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2047220,0x643bcf292537a35752d7d75abaf1e331648e3efea5e7dde0609e6f84da547ec3,404236,WNBA: 2026 Rookie of the Year,Will someone else win the 2026 WNBA Rookie of the Year award?,,0.0,0.0,,,,,,,2026-09-25T00:00:00Z,2026-06-28T00:10:40.109910+00:00
+2053261,0x8745778ddc94f38b5a4134e30e77c8307798dfbd2869bc0bed0714cc93b10471,406856,Counter-Strike: LPH Gaming vs BOJONG (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-26T15:30:00Z,2026-06-28T05:05:06.765626+00:00
