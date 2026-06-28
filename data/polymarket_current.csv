@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2053261,0x8745778ddc94f38b5a4134e30e77c8307798dfbd2869bc0bed0714cc93b10471,406856,Counter-Strike: LPH Gaming vs BOJONG (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-26T15:30:00Z,2026-06-28T05:05:06.765626+00:00
+2053337,0x21d705e5149853a31ee7eb5e1256149513c975d7e9f506500d5d0d37a55e6283,406889,Anyone charged over SPLC extremism funding?,Anyone charged over SPLC extremism funding?,,426.6725,303.848555,,,,,,,2026-06-30T00:00:00Z,2026-06-28T08:33:49.291411+00:00
