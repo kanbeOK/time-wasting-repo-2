@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2053337,0x21d705e5149853a31ee7eb5e1256149513c975d7e9f506500d5d0d37a55e6283,406889,Anyone charged over SPLC extremism funding?,Anyone charged over SPLC extremism funding?,,426.6725,303.848555,,,,,,,2026-06-30T00:00:00Z,2026-06-28T08:33:49.291411+00:00
+2053337,0x21d705e5149853a31ee7eb5e1256149513c975d7e9f506500d5d0d37a55e6283,406889,Anyone charged over SPLC extremism funding?,Anyone charged over SPLC extremism funding?,,144.4944,303.848555,,,,,,,2026-06-30T00:00:00Z,2026-06-28T11:12:54.126319+00:00
