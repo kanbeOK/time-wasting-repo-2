@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2053789,0x678d3912bcf0ef2027dacbb365bf1fd128107645214a1567dd64a2748bd738f8,407064,Zoe Kravitz and Harry Styles engaged by August 31?,Zoe Kravitz and Harry Styles engaged by August 31?,,314.9766,804.3410499999998,,,,,,,2026-08-31T00:00:00Z,2026-06-28T14:54:19.472392+00:00
+2054630,0x84b7dd9534071ad398d38cd71eacb6e2d2800b21131be6171a8edd667eba3309,407475,Lalit Modi to announce new MMA league by the end of 2026?,Lalit Modi to announce new MMA league by the end of 2026?,,146.5678,4204.604464000001,,,,,,,2027-01-01T00:00:00Z,2026-06-28T16:19:56.889770+00:00
