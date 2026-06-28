@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2046508,0xab5578566715f72cbe05c9faec9090d59799c5493848f46fd758bb68025508b3,403985,Russia Parliamentary Election: Turnout,Will voter turnout be 62% or higher in the 2026 Russian parliamentary election?,,15627.693,1964.5025,,,,,,,2026-09-20T00:00:00Z,2026-06-27T22:38:22.113157+00:00
+2047220,0x643bcf292537a35752d7d75abaf1e331648e3efea5e7dde0609e6f84da547ec3,404236,WNBA: 2026 Rookie of the Year,Will someone else win the 2026 WNBA Rookie of the Year award?,,0.0,0.0,,,,,,,2026-09-25T00:00:00Z,2026-06-28T00:10:40.109910+00:00
