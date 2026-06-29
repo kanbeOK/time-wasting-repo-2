@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2055046,0xdd11bc66dd89d80bbf4f6e8f5a1af8bbeada5508097636a545c0e5a5fe47fcae,407729,Kim Kardashian and Lewis Hamilton confirmed relationship by June 30?,Kim Kardashian and Lewis Hamilton confirmed relationship by June 30?,,307.5712,2545.0165850000003,,,,,,,2026-06-30T00:00:00Z,2026-06-29T00:16:13.117870+00:00
+2055344,0x0a1a5f0cd3445aee7ec41eb2756dada597876031c718f31a9bf6ddde8250be6f,407875,Amazon 2026 capex above ___?,Amazon 2026 capex above $180B?,,179.4941,1594.8062300000001,,,,,,,2027-04-30T00:00:00Z,2026-06-29T05:15:06.903594+00:00
