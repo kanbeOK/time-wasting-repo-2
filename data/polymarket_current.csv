@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2055344,0x0a1a5f0cd3445aee7ec41eb2756dada597876031c718f31a9bf6ddde8250be6f,407875,Amazon 2026 capex above ___?,Amazon 2026 capex above $180B?,,222.9,1598.3062300000001,,,,,,,2027-04-30T00:00:00Z,2026-06-29T10:10:43.425950+00:00
+2055344,0x0a1a5f0cd3445aee7ec41eb2756dada597876031c718f31a9bf6ddde8250be6f,407875,Amazon 2026 capex above ___?,Amazon 2026 capex above $180B?,,192.8968,1598.3062300000001,,,,,,,2027-04-30T00:00:00Z,2026-06-29T14:35:41.201582+00:00
