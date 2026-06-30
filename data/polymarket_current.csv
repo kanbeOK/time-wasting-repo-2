@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2062150,0x5b8633fed4fcabd7d1b03ea94991069493ce3d2ec68628e1637188774d91e2f0,410724,Counter-Strike: Fire Flux Esports vs NAVI Junior (BO3) - United21 Group C,Map 2: Odd/Even Total Kills?,,,,,,,,,,2026-04-25T12:00:00Z,2026-06-30T22:19:43.438831+00:00
+2062218,0x788a06fb0e443cecb6e6187336f18203f864a80b87e349b9152c755f945e1ae0,410741,South Korea GDP growth (YoY) in Q2 2026?,Will South Korea GDP growth in Q2 2026 be at least 4.5%?,,7855.06201,1011.890314,,,,,,,2026-07-23T00:00:00Z,2026-06-30T23:45:25.846402+00:00
