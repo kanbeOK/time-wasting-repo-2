@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2059900,0xb7cffeb6ca3e619402bda81e08f593f47ae5f5d5069377aa3e0a533edcf5392a,408783,Counter-Strike: LPH Gaming vs Drama eSports (BO3) - Exort Series Main Stage,Map Handicap: DRAMA (-1.5) vs LPH Gaming (+1.5),,,55.58,,,,,,,2026-04-23T18:45:00Z,2026-06-29T23:06:47.747743+00:00
+2059225,0x97e63c9a15a64b38dce6155b6b257434c335bb4b81c54bc09f94b63008dd6406,409504,Counter-Strike: largadosypelados vs Guara Esports (BO3) - Gamers Club Liga Série A Group D,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-23T23:45:00Z,2026-06-30T01:32:18.011020+00:00
