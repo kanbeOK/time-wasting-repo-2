@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2060292,0xe34946ce0f6f12be260d41c4cb235b97f4a93a708ded9497d8882cc3b0fa9e92,410009,Who will be cast on Dancing With the Stars: Season 35?,Will Ashtin Earle be cast in Dancing With the Stars: Season 35?,,9.2967,1.219511,,,,,,,2027-03-31T00:00:00Z,2026-06-30T18:05:25.365779+00:00
+2062005,0x8bc43739611f5d6e2c8b975b5f3a98425b8b1250995cb1c978ee722d2f075d3e,410630,Japan recession in 2026?,Japan recession in 2026?,,882.8013,3002.1851329999995,,,,,,,2027-03-31T00:00:00Z,2026-06-30T20:30:53.953072+00:00
