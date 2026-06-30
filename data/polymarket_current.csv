@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2062005,0x8bc43739611f5d6e2c8b975b5f3a98425b8b1250995cb1c978ee722d2f075d3e,410630,Japan recession in 2026?,Japan recession in 2026?,,882.8013,3002.1851329999995,,,,,,,2027-03-31T00:00:00Z,2026-06-30T20:30:53.953072+00:00
+2062150,0x5b8633fed4fcabd7d1b03ea94991069493ce3d2ec68628e1637188774d91e2f0,410724,Counter-Strike: Fire Flux Esports vs NAVI Junior (BO3) - United21 Group C,Map 2: Odd/Even Total Kills?,,,,,,,,,,2026-04-25T12:00:00Z,2026-06-30T22:19:43.438831+00:00
