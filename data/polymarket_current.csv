@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2059225,0x97e63c9a15a64b38dce6155b6b257434c335bb4b81c54bc09f94b63008dd6406,409504,Counter-Strike: largadosypelados vs Guara Esports (BO3) - Gamers Club Liga Série A Group D,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-23T23:45:00Z,2026-06-30T01:32:18.011020+00:00
+2060158,0x9e9df466ed2c48b58dd22a196550c3d92e516ab05931fcf87f1fe5a9d8882813,409920,Who will win Dancing with the Stars: Season 35?,Will another contestant win Dancing With the Stars: Season 35?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-06-30T06:21:10.015024+00:00
