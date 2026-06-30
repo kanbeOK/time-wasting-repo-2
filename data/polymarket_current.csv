@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2060158,0x9e9df466ed2c48b58dd22a196550c3d92e516ab05931fcf87f1fe5a9d8882813,409920,Who will win Dancing with the Stars: Season 35?,Will another contestant win Dancing With the Stars: Season 35?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-06-30T10:09:16.801610+00:00
+2060158,0x9e9df466ed2c48b58dd22a196550c3d92e516ab05931fcf87f1fe5a9d8882813,409920,Who will win Dancing with the Stars: Season 35?,Will another contestant win Dancing With the Stars: Season 35?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-06-30T12:30:27.170942+00:00
