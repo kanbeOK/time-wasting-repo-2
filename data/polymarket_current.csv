@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2125425,0x7804ef0fc4026e02ba004755e83ad2eed8e8a7af0ca6ec4206cf3361537056d5,434672,Will Russia capture Prymorske by...?,"Will Russia capture Prymorske by September 30, 2026?",,5675.4034,8871.438633999987,,,,,,,2026-12-31T00:00:00Z,2026-07-01T12:13:44.247396+00:00
+2126073,0x31aadde7e08499bf6a41c713d0c649d836dbc70337bb52fdc6ff80e4be8b1a52,434951,Trump goes to space in 2026?,Trump goes to space in 2026?,,66896.63306,35910.76387900004,,,,,,,2026-12-31T00:00:00Z,2026-07-01T15:21:25.088331+00:00
