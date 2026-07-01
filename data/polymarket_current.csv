@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2126073,0x31aadde7e08499bf6a41c713d0c649d836dbc70337bb52fdc6ff80e4be8b1a52,434951,Trump goes to space in 2026?,Trump goes to space in 2026?,,66896.63306,35910.76387900004,,,,,,,2026-12-31T00:00:00Z,2026-07-01T15:21:25.088331+00:00
+2126198,0x007addbdcb1468d897d4e12fca5a0d96a46cbfece89b2ec5919925939d4050d9,435013,Counter-Strike: BIG Academy vs KUUSAMO.gg (BO3) - United21 Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-01T17:00:00Z,2026-07-01T17:30:42.349679+00:00
