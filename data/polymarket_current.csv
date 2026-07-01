@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2062218,0x788a06fb0e443cecb6e6187336f18203f864a80b87e349b9152c755f945e1ae0,410741,South Korea GDP growth (YoY) in Q2 2026?,Will South Korea GDP growth in Q2 2026 be at least 4.5%?,,7855.06201,1011.890314,,,,,,,2026-07-23T00:00:00Z,2026-06-30T23:45:25.846402+00:00
+2065794,0xf30e88bc94b9ddebd6f5aa290e3f5e74cbedb3a4345972c77a7997f750e156b2,412229,Counter-Strike: Spirit Academy vs eternal premium (BO3) - Exort Series Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-24T22:25:00Z,2026-07-01T04:46:10.838838+00:00
