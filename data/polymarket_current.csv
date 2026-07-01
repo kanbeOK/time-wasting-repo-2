@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2065794,0xf30e88bc94b9ddebd6f5aa290e3f5e74cbedb3a4345972c77a7997f750e156b2,412229,Counter-Strike: Spirit Academy vs eternal premium (BO3) - Exort Series Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-04-24T22:25:00Z,2026-07-01T04:46:10.838838+00:00
+2118271,0x72c0a78cc4255678e80c3b13117a3d6c4134151963cb2e8bfb62478a71e5385e,431896,Bank of Brazil decision in August?,Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?,,9174.9197,25389.36656,,,,,,,2026-08-04T00:00:00Z,2026-07-01T08:52:21.907421+00:00
