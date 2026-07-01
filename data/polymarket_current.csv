@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2126198,0x007addbdcb1468d897d4e12fca5a0d96a46cbfece89b2ec5919925939d4050d9,435013,Counter-Strike: BIG Academy vs KUUSAMO.gg (BO3) - United21 Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-01T17:00:00Z,2026-07-01T17:30:42.349679+00:00
+2126405,0x747f998499960ba4e1fb9af126a2d266d69c490f4a991a8568c9836088a88374,435072,Central Bank of Colombia decision in July?,Will the Central Bank of Colombia increase the monetary policy interest rate by 50+ bps at the July meeting?,,140.0718,391.73934299999996,,,,,,,2026-07-31T00:00:00Z,2026-07-01T20:05:38.259204+00:00
