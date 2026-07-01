@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2118271,0x72c0a78cc4255678e80c3b13117a3d6c4134151963cb2e8bfb62478a71e5385e,431896,Bank of Brazil decision in August?,Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the August meeting?,,9174.9197,25389.36656,,,,,,,2026-08-04T00:00:00Z,2026-07-01T08:52:21.907421+00:00
+2125425,0x7804ef0fc4026e02ba004755e83ad2eed8e8a7af0ca6ec4206cf3361537056d5,434672,Will Russia capture Prymorske by...?,"Will Russia capture Prymorske by September 30, 2026?",,5675.4034,8871.438633999987,,,,,,,2026-12-31T00:00:00Z,2026-07-01T12:13:44.247396+00:00
