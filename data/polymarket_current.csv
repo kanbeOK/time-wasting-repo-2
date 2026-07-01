@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2131324,0xca50a513c5eda0a70da9119bd025bcff2622f83aae9fff230cc6f20b2ec96cc6,435160,Counter-Strike: Prestige vs ALGO Esports (BO3) - European Pro League Regular Playoffs,Map Handicap: PRE (-1.5) vs ALGO Esports (+1.5),,,116.0,,,,,,,2026-05-01T14:00:00Z,2026-07-01T22:05:10.988289+00:00
+2127770,0x0b6b84d00ea2098b9cd042834a00eb1097331e667101f83379de9410b1aa94d5,435161,Counter-Strike: Imperial Academy vs ReThink (BO3) - European Pro League Regular Playoffs,Map Handicap: RT (-1.5) vs Imperial Academy (+1.5),,,50.0,,,,,,,2026-05-01T16:30:00Z,2026-07-01T23:52:38.318988+00:00
