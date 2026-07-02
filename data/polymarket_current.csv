@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2698284,0xdd8a05631aa0c5a1c1e7f2e223a28b4ec3452c926757202ed2bfee64345b0531,435306,Sinaloa Gov. Ruben Rocha extradited to US by...?,Sinaloa Gov. Ruben Rocha extradited to US by July 31?,,11753.3352,1908.3060829999997,,,,,,,2026-07-31T00:00:00Z,2026-07-02T04:12:56.385824+00:00
+2127379,0xaffebc94419e8e76fed61d5f38855c33081ca7eb81e4ee2f0a0cf66edbbb60c7,435390,Argentina Presidential Election Winner,Will someone else win the 2027 Argentina presidential election?,,0.0,0.0,,,,,,,2027-10-24T00:00:00Z,2026-07-02T07:51:03.942360+00:00
