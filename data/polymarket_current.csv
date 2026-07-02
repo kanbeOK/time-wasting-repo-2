@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2129296,0x644762669ddcefc9a59866175ce7f9d59cd07ea715bdcb4e3654772131de351c,436462,Germany GDP growth in Q2 2026?,Will Germany GDP growth in Q2 2026 be at least 1.3%?,,62.84495,144.91000000000003,,,,,,,2026-07-30T06:00:00Z,2026-07-02T17:58:09.487500+00:00
+2130440,0xb9a300292f4d8b01c19a26cdc3ca8b4936f8aca27f397e2f24be24d8f1a372a9,436693,Counter-Strike: INFURITY Gaming vs MAJIX ESPORTS (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-01T18:40:00Z,2026-07-02T19:45:18.100247+00:00
