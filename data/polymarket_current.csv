@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2127770,0x0b6b84d00ea2098b9cd042834a00eb1097331e667101f83379de9410b1aa94d5,435161,Counter-Strike: Imperial Academy vs ReThink (BO3) - European Pro League Regular Playoffs,Map Handicap: RT (-1.5) vs Imperial Academy (+1.5),,,50.0,,,,,,,2026-05-01T16:30:00Z,2026-07-01T23:52:38.318988+00:00
+2698284,0xdd8a05631aa0c5a1c1e7f2e223a28b4ec3452c926757202ed2bfee64345b0531,435306,Sinaloa Gov. Ruben Rocha extradited to US by...?,Sinaloa Gov. Ruben Rocha extradited to US by July 31?,,11753.3352,1908.3060829999997,,,,,,,2026-07-31T00:00:00Z,2026-07-02T04:12:56.385824+00:00
