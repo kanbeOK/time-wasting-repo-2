@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2169896,0xbbed59a986769ba4fa495c1549b28b0280733fe376e2c2ab1e9787b7ff6f8fe2,437851,Next OpenAI Model: Arena Debut?,Will the next model released by OpenAI debut at a score of at least 1450?,,10933.05399,46161.81708599998,,,,,,,2026-12-31T00:00:00Z,2026-07-03T15:34:53.395163+00:00
+2132429,0x27a634bf188a40335d2a4793c9249de4636bcf9ffd2d0ed80b4862c9312e2991,437856,KBO: Lotte Giants vs. KT Wiz,KBO: Lotte Giants vs. KT Wiz,,38.77842,8869.975292999994,,,,,,,2026-05-14T09:30:00Z,2026-07-03T17:40:58.226873+00:00
