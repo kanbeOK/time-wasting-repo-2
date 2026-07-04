@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2138841,0x37237c1121b6051fb66d55bc8db7549246b98aa992af673013fa50a7d8c29b26,439805,Counter-Strike: NeverPlay vs VP.Future (BO3) - Exort Series Contenders Stage,Map Handicap: VP.F (-1.5) vs NeverPlay (+1.5),,,50.0,,,,,,,2026-05-02T21:40:00Z,2026-07-04T07:24:38.675338+00:00
+2142296,0x11e9ac824a76a142855365562130df34e8cb076232e8b4e3775d384e9818d345,442125,Counter-Strike: INFURITY Gaming vs LPH Gaming (BO3) - United21 Playoffs,Map 3: Odd/Even Total Rounds?,,,50.0,,,,,,,2026-05-03T14:10:00Z,2026-07-04T09:38:38.596752+00:00
