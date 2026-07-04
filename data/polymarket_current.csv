@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2676754,0xaa21533cfa9cfa630fe59287767ca8dce4b8c68c39cdf86f75a3bdc16435c0fb,438089,Will Russia capture Rai-Oleksandrivka by...?,Will Russia capture Rai-Oleksandrivka by September 30?,,3736.2325,1008.7738879999996,,,,,,,2026-09-30T00:00:00Z,2026-07-03T22:37:05.878121+00:00
+2676754,0xaa21533cfa9cfa630fe59287767ca8dce4b8c68c39cdf86f75a3bdc16435c0fb,438089,Will Russia capture Rai-Oleksandrivka by...?,Will Russia capture Rai-Oleksandrivka by September 30?,,3663.2072,1008.7738879999996,,,,,,,2026-09-30T00:00:00Z,2026-07-04T00:13:06.033386+00:00
