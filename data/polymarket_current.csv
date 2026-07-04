@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2146103,0x7121fe1003b15008b02789eab0c04883ad04b05a07e242678359fa977a492a8d,443590,Counter-Strike: Oldboys vs NeverPlay (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-03T18:55:00Z,2026-07-04T16:34:10.841789+00:00
+2146103,0x7121fe1003b15008b02789eab0c04883ad04b05a07e242678359fa977a492a8d,443590,Counter-Strike: Oldboys vs NeverPlay (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-03T18:55:00Z,2026-07-04T18:08:29.218791+00:00
