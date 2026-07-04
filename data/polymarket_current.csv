@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2136593,0x27ffe2e0db5576403bd8e640ac6ef43bb35318dc03c3c7d018e871191c42191f,439803,Counter-Strike: Pitstop crew vs Hermine Esports Club (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,49.973,,,,,,,2026-05-02T17:30:00Z,2026-07-04T04:22:01.373058+00:00
+2138841,0x37237c1121b6051fb66d55bc8db7549246b98aa992af673013fa50a7d8c29b26,439805,Counter-Strike: NeverPlay vs VP.Future (BO3) - Exort Series Contenders Stage,Map Handicap: VP.F (-1.5) vs NeverPlay (+1.5),,,50.0,,,,,,,2026-05-02T21:40:00Z,2026-07-04T07:24:38.675338+00:00
