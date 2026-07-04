@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2676754,0xaa21533cfa9cfa630fe59287767ca8dce4b8c68c39cdf86f75a3bdc16435c0fb,438089,Will Russia capture Rai-Oleksandrivka by...?,Will Russia capture Rai-Oleksandrivka by September 30?,,3663.2072,1008.7738879999996,,,,,,,2026-09-30T00:00:00Z,2026-07-04T00:13:06.033386+00:00
+2136593,0x27ffe2e0db5576403bd8e640ac6ef43bb35318dc03c3c7d018e871191c42191f,439803,Counter-Strike: Pitstop crew vs Hermine Esports Club (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,49.973,,,,,,,2026-05-02T17:30:00Z,2026-07-04T04:22:01.373058+00:00
