@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2142429,0x4b1205f15acbe056307f5fc5d6022808f0a2a10f67a3f61cbb59edd821cc823a,442161,Lillestrøm SK vs. Viking FK,Will Viking FK win on 2026-05-30?,,123.41234,1802.1947450000002,,,,,,,2026-05-30T14:00:00Z,2026-07-04T15:13:44.982797+00:00
+2146103,0x7121fe1003b15008b02789eab0c04883ad04b05a07e242678359fa977a492a8d,443590,Counter-Strike: Oldboys vs NeverPlay (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-03T18:55:00Z,2026-07-04T16:34:10.841789+00:00
