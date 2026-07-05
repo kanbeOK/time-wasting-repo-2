@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2146114,0xcfe9a75599cd9f94fe6f23028b0ea10d843168ee32db5845d61cb92d5997c5b3,443591,Counter-Strike: MAJIX ESPORTS vs Younglings (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,45.681000000000004,,,,,,,2026-05-03T20:30:00Z,2026-07-05T04:42:36.993899+00:00
+2147774,0xab6c926d86896b80cf4a6d7979ebbb3e7fe2b4049c2db789a86184bde4eaf212,444499,Counter-Strike: RED Canids Academy vs QUINTESSÊNCIA (BO3) - Gamers Club Liga Série A Group A,Map 3: Odd/Even Total Rounds?,,,,,,,,,,2026-05-04T06:20:00Z,2026-07-05T08:07:33.195124+00:00
