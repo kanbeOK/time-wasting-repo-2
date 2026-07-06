@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2154167,0xceb11a49f0578ef6f1b95f4058a8321b186975e65c825db4707d37b6a87159fd,447622,Counter-Strike: METANOIA WOLVES vs 9daplug (BO3) - Gamers Club Liga Série A Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-06T00:00:00Z,2026-07-06T14:43:39.027300+00:00
+2154920,0x32e869cb0f7316273417ec79aa94c8a139f8c390ebff8a24150a18753d257f8e,447964,Will GameStop acquire eBay?,Will GameStop acquire eBay?,,138103.5529,1888488.8680069882,,,,,,,2026-12-31T00:00:00Z,2026-07-06T17:48:45.456810+00:00
