@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2149899,0x69f6afb420ceb50db61ec2d5012001f4ba9387df07b51c7b10f827355efbb72a,445402,CD Real Tomayapo vs. Club Independiente Petrolero,Will Club Independiente Petrolero win on 2026-05-30?,,238.63375,148.921526,,,,,,,2026-05-31T00:00:00Z,2026-07-06T06:06:06.614369+00:00
+2149908,0xeb46b94cafae9742373be2d73118781995ce9b922b8dccd6725bf6e510f2cc80,445405,Bamin Real Potosí vs. CA Nacional Potosí,Will CA Nacional Potosí win on 2026-05-31?,,173.983,,,,,,,,2026-05-31T19:00:00Z,2026-07-06T11:13:53.200278+00:00
