@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2149899,0x69f6afb420ceb50db61ec2d5012001f4ba9387df07b51c7b10f827355efbb72a,445402,CD Real Tomayapo vs. Club Independiente Petrolero,Will Club Independiente Petrolero win on 2026-05-30?,,234.05881,148.921526,,,,,,,2026-05-31T00:00:00Z,2026-07-06T01:17:09.564824+00:00
+2149899,0x69f6afb420ceb50db61ec2d5012001f4ba9387df07b51c7b10f827355efbb72a,445402,CD Real Tomayapo vs. Club Independiente Petrolero,Will Club Independiente Petrolero win on 2026-05-30?,,238.63375,148.921526,,,,,,,2026-05-31T00:00:00Z,2026-07-06T06:06:06.614369+00:00
