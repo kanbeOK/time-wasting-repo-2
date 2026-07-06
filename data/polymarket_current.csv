@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2154920,0x32e869cb0f7316273417ec79aa94c8a139f8c390ebff8a24150a18753d257f8e,447964,Will GameStop acquire eBay?,Will GameStop acquire eBay?,,126795.4013,1888546.4833899883,,,,,,,2026-12-31T00:00:00Z,2026-07-06T20:08:47.465401+00:00
+2154920,0x32e869cb0f7316273417ec79aa94c8a139f8c390ebff8a24150a18753d257f8e,447964,Will GameStop acquire eBay?,Will GameStop acquire eBay?,,129191.4217,1890558.4833899883,,,,,,,2026-12-31T00:00:00Z,2026-07-06T21:57:24.219080+00:00
