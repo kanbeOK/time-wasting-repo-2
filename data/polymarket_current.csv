@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2155003,0x5b334c510f1b9f4d7cf7ebf1eeeff9cb7b16106027d921bd4e2bf742110be02b,448040,Hantavirus vaccine in 2026? ,Hantavirus vaccine in 2026? ,,27904.7027,127519.51100999984,,,,,,,2026-12-31T00:00:00Z,2026-07-07T18:07:49.134592+00:00
+2155284,0x6c650092e3af479708f5efb7b71f5625f10d4719561c3880bafbbfcdf3bd7b5f,448148,Venezuela de facto leader end of 2026?,Will Person Z be the de facto leader of Venezuela at the end of 2026?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-07-07T20:27:38.087231+00:00
