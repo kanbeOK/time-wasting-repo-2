@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2155000,0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73,448037,Hantavirus pandemic in 2026?,Hantavirus pandemic in 2026?,,647562.76196,16244264.113228777,,,,,,,2026-12-31T00:00:00Z,2026-07-07T01:18:55.460205+00:00
+2155000,0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73,448037,Hantavirus pandemic in 2026?,Hantavirus pandemic in 2026?,,643160.0082,16395720.402272778,,,,,,,2026-12-31T00:00:00Z,2026-07-07T05:46:25.335549+00:00
