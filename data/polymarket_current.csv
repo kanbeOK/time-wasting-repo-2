@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2652048,0x8df940be829f2a5a39a44654b9d70e1c15ebd68c06377fbadf69ffad795ba7ba,448836,Romanian parliament dissolved by...?,Romanian parliament dissolved by December 31?,,742.3124,5.0,,,,,,,2026-12-31T00:00:00Z,2026-07-08T21:44:22.376555+00:00
+2652048,0x8df940be829f2a5a39a44654b9d70e1c15ebd68c06377fbadf69ffad795ba7ba,448836,Romanian parliament dissolved by...?,Romanian parliament dissolved by December 31?,,757.3157,5.0,,,,,,,2026-12-31T00:00:00Z,2026-07-08T23:17:12.715542+00:00
