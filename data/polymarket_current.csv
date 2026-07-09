@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2158975,0x746a02fc0b7bc24057b11a30138a1c5def1b1812434942bab2eccbfb08972b03,448882,2027 Pro Football Draft: 1st Overall Pick,Will someone else be the first overall pick in the 2027 Pro Football Draft?,,0.0,0.0,,,,,,,2027-04-23T00:00:00Z,2026-07-09T01:11:20.375479+00:00
+2162506,0x4df4e45e7277ff02acd78dbc8782450af778e7e94318945f9c8b519f7dc59989,450292,Counter-Strike: Sangal ALTERS vs AaB Esport (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-06T13:00:00Z,2026-07-09T05:50:44.144207+00:00
