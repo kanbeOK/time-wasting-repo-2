@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2163006,0x020adc5b89ab14d2bee610d055695893031f37504bfe53b0bd44a5743ae68f34,450498,Counter-Strike: HAVENs vs VP.Future (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-05T21:40:00Z,2026-07-09T16:06:26.971171+00:00
+2163006,0x020adc5b89ab14d2bee610d055695893031f37504bfe53b0bd44a5743ae68f34,450498,Counter-Strike: HAVENs vs VP.Future (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-05T21:40:00Z,2026-07-09T18:19:20.094202+00:00
