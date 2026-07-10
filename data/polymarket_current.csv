@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2165160,0x9ba4f15941d8826a4f7e007dc6f5043a862c4c88a1b87aa8a2cb3d5a1af6e5d6,451438,CD Real Tomayapo vs. Club Independiente Petrolero - More Markets,CD Real Tomayapo vs. Club Independiente Petrolero: Both Teams to Score,,2.0,,,,,,,,2026-05-31T00:00:00Z,2026-07-10T08:00:00.942127+00:00
+2165211,0xa0e03fadb475fd8ab757d6066812e01df61a668b0f1a18badcdcc08cafbbf19d,451447,CDT RealOruro vs. GV CD San José - More Markets,CDT RealOruro vs. GV CD San José: Both Teams to Score,,,1961.4777499999996,,,,,,,2026-05-30T21:15:00Z,2026-07-10T11:15:25.328158+00:00
