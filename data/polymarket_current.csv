@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2163017,0x8b614767f2061004dc1c0d78d90bb36099e92b2d51726118d25d9c86503534c7,450500,Counter-Strike: NeverPlay vs Pitstop crew (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,49.977999999999994,,,,,,,2026-05-05T23:30:00Z,2026-07-09T23:47:51.949717+00:00
+2163017,0x8b614767f2061004dc1c0d78d90bb36099e92b2d51726118d25d9c86503534c7,450500,Counter-Strike: NeverPlay vs Pitstop crew (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,49.977999999999994,,,,,,,2026-05-05T23:30:00Z,2026-07-10T04:03:04.208812+00:00
