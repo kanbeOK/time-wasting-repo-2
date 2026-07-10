@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2166714,0xe532967d8697a2b153a0ff37b0199993f89f165d1822ec96de8ebf4616e00b0f,452161,Next Prime Minister of Romania?,Will someone else be the next Prime Minister of Romania?,,0.0,0.0,,,,,,,2026-05-31T00:00:00Z,2026-07-10T21:14:06.222089+00:00
+2167292,0x62bfd28175d6b282156b96909230b5838a3d19c3bc25874e84412e48ba926702,452286,Which parties will be part of the next government of Romania?,Will S.O.S. Romania (SOS) be included in the next Romanian government?,,13363.46266,1148.995867,,,,,,,,2026-07-10T22:34:02.402324+00:00
