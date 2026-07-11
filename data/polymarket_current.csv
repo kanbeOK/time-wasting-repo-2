@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2168308,0x7e8f8596bceba09095a584e6f2ce3a0df89ae90890ac2013756941531a1e60b5,452578,MLB: Aaron Judge or Juan Soto to draw more walks?,MLB: Aaron Judge or Juan Soto to draw more walks?,,29987.2212,25882.736543999996,,,,,,,2026-09-28T00:00:00Z,2026-07-11T22:26:33.802942+00:00
+2168350,0x96eaf714b2ca52f105ff9b217e06ae391c7e1c9320b4766b95f7175a5d22d282,452587,Party of Next Prime Minister of Romania?,Will the next Prime Minister of Romania be a member of Party F?,,0.0,0.0,,,,,,,2027-12-31T00:00:00Z,2026-07-11T23:31:26.446522+00:00
