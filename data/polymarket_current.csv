@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2167292,0x62bfd28175d6b282156b96909230b5838a3d19c3bc25874e84412e48ba926702,452286,Which parties will be part of the next government of Romania?,Will S.O.S. Romania (SOS) be included in the next Romanian government?,,12879.00766,1148.995867,,,,,,,,2026-07-11T03:54:19.390964+00:00
+2167514,0x2c608c3253f59fcc563081dc3bab61694973f0e3ba22701c17f9d82a96511565,452365,Which airlines will announce bankruptcy by December 31?,Will Alaska Airlines announce bankruptcy by December 31?,,20614.65009,25934.200902999863,,,,,,,2026-12-31T00:00:00Z,2026-07-11T06:22:00.434062+00:00
