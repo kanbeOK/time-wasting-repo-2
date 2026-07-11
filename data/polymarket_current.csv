@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2167514,0x2c608c3253f59fcc563081dc3bab61694973f0e3ba22701c17f9d82a96511565,452365,Which airlines will announce bankruptcy by December 31?,Will Alaska Airlines announce bankruptcy by December 31?,,20614.65009,25934.200902999863,,,,,,,2026-12-31T00:00:00Z,2026-07-11T06:22:00.434062+00:00
+2167514,0x2c608c3253f59fcc563081dc3bab61694973f0e3ba22701c17f9d82a96511565,452365,Which airlines will announce bankruptcy by December 31?,Will Alaska Airlines announce bankruptcy by December 31?,,20491.21163,25934.200902999863,,,,,,,2026-12-31T00:00:00Z,2026-07-11T08:22:01.122484+00:00
