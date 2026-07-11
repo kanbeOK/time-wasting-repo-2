@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2167292,0x62bfd28175d6b282156b96909230b5838a3d19c3bc25874e84412e48ba926702,452286,Which parties will be part of the next government of Romania?,Will S.O.S. Romania (SOS) be included in the next Romanian government?,,12500.8875,1148.995867,,,,,,,,2026-07-11T00:05:02.725515+00:00
+2167292,0x62bfd28175d6b282156b96909230b5838a3d19c3bc25874e84412e48ba926702,452286,Which parties will be part of the next government of Romania?,Will S.O.S. Romania (SOS) be included in the next Romanian government?,,12879.00766,1148.995867,,,,,,,,2026-07-11T03:54:19.390964+00:00
