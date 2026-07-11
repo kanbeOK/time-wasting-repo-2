@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2167717,0x4770caba83617d93b8935d4584a5d744c194734b95f62d3737eb2231a143cb84,452421,Which coalition will form the next Romanian government?,Will another result occur for the next governing coalition of Romania?,,66.3888,565.738274,,,,,,,2026-05-31T00:00:00Z,2026-07-11T21:24:49.313432+00:00
+2168308,0x7e8f8596bceba09095a584e6f2ce3a0df89ae90890ac2013756941531a1e60b5,452578,MLB: Aaron Judge or Juan Soto to draw more walks?,MLB: Aaron Judge or Juan Soto to draw more walks?,,29987.2212,25882.736543999996,,,,,,,2026-09-28T00:00:00Z,2026-07-11T22:26:33.802942+00:00
