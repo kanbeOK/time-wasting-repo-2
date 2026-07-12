@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2168350,0x96eaf714b2ca52f105ff9b217e06ae391c7e1c9320b4766b95f7175a5d22d282,452587,Party of Next Prime Minister of Romania?,Will the next Prime Minister of Romania be a member of Party F?,,0.0,0.0,,,,,,,2027-12-31T00:00:00Z,2026-07-11T23:31:26.446522+00:00
+2168350,0x96eaf714b2ca52f105ff9b217e06ae391c7e1c9320b4766b95f7175a5d22d282,452587,Party of Next Prime Minister of Romania?,Will the next Prime Minister of Romania be a member of Party F?,,0.0,0.0,,,,,,,2027-12-31T00:00:00Z,2026-07-12T03:41:29.639422+00:00
