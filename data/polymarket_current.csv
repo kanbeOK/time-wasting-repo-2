@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2168769,0x4dcc97d8ae807d14ca6a1b0648c331f9a23bfbec7310d6d7bd3b369cd25aa1ba,452805,Eli Lilly licenses Peptron’s SmartDepot by October 7?,Eli Lilly licenses Peptron’s SmartDepot by October 7?,,1924.5734,10135.329273000001,,,,,,,2026-10-07T00:00:00Z,2026-07-12T19:44:37.064986+00:00
+2168769,0x4dcc97d8ae807d14ca6a1b0648c331f9a23bfbec7310d6d7bd3b369cd25aa1ba,452805,Eli Lilly licenses Peptron’s SmartDepot by October 7?,Eli Lilly licenses Peptron’s SmartDepot by October 7?,,2662.1534,10135.329273000001,,,,,,,2026-10-07T00:00:00Z,2026-07-12T21:00:36.324133+00:00
