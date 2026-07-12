@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2168524,0x16c1157a08bbf33862df2285bac12e88e1b6c1d904a1095f2f4c8937251f138a,452644,Will the next Prime Minister of Romania be a technocrat?,Will the next Prime Minister of Romania be a technocrat?,,191.36626,9190.31991699999,,,,,,,2026-06-30T00:00:00Z,2026-07-12T10:56:05.232567+00:00
+2168524,0x16c1157a08bbf33862df2285bac12e88e1b6c1d904a1095f2f4c8937251f138a,452644,Will the next Prime Minister of Romania be a technocrat?,Will the next Prime Minister of Romania be a technocrat?,,190.46126,9190.31991699999,,,,,,,2026-06-30T00:00:00Z,2026-07-12T12:04:21.087451+00:00
