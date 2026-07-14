@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2172213,0x1ff8fb7e41d4908528a48dc3abb2434c4b3e3354a09594cbc0c0073efde1915e,454092,Counter-Strike: Eternal Fire Academy vs Younglings (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-06T22:00:00Z,2026-07-14T11:57:31.097660+00:00
+2172213,0x1ff8fb7e41d4908528a48dc3abb2434c4b3e3354a09594cbc0c0073efde1915e,454092,Counter-Strike: Eternal Fire Academy vs Younglings (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-06T22:00:00Z,2026-07-14T14:05:54.358724+00:00
