@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2173132,0x4f5daf2aec577de7fbc192c75594952eb95fc6d6f23edaad91bce53b9eeb3cc9,454503,Counter-Strike: Nerve of Cow vs BRAWLSTARS (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,,,,,,,,2026-05-07T00:10:00Z,2026-07-14T20:18:34.197156+00:00
+2174862,0xcb3068fcd23fd88968dc0f6756f20275b51548b6743a3c8302aea09f5cfd62b7,455273,Counter-Strike: AaB Esport vs Misa Esports (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-10T16:40:00Z,2026-07-14T21:31:45.314911+00:00
