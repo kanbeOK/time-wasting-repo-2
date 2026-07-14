@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2174862,0xcb3068fcd23fd88968dc0f6756f20275b51548b6743a3c8302aea09f5cfd62b7,455273,Counter-Strike: AaB Esport vs Misa Esports (BO3) - European Pro League Regular Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-10T16:40:00Z,2026-07-14T21:31:45.314911+00:00
+2175367,0x37f396999cd572e6459afae42135fb1b4b4b14b8681cdf8f481f2d699d9cd194,455507,Counter-Strike: 9daplug vs ALKA (BO3) - Gamers Club Liga Série A Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-07T03:15:00Z,2026-07-14T23:02:43.228306+00:00
