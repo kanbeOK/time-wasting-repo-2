@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2176262,0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21,455867,Strait of Hormuz traffic returns to normal by July 31?,Strait of Hormuz traffic returns to normal by July 31?,,903291.25318,16706198.910335317,,,,,,,2026-07-31T00:00:00Z,2026-07-15T04:10:33.525835+00:00
+2176262,0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21,455867,Strait of Hormuz traffic returns to normal by July 31?,Strait of Hormuz traffic returns to normal by July 31?,,980450.08773,16779071.54617832,,,,,,,2026-07-31T00:00:00Z,2026-07-15T06:37:39.547674+00:00
