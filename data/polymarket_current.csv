@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2183578,0xa00c54100fa6e1e7883f6aa926362ab25412031108cbc60c109d7c89e8472d97,459303,Will Kylian Mbappe leave Real Madrid before August 31?,Will Kylian Mbappe leave Real Madrid before August 31?,,9264.19654,15320.00337099999,,,,,,,2026-08-31T00:00:00Z,2026-07-15T09:16:37.635916+00:00
+2183578,0xa00c54100fa6e1e7883f6aa926362ab25412031108cbc60c109d7c89e8472d97,459303,Will Kylian Mbappe leave Real Madrid before August 31?,Will Kylian Mbappe leave Real Madrid before August 31?,,9261.96338,15320.00337099999,,,,,,,2026-08-31T00:00:00Z,2026-07-15T11:11:18.546635+00:00
