@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2184336,0x191bfd68961e57c30ffe5b21c9ec7f35b6ba1bc22885057959fdf8a1ac359dd7,459585,Which flavors will JUUL relaunch in 2026?,Will JUUL relaunch Crème Brûlée flavor by 2027?,,67.6866,313.366624,,,,,,,2026-12-31T00:00:00Z,2026-07-15T19:47:00.094520+00:00
+2185305,0xf47c252ae0fcee45c97293c581ee26d5c42ce4b6c04c72c28a81feb4de869ad2,459959,T20 Series Cyprus vs Finland: Cyprus vs Finland - Toss Match Double,T20 Series Cyprus vs Finland: Cyprus vs Finland - Toss Match Double Finland Winner,,,,,,,,,,2026-05-15T07:30:00Z,2026-07-15T21:09:21.217270+00:00
