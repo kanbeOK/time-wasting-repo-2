@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2175367,0x37f396999cd572e6459afae42135fb1b4b4b14b8681cdf8f481f2d699d9cd194,455507,Counter-Strike: 9daplug vs ALKA (BO3) - Gamers Club Liga Série A Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-07T03:15:00Z,2026-07-14T23:02:43.228306+00:00
+2176262,0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21,455867,Strait of Hormuz traffic returns to normal by July 31?,Strait of Hormuz traffic returns to normal by July 31?,,800638.93821,16616678.941663312,,,,,,,2026-07-31T00:00:00Z,2026-07-15T00:53:31.131917+00:00
