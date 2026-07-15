@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2184336,0x191bfd68961e57c30ffe5b21c9ec7f35b6ba1bc22885057959fdf8a1ac359dd7,459585,Which flavors will JUUL relaunch in 2026?,Will JUUL relaunch Crème Brûlée flavor by 2027?,,70.1656,313.366624,,,,,,,2026-12-31T00:00:00Z,2026-07-15T18:13:47.288505+00:00
+2184336,0x191bfd68961e57c30ffe5b21c9ec7f35b6ba1bc22885057959fdf8a1ac359dd7,459585,Which flavors will JUUL relaunch in 2026?,Will JUUL relaunch Crème Brûlée flavor by 2027?,,67.6866,313.366624,,,,,,,2026-12-31T00:00:00Z,2026-07-15T19:47:00.094520+00:00
