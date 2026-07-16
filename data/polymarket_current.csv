@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2187839,0xd4e3683b9fd889d2cf51abff5409b138f74e5acc98389391d132f7e1bcb3a58c,461065,Counter-Strike: FORZE Reload vs Clutchain (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,,11.16,,,,,,,2026-05-08T18:30:00Z,2026-07-16T06:26:35.092247+00:00
+2189878,0x4c58cc6b48875d035c027fd9e6933ab40b34fde576fed37c35d8f4d55de3d07f,462352,Will Tuyo launch a token by ___?,"Will Tuyo launch a token by December 31, 2027?",,1832.9855,2300.8492,,,,,,,2028-01-01T05:00:00Z,2026-07-16T08:56:03.929966+00:00
