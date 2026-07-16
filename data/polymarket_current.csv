@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2189878,0x4c58cc6b48875d035c027fd9e6933ab40b34fde576fed37c35d8f4d55de3d07f,462352,Will Tuyo launch a token by ___?,"Will Tuyo launch a token by December 31, 2027?",,1965.2064,2300.8492,,,,,,,2028-01-01T05:00:00Z,2026-07-16T11:06:06.634754+00:00
+2192272,0x70141fb95d6529b1bbba6b34016010b77e654e0d9c4b837e1444315922b63ace,462955,CDT RealOruro vs. FC Universitario - Halftime Result,FC Universitario leading at halftime?,,,27.659999999999997,,,,,,,2026-05-09T19:00:00Z,2026-07-16T13:03:42.657859+00:00
