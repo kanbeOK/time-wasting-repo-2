@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2192272,0x70141fb95d6529b1bbba6b34016010b77e654e0d9c4b837e1444315922b63ace,462955,CDT RealOruro vs. FC Universitario - Halftime Result,FC Universitario leading at halftime?,,,27.659999999999997,,,,,,,2026-05-09T19:00:00Z,2026-07-16T16:50:13.854316+00:00
+2195414,0x5544b376758a855a33073ccb74ed1ed7761c6ec300fae33c1546152f9e7880da,463269,Club ABB vs. Club Independiente Petrolero - Halftime Result,Club Independiente Petrolero leading at halftime?,,1.2681,,,,,,,,2026-05-17T19:00:00Z,2026-07-16T18:12:47.491702+00:00
