@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2196001,0x1821ff7bf42ec733603e68d6c8b86ed378e5b20315a778b0996bec26e0d02b65,463327,GV CD San José vs. Club The Strongest - Exact Score,Exact Score: Any Other Score?,,1.9449,,,,,,,,2026-05-23T00:00:00Z,2026-07-17T10:54:03.205960+00:00
+2196001,0x1821ff7bf42ec733603e68d6c8b86ed378e5b20315a778b0996bec26e0d02b65,463327,GV CD San José vs. Club The Strongest - Exact Score,Exact Score: Any Other Score?,,1.9446,,,,,,,,2026-05-23T00:00:00Z,2026-07-17T12:16:18.451907+00:00
