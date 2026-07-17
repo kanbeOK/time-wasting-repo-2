@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2195499,0x93283d15795f45b1ce3bde67dab3397b505c13c56842c009a3aed60ed0502538,463273,Club ABB vs. Club Independiente Petrolero - Exact Score,Exact Score: Any Other Score?,,1.1199,,,,,,,,2026-05-17T19:00:00Z,2026-07-17T06:23:30.670283+00:00
+2195842,0x3198b4ad177c987427fcc53838a0dabdc1f72f3abff6bfdbc3bfe4258a875474,463313,CD San Antonio Bulo Bulo vs. Club ABB - Halftime Result,Club ABB leading at halftime?,,1.4932,,,,,,,,2026-05-22T19:00:00Z,2026-07-17T08:36:43.572847+00:00
