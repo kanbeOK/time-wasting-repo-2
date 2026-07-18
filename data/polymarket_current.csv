@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2196028,0xb5df02096d16b6ac41f34e4c9f58d6ff380398c9cb0047417d5d0b8ad480c181,463332,Club Always Ready vs. FC Universitario - Halftime Result,FC Universitario leading at halftime?,,,,,,,,,,2026-05-23T19:00:00Z,2026-07-18T01:01:11.962380+00:00
+2196028,0xb5df02096d16b6ac41f34e4c9f58d6ff380398c9cb0047417d5d0b8ad480c181,463332,Club Always Ready vs. FC Universitario - Halftime Result,FC Universitario leading at halftime?,,,,,,,,,,2026-05-23T19:00:00Z,2026-07-18T04:29:31.499995+00:00
