@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2196180,0xc6af31c5c5cc4d61e985d320db6b2f4ecfcbd6990b3c1949ab5dea0966e9265d,463347,Club Independiente Petrolero vs. Bamin Real Potosí - Exact Score,Exact Score: Any Other Score?,,1.9449,1.0101,,,,,,,2026-05-23T21:15:00Z,2026-07-19T09:09:40.266034+00:00
+2199265,0x107bc5d1699ca1aa056de2d57a687af5d995c90aeb8538c51da56e2a7963c5b5,463724,Lillestrøm SK vs. Viking FK - Halftime Result,Viking FK leading at halftime?,,162.3132,,,,,,,,2026-05-30T14:00:00Z,2026-07-19T10:54:47.442166+00:00
