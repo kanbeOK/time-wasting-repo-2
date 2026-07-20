@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2214251,0x95db13963852fac537ef243eed2a6de1ed6f4d2dadb16a4f268068e5ac06d52f,467251,Club Universitario de Deportes vs. CD Tolima - Exact Score,Exact Score: Any Other Score?,,0.0,,,,,,,,2026-05-27T00:30:00Z,2026-07-20T15:17:28.752114+00:00
+2220887,0xf1f0fa7f81fc9a0a978f1cf6988765fddfe96ba249b7b1b802da68937ac55aea,469618,Counter-Strike: NeverPlay vs Younglings (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,,5.0,,,,,,,2026-05-10T21:40:00Z,2026-07-20T17:00:35.811202+00:00
