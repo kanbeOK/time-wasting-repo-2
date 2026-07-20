@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2220887,0xf1f0fa7f81fc9a0a978f1cf6988765fddfe96ba249b7b1b802da68937ac55aea,469618,Counter-Strike: NeverPlay vs Younglings (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,,5.0,,,,,,,2026-05-10T21:40:00Z,2026-07-20T17:00:35.811202+00:00
+2222774,0x570d7ae688c2b9d85b94d3a31da7294f7154e08fbc34e55e6d1f30e2e96dab0c,470726,Counter-Strike: hypewrld vs SAW (BO3) - CCT Europe Series 2 Play-In Group A,Map 3: Odd/Even Total Rounds?,,0.0,5.01,,,,,,,2026-05-12T17:10:00Z,2026-07-20T19:14:38.252654+00:00
