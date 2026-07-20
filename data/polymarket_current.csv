@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2229357,0x33a2ffc6ac4a2625ca6fc20fc8fe0ed4faef227b72d55d8c9d453bba0bc4653c,473323,Counter-Strike: hindsight vs BRAWLSTARS (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,0.8,,,,,,,,2026-05-12T00:15:00Z,2026-07-20T20:49:50.069559+00:00
+2232308,0x9c655e0e98a90b2ef3ede179a0e890876fb7b2dc8c3a358a34fada12330be332,474443,UFC: Who Will Sean Strickland Fight Next? ,Will someone else fight Sean Strickland next?,,0.0,0.0,,,,,,,2027-05-09T00:00:00Z,2026-07-20T22:07:30.294446+00:00
