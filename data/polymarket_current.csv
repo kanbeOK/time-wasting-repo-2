@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2222774,0x570d7ae688c2b9d85b94d3a31da7294f7154e08fbc34e55e6d1f30e2e96dab0c,470726,Counter-Strike: hypewrld vs SAW (BO3) - CCT Europe Series 2 Play-In Group A,Map 3: Odd/Even Total Rounds?,,0.0,5.01,,,,,,,2026-05-12T17:10:00Z,2026-07-20T19:14:38.252654+00:00
+2229357,0x33a2ffc6ac4a2625ca6fc20fc8fe0ed4faef227b72d55d8c9d453bba0bc4653c,473323,Counter-Strike: hindsight vs BRAWLSTARS (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,0.8,,,,,,,,2026-05-12T00:15:00Z,2026-07-20T20:49:50.069559+00:00
