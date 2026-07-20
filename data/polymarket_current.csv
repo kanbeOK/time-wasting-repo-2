@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2210647,0x89de758096f136469c556d3695c53825bb8be16d547fd5c65421811d0621c166,466544,Counter-Strike: Sangal ALTERS vs INFURITY Gaming (BO3) - United21 Group C,Map 3: Odd/Even Total Rounds?,,,100.0,,,,,,,2026-05-12T14:10:00Z,2026-07-20T03:52:03.629881+00:00
+2210647,0x89de758096f136469c556d3695c53825bb8be16d547fd5c65421811d0621c166,466544,Counter-Strike: Sangal ALTERS vs INFURITY Gaming (BO3) - United21 Group C,Map 3: Odd/Even Total Rounds?,,,100.0,,,,,,,2026-05-12T14:10:00Z,2026-07-20T06:55:32.891349+00:00
