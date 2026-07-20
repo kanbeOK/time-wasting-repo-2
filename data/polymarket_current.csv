@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2232308,0x9c655e0e98a90b2ef3ede179a0e890876fb7b2dc8c3a358a34fada12330be332,474443,UFC: Who Will Sean Strickland Fight Next? ,Will someone else fight Sean Strickland next?,,0.0,0.0,,,,,,,2027-05-09T00:00:00Z,2026-07-20T22:07:30.294446+00:00
+2232758,0x5aaa01ac400fea3493d743995ccbdbae2500324b8fd9a25ca20ca24e21393b5c,474518,Will Valve add first CS2 operation by...?,"Will Valve add first CS2 operation by August 31, 2026?",,4944.78893,114.71444199999999,,,,,,,2026-09-01T00:00:00Z,2026-07-20T23:33:12.337717+00:00
