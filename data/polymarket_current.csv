@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2238959,0x866298ebc86993f836d0b654800b82cf0d6764cd3012bb1375c157cbd50e2606,476568,Counter-Strike: INFURITY Gaming vs NeverPlay (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-14T00:40:00Z,2026-07-21T19:43:04.346780+00:00
+2241546,0xa65b23d202157689206aa8ef34dcd39f09477db9597af92f5c7ae1ab57f3b8c0,477708,Counter-Strike: Fire Flux Esports vs Donstu Esports (BO3) - CCT Europe Contenders #5 Playoffs,Map 3: Odd/Even Total Rounds?,,,99.987,,,,,,,2026-05-12T23:15:00Z,2026-07-21T21:19:27.016785+00:00
