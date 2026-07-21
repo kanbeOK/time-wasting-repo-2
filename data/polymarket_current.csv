@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2234675,0xe71ad2aeb149bb6b73d2e9d04f7c574dc4b17d0bd8d9f32d6f8a9da2fe6959e5,475064,Will any FaZe member come out as a furry by July 31?,Will any FaZe member come out as a furry by July 31?,,3839.3337,10125.693776000007,,,,,,,2026-07-31T00:00:00Z,2026-07-21T06:36:11.873329+00:00
+2238959,0x866298ebc86993f836d0b654800b82cf0d6764cd3012bb1375c157cbd50e2606,476568,Counter-Strike: INFURITY Gaming vs NeverPlay (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-14T00:40:00Z,2026-07-21T09:32:11.527139+00:00
