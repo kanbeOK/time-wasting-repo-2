@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2232758,0x5aaa01ac400fea3493d743995ccbdbae2500324b8fd9a25ca20ca24e21393b5c,474518,Will Valve add first CS2 operation by...?,"Will Valve add first CS2 operation by August 31, 2026?",,4944.78893,114.71444199999999,,,,,,,2026-09-01T00:00:00Z,2026-07-20T23:33:12.337717+00:00
+2234284,0x4d019f07d1400c17fe81aea8a42bce306b8a06c549c2fa4bca9b0114795f95a6,474980,Who will perform at Coachella 2027?,Will Bad Bunny perform at Coachella 2027?,,62.5676,20.253161,,,,,,,2027-04-30T00:00:00Z,2026-07-21T03:31:37.559177+00:00
