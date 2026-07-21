@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2242348,0x638d1796353e74b0c3761686f0e83e9c3330841e547663bab97902b31f7e2bd9,477997,Federal Gas Tax Suspended by...?,"Will the federal gas tax be suspended by November 2, 2026?",,13976.5069,2663.7829019999995,,,,,,,2026-11-02T00:00:00Z,2026-07-21T22:29:00.779420+00:00
+2242348,0x638d1796353e74b0c3761686f0e83e9c3330841e547663bab97902b31f7e2bd9,477997,Federal Gas Tax Suspended by...?,"Will the federal gas tax be suspended by November 2, 2026?",,14104.7865,2663.7829019999995,,,,,,,2026-11-02T00:00:00Z,2026-07-21T23:34:43.440887+00:00
