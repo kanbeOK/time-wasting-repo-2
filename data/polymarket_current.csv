@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2244960,0x2d37b35102d42f555d54a7a91239c7236279a89ace2d3df02cfe46f093cbb0ec,478814,Arc FDV above ___ one day after launch?,Arc FDV above $20B one day after launch?,,5548.8889,1993.2612429999997,,,,,,,2028-01-01T05:00:00Z,2026-07-22T16:03:26.613728+00:00
+2244960,0x2d37b35102d42f555d54a7a91239c7236279a89ace2d3df02cfe46f093cbb0ec,478814,Arc FDV above ___ one day after launch?,Arc FDV above $20B one day after launch?,,5551.50758,1993.2612429999997,,,,,,,2028-01-01T05:00:00Z,2026-07-22T17:50:11.987790+00:00
