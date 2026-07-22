@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2244741,0x885ea30d243114b120cc6a4cbdec5b47e9e022eb352dd8577f35064dd530736a,478740,Next Croat President of Bosnia and Herzegovina?,Will Candidate Z be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election?,,0.0,0.0,,,,,,,2026-10-04T00:00:00Z,2026-07-22T11:54:36.755701+00:00
+2244960,0x2d37b35102d42f555d54a7a91239c7236279a89ace2d3df02cfe46f093cbb0ec,478814,Arc FDV above ___ one day after launch?,Arc FDV above $20B one day after launch?,,5488.5697,1993.2612429999997,,,,,,,2028-01-01T05:00:00Z,2026-07-22T14:14:29.776292+00:00
