@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2243510,0x79b9db83766abd6dfe9ba91dca623fa8e748709f518d4f029eb8989fac1add14,478299,2026 World Chess Championship: Winner,Will someone else win the 2026 World Chess Championship?,,0.0,0.0,,,,,,,2027-01-01T00:00:00Z,2026-07-22T03:30:27.037788+00:00
+2243510,0x79b9db83766abd6dfe9ba91dca623fa8e748709f518d4f029eb8989fac1add14,478299,2026 World Chess Championship: Winner,Will someone else win the 2026 World Chess Championship?,,0.0,0.0,,,,,,,2027-01-01T00:00:00Z,2026-07-22T06:37:30.988620+00:00
