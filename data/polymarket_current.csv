@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2243510,0x79b9db83766abd6dfe9ba91dca623fa8e748709f518d4f029eb8989fac1add14,478299,2026 World Chess Championship: Winner,Will someone else win the 2026 World Chess Championship?,,0.0,0.0,,,,,,,2027-01-01T00:00:00Z,2026-07-22T06:37:30.988620+00:00
+2244599,0xd7349ec4725a80cd846964e8f068bc7ad6bdbf1f3b8c83cfd8cf015d8c4b450d,478725,Next Bosniak President of Bosnia and Herzegovina?,Will Candidate Z be the Bosniak Presidency Member of Bosnia and Herzegovina following the 2026 general election?,,0.0,0.0,,,,,,,2026-10-04T00:00:00Z,2026-07-22T09:32:27.579520+00:00
