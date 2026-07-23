@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2253816,0xedc6b53f963f867cecfc8ca24bb33cc47706b7459f112b9f690d84baf408e9d4,482346,Who will die in The Witcher: Season 5?,"Will Regis die during ""The Witcher: Season 5""?",,197.723,126.57,,,,,,,2027-06-30T00:00:00Z,2026-07-23T11:28:02.268789+00:00
+2253816,0xedc6b53f963f867cecfc8ca24bb33cc47706b7459f112b9f690d84baf408e9d4,482346,Who will die in The Witcher: Season 5?,"Will Regis die during ""The Witcher: Season 5""?",,193.723,126.57,,,,,,,2027-06-30T00:00:00Z,2026-07-23T13:07:28.300565+00:00
