@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2249678,0x20bcdad79cc929065a0a7d4eb9c2d2da47a9b5b14bb3b474061cec5edac17f50,480801,Counter-Strike: Clair Obscur vs Aurora Young Blood (BO3) - CCT Europe Contenders #5 Playoffs,Map 3: Odd/Even Total Rounds?,,,59.994,,,,,,,2026-05-14T00:45:00Z,2026-07-23T00:08:33.226758+00:00
+2253151,0xc98bbd47829f1ce2577a077122c6c2ad92f81c8a0121ff76d35228db8fe06fd9,482084,FDA approves Daraxonrasib this year?,FDA approves Daraxonrasib this year?,,519.5292,1233.2686769999998,,,,,,,2026-12-31T00:00:00Z,2026-07-23T03:56:26.947923+00:00
