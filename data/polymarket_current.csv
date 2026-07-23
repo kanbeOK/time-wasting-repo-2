@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2253151,0xc98bbd47829f1ce2577a077122c6c2ad92f81c8a0121ff76d35228db8fe06fd9,482084,FDA approves Daraxonrasib this year?,FDA approves Daraxonrasib this year?,,604.5077,1233.2686769999998,,,,,,,2026-12-31T00:00:00Z,2026-07-23T06:36:50.231390+00:00
+2253816,0xedc6b53f963f867cecfc8ca24bb33cc47706b7459f112b9f690d84baf408e9d4,482346,Who will die in The Witcher: Season 5?,"Will Regis die during ""The Witcher: Season 5""?",,193.723,126.57,,,,,,,2027-06-30T00:00:00Z,2026-07-23T09:29:18.705100+00:00
