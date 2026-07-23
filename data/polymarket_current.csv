@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2253816,0xedc6b53f963f867cecfc8ca24bb33cc47706b7459f112b9f690d84baf408e9d4,482346,Who will die in The Witcher: Season 5?,"Will Regis die during ""The Witcher: Season 5""?",,193.723,126.57,,,,,,,2027-06-30T00:00:00Z,2026-07-23T13:07:28.300565+00:00
+2253881,0x0ee2fbcdafa1e109a6d3f833cd070abfa8ceeb2fd3bf6b33a479b23131a08498,482375,PLL: 2026 Jim Brown Most Valuable Player,Will someone else win the 2026 PLL MVP award?,,0.0,0.0,,,,,,,2026-09-13T00:00:00Z,2026-07-23T15:33:33.243455+00:00
