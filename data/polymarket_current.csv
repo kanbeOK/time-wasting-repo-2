@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2255305,0xdc56efe9f29c94b18f8b01e0d3e4cf06e179bfefee3209a523c021f7a3228f2f,482587,PLL: 2026 Rookie of the Year,Will someone else win the 2026 PLL Rookie of the Year?,,0.0,0.0,,,,,,,2026-09-13T00:00:00Z,2026-07-24T00:06:26.449914+00:00
+2255305,0xdc56efe9f29c94b18f8b01e0d3e4cf06e179bfefee3209a523c021f7a3228f2f,482587,PLL: 2026 Rookie of the Year,Will someone else win the 2026 PLL Rookie of the Year?,,0.0,0.0,,,,,,,2026-09-13T00:00:00Z,2026-07-24T03:55:24.418236+00:00
