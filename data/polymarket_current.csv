@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2255351,0xb8cd0f4254b32ce34bf7ade06a85ac913b9f4726a730e2a55852aca1b10091d9,482588,PLL: 2026 Dick Edell Coach of the Year,Will someone else win the 2026 PLL Coach of the Year?,,0.0,0.0,,,,,,,2026-09-13T00:00:00Z,2026-07-24T09:26:44.248479+00:00
+2255351,0xb8cd0f4254b32ce34bf7ade06a85ac913b9f4726a730e2a55852aca1b10091d9,482588,PLL: 2026 Dick Edell Coach of the Year,Will someone else win the 2026 PLL Coach of the Year?,,0.0,0.0,,,,,,,2026-09-13T00:00:00Z,2026-07-24T11:19:34.774502+00:00
