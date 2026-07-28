@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2255849,0xf7c1bad44b5b32f2a28a9b78c7d5bb465156581e89a16072ef943007633513ba,482753,NBA: Will Anthony Davis be traded by next season?,NBA: Will Anthony Davis be traded by next season?,,190.4172,171.845768,,,,,,,2026-10-23T00:00:00Z,2026-07-28T21:15:26.936133+00:00
+2255849,0xf7c1bad44b5b32f2a28a9b78c7d5bb465156581e89a16072ef943007633513ba,482753,NBA: Will Anthony Davis be traded by next season?,NBA: Will Anthony Davis be traded by next season?,,155.5394,171.845768,,,,,,,2026-10-23T00:00:00Z,2026-07-28T22:35:38.610789+00:00
