@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2257797,0xa34d7593f5fe580aac35259bd737adbe254763d89ea5642cea085347781897af,483519,Counter-Strike: Oldboys vs Passion Academy (BO3) - United21 Group A,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-14T17:10:00Z,2026-07-29T21:04:47.858495+00:00
+2258633,0x449d8b042e2613a8cb6efdda86742a83a4ce057c7e5ce8d7136813042357a726,483879,Counter-Strike: FORZE Reload vs Hermine Esports Club (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,,150.0,,,,,,,2026-05-14T15:50:00Z,2026-07-29T22:30:55.391628+00:00
