@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2255930,0xc255e435d74caa1c3a45abafdabe4c4ec4f27b77ec454240c2beb5e5d9ef1f67,482789,AI data center in space by...?,"AI data center in space by December 31, 2027?",,11425.0378,14111.24535100001,,,,,,,2027-12-31T00:00:00Z,2026-07-29T06:39:39.924709+00:00
+2255930,0xc255e435d74caa1c3a45abafdabe4c4ec4f27b77ec454240c2beb5e5d9ef1f67,482789,AI data center in space by...?,"AI data center in space by December 31, 2027?",,11578.7274,14111.24535100001,,,,,,,2027-12-31T00:00:00Z,2026-07-29T09:44:06.814866+00:00
