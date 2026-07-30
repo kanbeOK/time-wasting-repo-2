@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2260258,0xf0ae667d3e820614c232e1b707512237d00b76c1b91df545b2b1b48dedbd55f0,484742,KBO: LG Twins vs. Kia Tigers,KBO: LG Twins vs. Kia Tigers,,1053.7366,3961.2086149999996,,,,,,,2026-05-27T09:30:00Z,2026-07-30T16:08:01.995108+00:00
+2260258,0xf0ae667d3e820614c232e1b707512237d00b76c1b91df545b2b1b48dedbd55f0,484742,KBO: LG Twins vs. Kia Tigers,KBO: LG Twins vs. Kia Tigers,,1053.7366,3961.2086149999996,,,,,,,2026-05-27T09:30:00Z,2026-07-30T17:57:54.186872+00:00
