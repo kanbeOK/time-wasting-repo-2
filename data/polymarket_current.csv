@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2258651,0x368f76ca784ba393ed86747afdd768509c8b34be23e22f8452aed13eb2101f8d,483880,Counter-Strike: Clutchain vs VP.Future 2 (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-14T22:15:00Z,2026-07-30T11:56:54.817326+00:00
+2260256,0xccbb9b961dbe295adfedb8d15dd763f4697ec5f782ec0adbe2d9fd6ed0ba40cb,484740,KBO: NC Dinos vs. Doosan Bears,KBO: NC Dinos vs. Doosan Bears,,2161.8479,8550.654798000005,,,,,,,2026-05-27T09:30:00Z,2026-07-30T14:24:58.380291+00:00
