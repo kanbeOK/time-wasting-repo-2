@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2262305,0x47ec255a588be7887b6778675f44708bed0fc9c938ed7016eaea2d41d3df2373,485540,What price will Sui hit in 2026?,Will Sui dip to $0.20 before 2027?,,1606.9654,1048.275853,,,,,,,2027-01-01T05:00:00Z,2026-07-31T20:24:18.811054+00:00
+2262329,0xf91ca58d99ac47e4c6a8c324419f082b3d09744179b1a8b6540a3c20c6c23c7d,485543,Russia coup attempt in 2026?,Russia coup attempt in 2026?,,33200.8405,112184.18143599997,,,,,,,2026-12-31T00:00:00Z,2026-07-31T21:41:04.370383+00:00
