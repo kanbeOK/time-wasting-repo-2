@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2262329,0xf91ca58d99ac47e4c6a8c324419f082b3d09744179b1a8b6540a3c20c6c23c7d,485543,Russia coup attempt in 2026?,Russia coup attempt in 2026?,,33200.8405,112184.18143599997,,,,,,,2026-12-31T00:00:00Z,2026-07-31T21:41:04.370383+00:00
+2262421,0xb42726ca8eda8a64489bb13d842476d691b73d07c8019bcc92ea08f72429002c,485574,Japan declassifies new UFO files in 2026?,Japan declassifies new UFO files in 2026?,,3229.4955,10663.560012000002,,,,,,,2026-12-31T00:00:00Z,2026-07-31T23:09:54.673266+00:00
