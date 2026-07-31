@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2260260,0xaaa2068b74959a09aa19f9271bcc3a05288f11e8c0494c5f3a82a5f3f31cf1f2,484744,KBO: Lotte Giants vs. Hanwha Eagles,KBO: Lotte Giants vs. Hanwha Eagles,,363.811,10660.716963,,,,,,,2026-05-27T09:30:00Z,2026-07-31T07:24:38.967216+00:00
+2260260,0xaaa2068b74959a09aa19f9271bcc3a05288f11e8c0494c5f3a82a5f3f31cf1f2,484744,KBO: Lotte Giants vs. Hanwha Eagles,KBO: Lotte Giants vs. Hanwha Eagles,,338.995,10660.716963,,,,,,,2026-05-27T09:30:00Z,2026-07-31T10:08:06.464533+00:00
