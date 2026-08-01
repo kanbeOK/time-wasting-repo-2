@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2265362,0x0918245252d89d04c8b6b5245442170508a9d0b9dc5ae3e12752de348fe74e74,486692,Counter-Strike: Kinoa vs Prestige (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,100.0,,,,,,,2026-05-15T14:30:00Z,2026-08-01T07:34:17.009530+00:00
+2265362,0x0918245252d89d04c8b6b5245442170508a9d0b9dc5ae3e12752de348fe74e74,486692,Counter-Strike: Kinoa vs Prestige (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,100.0,,,,,,,2026-05-15T14:30:00Z,2026-08-01T10:06:35.053841+00:00
