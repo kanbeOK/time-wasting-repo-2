@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2262421,0xb42726ca8eda8a64489bb13d842476d691b73d07c8019bcc92ea08f72429002c,485574,Japan declassifies new UFO files in 2026?,Japan declassifies new UFO files in 2026?,,3804.4814,10663.560012000002,,,,,,,2026-12-31T00:00:00Z,2026-08-01T04:57:35.415528+00:00
+2265362,0x0918245252d89d04c8b6b5245442170508a9d0b9dc5ae3e12752de348fe74e74,486692,Counter-Strike: Kinoa vs Prestige (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,100.0,,,,,,,2026-05-15T14:30:00Z,2026-08-01T07:34:17.009530+00:00
