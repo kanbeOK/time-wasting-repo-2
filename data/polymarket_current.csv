@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2265395,0x43c566e4b9685822d872839fbe3ffd2f9bc58bcddfb485bbc54f2c93f1da6ed2,486695,Counter-Strike: Infinite vs Eternal Fire Academy (BO3) - Exort Series Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-15T21:50:00Z,2026-08-01T16:31:46.081962+00:00
+2265395,0x43c566e4b9685822d872839fbe3ffd2f9bc58bcddfb485bbc54f2c93f1da6ed2,486695,Counter-Strike: Infinite vs Eternal Fire Academy (BO3) - Exort Series Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-15T21:50:00Z,2026-08-01T18:04:26.981527+00:00
