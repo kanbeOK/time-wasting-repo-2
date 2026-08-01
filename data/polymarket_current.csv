@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2265373,0xcc0400f4ce483a4df20ad8047b58bc1e06f005835ae416778c56d189deaa386b,486693,Counter-Strike: Donstu Esports vs FORZE Reload (BO3) - Exort Series Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-15T14:30:00Z,2026-08-01T11:44:23.891007+00:00
+2265384,0x3a753d4fe1bc66dcfa01482965fc1c96e18caaadfcfd4fe94307016dddecae58,486694,Counter-Strike: Esport Academy Copenhagen vs ALGO Esports (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,50.0,,,,,,,2026-05-15T17:30:00Z,2026-08-01T13:44:52.440646+00:00
