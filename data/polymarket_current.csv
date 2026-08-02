@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2275672,0x4a03ab2980b6ea12e4f004388e761a158b2b3aa548fc99580e551bf1f447f74c,486697,Counter-Strike: BIG Academy vs Misa Esports (BO3) - European Pro League Regular Playoffs,Map Handicap: MISA (-1.5) vs BIG Academy (+1.5),,,424.617464,,,,,,,2026-05-16T14:00:00Z,2026-08-02T16:07:45.340666+00:00
+2265428,0x5587e8389450817be0283962d94f41a595e5e34658ec7dc0f7e970a51cf8f582,486698,Counter-Strike: WRAITH PCIFIC vs MANA eSports (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-16T17:00:00Z,2026-08-02T17:34:53.255542+00:00
