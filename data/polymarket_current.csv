@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2267048,0x2d36b18010e5a253ebc8ef1ceb0f99d7e1ff3c2e66eb0f72615e21463c76eb7d,487314,Counter-Strike: MASQ vs Passion Academy (BO3) - United21 Group A,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-18T19:45:00Z,2026-08-03T04:08:51.312481+00:00
+2267048,0x2d36b18010e5a253ebc8ef1ceb0f99d7e1ff3c2e66eb0f72615e21463c76eb7d,487314,Counter-Strike: MASQ vs Passion Academy (BO3) - United21 Group A,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-18T19:45:00Z,2026-08-03T07:58:54.565470+00:00
