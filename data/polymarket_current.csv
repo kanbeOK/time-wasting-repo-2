@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2267489,0xc6231bd148d6c64dd08f2cb64e652f8cbd581e2ad0277b1213a94acc18f40e64,487579,Counter-Strike: BESTIA Academy vs Vasco Esports (BO3) - BetBoom Storm Group Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-17T02:10:00Z,2026-08-03T20:44:52.221304+00:00
+2311357,0x883b89030de7e9c89191a4a8b769c3caed0f142d8ca9e2fad5a6aa403abd01d4,488242,LoL: T1 vs Kiwoom DRX (BO3) - LCK Rounds 1-2,Total Kills Over/Under 41.5 in Game 2?,,0.0,,,,,,,,2026-05-20T14:00:00Z,2026-08-03T22:13:16.747799+00:00
