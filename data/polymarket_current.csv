@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2311357,0x883b89030de7e9c89191a4a8b769c3caed0f142d8ca9e2fad5a6aa403abd01d4,488242,LoL: T1 vs Kiwoom DRX (BO3) - LCK Rounds 1-2,Total Kills Over/Under 41.5 in Game 2?,,0.0,,,,,,,,2026-05-20T14:00:00Z,2026-08-04T03:26:36.823140+00:00
+2311357,0x883b89030de7e9c89191a4a8b769c3caed0f142d8ca9e2fad5a6aa403abd01d4,488242,LoL: T1 vs Kiwoom DRX (BO3) - LCK Rounds 1-2,Total Kills Over/Under 41.5 in Game 2?,,0.0,,,,,,,,2026-05-20T14:00:00Z,2026-08-04T06:12:48.319668+00:00
