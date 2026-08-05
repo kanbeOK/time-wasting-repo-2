@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2270137,0xb5911777e97da4199e822f42667f3afd8dfb7f9356f4d0fd553861d2368a1be1,488808,Ebola pandemic in 2026?,Ebola pandemic in 2026?,,133604.70386,676460.9812359998,,,,,,,2026-12-31T00:00:00Z,2026-08-04T23:34:41.916117+00:00
+2644023,0xf47f3f75eb6083a0aef673d8700748a5bc4fd471e509472b36f9720605b97171,489032,US announces Cuba oil sanction relief by...?,US announces Cuba oil sanction relief by December 31?,,548.5234,,,,,,,,2026-09-30T00:00:00Z,2026-08-05T03:21:29.988427+00:00
