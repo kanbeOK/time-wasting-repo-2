@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2285398,0x2eb7e1baced31c4ac0b78e7e2b8fa890242106c66892f23990112772de54fd31,495473,UFC: Who Will Arnold Allen Fight Next? ,Will someone else fight Arnold Allen next?,,0.0,0.0,,,,,,,2027-05-17T00:00:00Z,2026-08-05T21:49:58.841492+00:00
+2285398,0x2eb7e1baced31c4ac0b78e7e2b8fa890242106c66892f23990112772de54fd31,495473,UFC: Who Will Arnold Allen Fight Next? ,Will someone else fight Arnold Allen next?,,0.0,0.0,,,,,,,2027-05-17T00:00:00Z,2026-08-05T23:09:22.023681+00:00
