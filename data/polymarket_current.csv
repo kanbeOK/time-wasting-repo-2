@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2285863,0x142c1e134ae9c55c2c96b74733efc41316fb2147e42d70515cfe8270c147297b,495319,Cervia (Doubles): Duncan/Ribero vs Bianchi/Sheehy,Duncan/Ribero vs. Bianchi/Sheehy: Match O/U 23.5,,0.0,,,,,,,,2026-05-26T08:00:00Z,2026-08-05T11:38:03.094650+00:00
+2285863,0x142c1e134ae9c55c2c96b74733efc41316fb2147e42d70515cfe8270c147297b,495319,Cervia (Doubles): Duncan/Ribero vs Bianchi/Sheehy,Duncan/Ribero vs. Bianchi/Sheehy: Match O/U 23.5,,0.0,,,,,,,,2026-05-26T08:00:00Z,2026-08-05T14:26:33.157385+00:00
