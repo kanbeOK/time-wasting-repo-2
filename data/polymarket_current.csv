@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2644023,0xf47f3f75eb6083a0aef673d8700748a5bc4fd471e509472b36f9720605b97171,489032,US announces Cuba oil sanction relief by...?,US announces Cuba oil sanction relief by December 31?,,548.5234,,,,,,,,2026-09-30T00:00:00Z,2026-08-05T03:21:29.988427+00:00
+2281490,0xef67219b309ec7257958c610867287e3ccb3caa4ec7199fb15c4ee438d481e88,493578,Counter-Strike: Vitality Academy vs Prestige (BO3) - United21 Group B,Map 3: Odd/Even Total Rounds?,,,50.0,,,,,,,2026-05-18T16:40:00Z,2026-08-05T06:08:07.926894+00:00
