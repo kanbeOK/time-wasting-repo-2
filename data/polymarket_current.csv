@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2291336,0x264686d7e30f58d0746e775d00d260cc147259e94069aa3dfa771d14c8199465,496950,Geneva Open: Cameron Norrie vs Mariano Navone,Set Handicap: Navone (-1.5) vs Norrie (+1.5),,,1109.8270389999998,,,,,,,2026-05-27T08:00:00Z,2026-08-07T05:46:23.075170+00:00
+2291336,0x264686d7e30f58d0746e775d00d260cc147259e94069aa3dfa771d14c8199465,496950,Geneva Open: Cameron Norrie vs Mariano Navone,Set Handicap: Navone (-1.5) vs Norrie (+1.5),,,1109.8270389999998,,,,,,,2026-05-27T08:00:00Z,2026-08-07T07:35:27.541240+00:00
