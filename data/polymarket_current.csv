@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2291633,0x644a99471995aff0c0642f122c1b33073695c26fe96020f9be400e9aa491e0f5,497830,"Bitcoin Up or Down - May 20, 6AM ET","Bitcoin Up or Down - May 20, 6AM ET",,13686.6006,26933.742992000032,,,,,,,2026-05-20T11:00:00Z,2026-08-09T13:06:29.327795+00:00
+2291633,0x644a99471995aff0c0642f122c1b33073695c26fe96020f9be400e9aa491e0f5,497830,"Bitcoin Up or Down - May 20, 6AM ET","Bitcoin Up or Down - May 20, 6AM ET",,13686.6006,26933.742992000032,,,,,,,2026-05-20T11:00:00Z,2026-08-09T14:08:41.092565+00:00
