@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2291651,0x89d37edb6880ef2b42dae09260c91bd55838ea359910629cb76dcf187ee710e7,497840,"Solana Up or Down - May 20, 6AM ET","Solana Up or Down - May 20, 6AM ET",,1392.71616,7270.102796000001,,,,,,,2026-05-20T11:00:00Z,2026-08-10T13:57:50.546500+00:00
+2291651,0x89d37edb6880ef2b42dae09260c91bd55838ea359910629cb76dcf187ee710e7,497840,"Solana Up or Down - May 20, 6AM ET","Solana Up or Down - May 20, 6AM ET",,1393.4382,7270.102796000001,,,,,,,2026-05-20T11:00:00Z,2026-08-10T15:09:35.855482+00:00
