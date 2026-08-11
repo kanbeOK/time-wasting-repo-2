@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2291658,0x2787a78550c94d98b30375293ea09fcec1e037f6e0b297dcd6d1d783439a9878,497844,"HYPE Up or Down - May 20, 6AM ET","HYPE Up or Down - May 20, 6AM ET",,1252.18505,78.98393899999999,,,,,,,2026-05-20T11:00:00Z,2026-08-11T13:58:05.290657+00:00
+2291658,0x2787a78550c94d98b30375293ea09fcec1e037f6e0b297dcd6d1d783439a9878,497844,"HYPE Up or Down - May 20, 6AM ET","HYPE Up or Down - May 20, 6AM ET",,1252.18503,78.98393899999999,,,,,,,2026-05-20T11:00:00Z,2026-08-11T15:09:52.278522+00:00
