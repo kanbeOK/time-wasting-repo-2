@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2293900,0xdfd9e88f948c6875027c881dcb50daf56ae577b0e4c4349779e7bd448ddc3a0b,498879,Next James Bond actor?,No one announced as next James Bond?,,15943.75602,13980.670768,,,,,,,2026-12-31T00:00:00Z,2026-08-12T20:10:29.870284+00:00
+2293915,0x29a29de2a7c89b7bec5b7a789b0a895316fc7da3ff329e10d61792f2f158a50a,498880,Pro Football: Jets Week 1 Starting QB,Will someone else be the Jets' Week 1 starting QB?,,0.0,0.0,,,,,,,2026-09-14T00:00:00Z,2026-08-12T21:23:02.431857+00:00
