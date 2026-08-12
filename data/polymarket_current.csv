@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2293915,0x29a29de2a7c89b7bec5b7a789b0a895316fc7da3ff329e10d61792f2f158a50a,498880,Pro Football: Jets Week 1 Starting QB,Will someone else be the Jets' Week 1 starting QB?,,0.0,0.0,,,,,,,2026-09-14T00:00:00Z,2026-08-12T21:23:02.431857+00:00
+2294182,0xfecfbea47f80135384abdfd29c139642d5e2ee913f0656486f54d1ba465888f3,498963,Madden NFL 27: Cover Athlete,Will Micah Parsons be on the cover of Madden NFL 27?,,,289.88,,,,,,,2026-08-31T23:59:00Z,2026-08-12T22:19:46.406881+00:00
