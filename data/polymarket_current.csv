@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2293900,0xdfd9e88f948c6875027c881dcb50daf56ae577b0e4c4349779e7bd448ddc3a0b,498879,Next James Bond actor?,No one announced as next James Bond?,,9872.44759,13930.670768,,,,,,,2026-12-31T00:00:00Z,2026-08-12T15:08:21.643827+00:00
+2293900,0xdfd9e88f948c6875027c881dcb50daf56ae577b0e4c4349779e7bd448ddc3a0b,498879,Next James Bond actor?,No one announced as next James Bond?,,11440.08882,13930.670768,,,,,,,2026-12-31T00:00:00Z,2026-08-12T16:28:02.427252+00:00
