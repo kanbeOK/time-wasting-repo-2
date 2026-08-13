@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2296084,0x69d4e7f7c9af2e5e64d155fe997aeaf205c6affab4988eddc546923ee0b14b18,499420,Will Apyx launch a token by ___?,"Will Apyx launch a token by December 31, 2027?",,1008.3397,,,,,,,,2028-01-01T04:59:00Z,2026-08-13T17:33:23.243587+00:00
+2296221,0xf52464db4365608f6f135248f83cd1e98e6232bce4917e6cd7d94d911ca8f51a,499510,"Will Elon Musk tweet ""Hyperliquid"" by ___?","Will Elon Musk tweet ""Hyperliquid"" by December 31, 2026?",,2187.2874,10406.040372000001,,,,,,,2027-01-01T05:00:00Z,2026-08-13T19:12:49.162574+00:00
