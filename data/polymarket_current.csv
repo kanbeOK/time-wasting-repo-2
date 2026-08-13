@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2294182,0xfecfbea47f80135384abdfd29c139642d5e2ee913f0656486f54d1ba465888f3,498963,Madden NFL 27: Cover Athlete,Will Micah Parsons be on the cover of Madden NFL 27?,,,289.88,,,,,,,2026-08-31T23:59:00Z,2026-08-13T03:10:19.657499+00:00
+2295076,0x88e9256783aec647357679e3484a579fd3cbac0e7755c4516137cc51b1b660a8,499218,Club Bolívar vs. Bamin Real Potosí - Halftime Result,Bamin Real Potosí leading at halftime?,,,,,,,,,,2026-06-14T22:00:00Z,2026-08-13T05:19:23.742502+00:00
