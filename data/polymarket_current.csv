@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2294182,0xfecfbea47f80135384abdfd29c139642d5e2ee913f0656486f54d1ba465888f3,498963,Madden NFL 27: Cover Athlete,Will Micah Parsons be on the cover of Madden NFL 27?,,,289.88,,,,,,,2026-08-31T23:59:00Z,2026-08-13T00:08:58.475274+00:00
+2294182,0xfecfbea47f80135384abdfd29c139642d5e2ee913f0656486f54d1ba465888f3,498963,Madden NFL 27: Cover Athlete,Will Micah Parsons be on the cover of Madden NFL 27?,,,289.88,,,,,,,2026-08-31T23:59:00Z,2026-08-13T03:10:19.657499+00:00
