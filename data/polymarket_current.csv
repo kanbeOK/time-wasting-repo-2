@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2297732,0x3b944701ebddef5cb4ad0bc296847e92c6e414e6360e01deff4faee59a1c04c1,499860,"Roland Garros, Qualification WTA: Sinja Kraus vs Noma Noha Akugue",Kraus vs. Akugue: Match O/U 23.5,,0.0,,,,,,,,2026-05-27T08:00:00Z,2026-08-14T12:11:29.780455+00:00
+2297732,0x3b944701ebddef5cb4ad0bc296847e92c6e414e6360e01deff4faee59a1c04c1,499860,"Roland Garros, Qualification WTA: Sinja Kraus vs Noma Noha Akugue",Kraus vs. Akugue: Match O/U 23.5,,0.0,,,,,,,,2026-05-27T08:00:00Z,2026-08-14T13:56:09.125400+00:00
