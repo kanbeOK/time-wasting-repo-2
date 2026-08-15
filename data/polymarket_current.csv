@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2297961,0x95aa129cfede8c188c65d4393d76e3893f65d4775c79dd0674471868c82c542a,500048,Counter-Strike: WRAITH PCIFIC vs ALGO Esports (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,1.960783,,,,,,,2026-05-19T13:00:00Z,2026-08-15T15:50:53.232539+00:00
+2297961,0x95aa129cfede8c188c65d4393d76e3893f65d4775c79dd0674471868c82c542a,500048,Counter-Strike: WRAITH PCIFIC vs ALGO Esports (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,1.960783,,,,,,,2026-05-19T13:00:00Z,2026-08-15T16:32:55.279832+00:00
