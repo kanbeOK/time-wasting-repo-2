@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2307825,0x6231089f4ea288201b55d3000b19ef8e56ce5edc50a2806067c8b2e4c6d43dc2,500753,Will Anthropic’s valuation hit __ by December 31?,Will Anthropic's valuation hit (HIGH) $5.0T by December 31?,,21938.28628,103702.56531199999,,,,,,,2027-01-01T12:00:00Z,2026-08-17T16:36:13.428334+00:00
+2307825,0x6231089f4ea288201b55d3000b19ef8e56ce5edc50a2806067c8b2e4c6d43dc2,500753,Will Anthropic’s valuation hit __ by December 31?,Will Anthropic's valuation hit (HIGH) $5.0T by December 31?,,22213.76224,103747.50531200002,,,,,,,2027-01-01T12:00:00Z,2026-08-17T17:33:39.977276+00:00
