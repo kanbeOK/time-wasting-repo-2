@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300104,0x444c92f808d1154dc9ea3b41083f46ccd4b93f5c1bf917b79221d15e75fabebc,500791,Will Stripe's valuation hit __ by December 31?,Will Stripe's valuation hit (LOW) $125B by December 31?,,518.6369,1988.553994,,,,,,,2027-01-01T12:00:00Z,2026-08-18T20:31:59.791082+00:00
+2300104,0x444c92f808d1154dc9ea3b41083f46ccd4b93f5c1bf917b79221d15e75fabebc,500791,Will Stripe's valuation hit __ by December 31?,Will Stripe's valuation hit (LOW) $125B by December 31?,,522.5938,1988.553994,,,,,,,2027-01-01T12:00:00Z,2026-08-18T21:30:49.610992+00:00
