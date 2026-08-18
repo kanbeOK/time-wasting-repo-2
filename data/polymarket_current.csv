@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2307904,0xedbfee6204f26891dbeaebf58c031cb8d9f66d5c9118b4fcdd886c75ba0071e3,500775,Will OpenAI's valuation hit __ by December 31?,Will OpenAI's valuation hit (HIGH) $5.0T by December 31?,,7345.63211,13285.682770999994,,,,,,,2027-01-01T12:00:00Z,2026-08-18T01:42:01.629250+00:00
+2307904,0xedbfee6204f26891dbeaebf58c031cb8d9f66d5c9118b4fcdd886c75ba0071e3,500775,Will OpenAI's valuation hit __ by December 31?,Will OpenAI's valuation hit (HIGH) $5.0T by December 31?,,7334.63719,13285.682770999994,,,,,,,2027-01-01T12:00:00Z,2026-08-18T03:02:49.037113+00:00
