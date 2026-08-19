@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300216,0xb1863ec16730aefa8b8efc4d4ba7f148b38e4211d63025dddb80bb95abf30671,500840,Will Canva’s valuation hit __ by December 31?,Will Canva's valuation hit (LOW) $30B by December 31?,,870.3744,8125.383976000001,,,,,,,2027-01-01T12:00:00Z,2026-08-19T21:32:12.101983+00:00
+2300312,0x20b0a4eb7e7ce4054637462158e6fdf7d8e9dcedc2caa9e398b51665a98364b2,500885,Will Lambda's valuation hit __ by December 31?,Will Lambda's valuation hit (LOW) $5B by December 31?,,1563.0067,1618.983229,,,,,,,2027-01-01T13:00:00Z,2026-08-19T22:31:51.022496+00:00
