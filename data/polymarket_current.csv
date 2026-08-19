@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300104,0x444c92f808d1154dc9ea3b41083f46ccd4b93f5c1bf917b79221d15e75fabebc,500791,Will Stripe's valuation hit __ by December 31?,Will Stripe's valuation hit (LOW) $125B by December 31?,,160.9637,1988.553994,,,,,,,2027-01-01T12:00:00Z,2026-08-19T05:57:51.473272+00:00
+2300148,0x1645e84eba76054f1f879938aab04034fe48a491d671f352a099ee4f60cfca2c,500808,Will Databricks' valuation hit __ by December 31?,Will Databricks' valuation hit (LOW) $125B by December 31?,,760.74359,12894.293866000005,,,,,,,2027-01-01T13:00:00Z,2026-08-19T06:58:59.596848+00:00
