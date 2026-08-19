@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300192,0xcefef2c0b01dbb75302f09d278d11a919a96606d88ae47125e6d04890140f3fe,500825,Will Perplexity's valuation hit __ by December 31?,Will Perplexity's valuation hit (LOW) $12.5B by December 31?,,502.1532,7041.453876,,,,,,,2027-01-01T13:00:00Z,2026-08-19T18:45:08.580439+00:00
+2300216,0xb1863ec16730aefa8b8efc4d4ba7f148b38e4211d63025dddb80bb95abf30671,500840,Will Canva’s valuation hit __ by December 31?,Will Canva's valuation hit (LOW) $30B by December 31?,,881.6356,8125.383976000001,,,,,,,2027-01-01T12:00:00Z,2026-08-19T19:32:04.329338+00:00
