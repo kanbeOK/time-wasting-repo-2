@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300183,0x99e6ff7ddb35f91f31d35f8fe8c352646f137a3aaec28712b4ab13409ac1ad78,500824,Will Neuralink’s valuation hit __ by December 31?,Will Neuralink's valuation hit (LOW) $25B by December 31?,,2801.6412,5203.11595,,,,,,,2027-01-01T13:00:00Z,2026-08-19T11:32:18.586393+00:00
+2300183,0x99e6ff7ddb35f91f31d35f8fe8c352646f137a3aaec28712b4ab13409ac1ad78,500824,Will Neuralink’s valuation hit __ by December 31?,Will Neuralink's valuation hit (LOW) $25B by December 31?,,2386.2875,5203.11595,,,,,,,2027-01-01T13:00:00Z,2026-08-19T13:00:44.103505+00:00
