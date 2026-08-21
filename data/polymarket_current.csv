@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300312,0x20b0a4eb7e7ce4054637462158e6fdf7d8e9dcedc2caa9e398b51665a98364b2,500885,Will Lambda's valuation hit __ by December 31?,Will Lambda's valuation hit (LOW) $5B by December 31?,,1711.8872,1665.9632290000002,,,,,,,2027-01-01T13:00:00Z,2026-08-21T08:07:50.658399+00:00
+2300312,0x20b0a4eb7e7ce4054637462158e6fdf7d8e9dcedc2caa9e398b51665a98364b2,500885,Will Lambda's valuation hit __ by December 31?,Will Lambda's valuation hit (LOW) $5B by December 31?,,1289.4388,1665.9632290000002,,,,,,,2027-01-01T13:00:00Z,2026-08-21T09:09:22.835497+00:00
