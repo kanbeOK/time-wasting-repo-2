@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300312,0x20b0a4eb7e7ce4054637462158e6fdf7d8e9dcedc2caa9e398b51665a98364b2,500885,Will Lambda's valuation hit __ by December 31?,Will Lambda's valuation hit (LOW) $5B by December 31?,,1426.6255,1738.963229,,,,,,,2027-01-01T13:00:00Z,2026-08-21T11:35:46.362499+00:00
+2300546,0x474e4c8c2832b865b83ea72b6ec60d985455e70a2de40a74fdb84604fafe0cad,501059,Counter-Strike: Melilla Titans vs HAVENs (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,21.119999999999997,,,,,,,2026-05-19T20:30:00Z,2026-08-21T13:02:07.363146+00:00
