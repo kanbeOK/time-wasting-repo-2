@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300546,0x474e4c8c2832b865b83ea72b6ec60d985455e70a2de40a74fdb84604fafe0cad,501059,Counter-Strike: Melilla Titans vs HAVENs (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,21.119999999999997,,,,,,,2026-05-19T20:30:00Z,2026-08-21T17:36:00.925638+00:00
+2300546,0x474e4c8c2832b865b83ea72b6ec60d985455e70a2de40a74fdb84604fafe0cad,501059,Counter-Strike: Melilla Titans vs HAVENs (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,21.119999999999997,,,,,,,2026-05-19T20:30:00Z,2026-08-21T18:48:07.248855+00:00
