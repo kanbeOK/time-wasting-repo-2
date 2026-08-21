@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300546,0x474e4c8c2832b865b83ea72b6ec60d985455e70a2de40a74fdb84604fafe0cad,501059,Counter-Strike: Melilla Titans vs HAVENs (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,21.119999999999997,,,,,,,2026-05-19T20:30:00Z,2026-08-21T21:31:17.565141+00:00
+2300734,0x73cf4d3b49825b92c98f68be0641479c249f43e208dc440872c39e154a860df7,501202,Counter-Strike: Glitchtech Esports vs Aurora Young Blood (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-19T21:15:00Z,2026-08-21T22:32:00.776983+00:00
