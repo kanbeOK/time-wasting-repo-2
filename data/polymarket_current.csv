@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2302186,0x777fbf70aab8a49b5e1e767bc3de61f4ac192debf0f5ea8f8c609d45bf436413,501978,Counter-Strike: eSuba vs Vortex CGO (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-19T21:30:00Z,2026-08-24T18:53:57.536976+00:00
+2303265,0x3fcd367d1aecd2e01fb6ddc7dc971e30c85f64ff58269f58e601849d569c3829,502420,José Luis Rodríguez Zapatero sentenced to prison?,José Luis Rodríguez Zapatero sentenced to prison?,,19681.5476,62026.411528,,,,,,,2026-12-31T00:00:00Z,2026-08-24T19:35:19.010999+00:00
