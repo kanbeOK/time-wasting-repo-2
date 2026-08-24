@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300734,0x73cf4d3b49825b92c98f68be0641479c249f43e208dc440872c39e154a860df7,501202,Counter-Strike: Glitchtech Esports vs Aurora Young Blood (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-19T21:15:00Z,2026-08-23T23:51:03.041051+00:00
+2300824,0xe9d9566438c3c241a56109e6a79cea59b38b08b654b5aaf693054271946b8e38,501207,Counter-Strike: PURE vs BOJONG (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,15.559999999999999,,,,,,,2026-05-19T22:10:00Z,2026-08-24T01:49:10.312768+00:00
