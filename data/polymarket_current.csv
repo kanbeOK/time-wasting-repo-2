@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2302186,0x777fbf70aab8a49b5e1e767bc3de61f4ac192debf0f5ea8f8c609d45bf436413,501978,Counter-Strike: eSuba vs Vortex CGO (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-19T21:30:00Z,2026-08-24T16:05:43.340603+00:00
+2302186,0x777fbf70aab8a49b5e1e767bc3de61f4ac192debf0f5ea8f8c609d45bf436413,501978,Counter-Strike: eSuba vs Vortex CGO (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-19T21:30:00Z,2026-08-24T17:06:54.770196+00:00
