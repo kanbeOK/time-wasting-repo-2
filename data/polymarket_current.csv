@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2300824,0xe9d9566438c3c241a56109e6a79cea59b38b08b654b5aaf693054271946b8e38,501207,Counter-Strike: PURE vs BOJONG (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,15.559999999999999,,,,,,,2026-05-19T22:10:00Z,2026-08-24T08:56:55.330509+00:00
+2300824,0xe9d9566438c3c241a56109e6a79cea59b38b08b654b5aaf693054271946b8e38,501207,Counter-Strike: PURE vs BOJONG (BO1) - ESEA Advanced Europe Regular Season,Map 1: Odd/Even Total Rounds?,,,15.559999999999999,,,,,,,2026-05-19T22:10:00Z,2026-08-24T09:57:09.629511+00:00
