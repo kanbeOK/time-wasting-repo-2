@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2303886,0x15cda44bef6ec2cb20755e8632f1386cf244a1aeb0372d463dbf70a7c44bcde5,502667,Anthropic vs OpenAI - higher valuation on December 31?,Anthropic vs OpenAI - higher valuation on December 31?,,10760.1223,54847.33102099999,,,,,,,2027-01-01T12:00:00Z,2026-08-25T05:59:56.455495+00:00
+2303886,0x15cda44bef6ec2cb20755e8632f1386cf244a1aeb0372d463dbf70a7c44bcde5,502667,Anthropic vs OpenAI - higher valuation on December 31?,Anthropic vs OpenAI - higher valuation on December 31?,,11149.255,54847.331021000005,,,,,,,2027-01-01T12:00:00Z,2026-08-25T07:03:40.795557+00:00
