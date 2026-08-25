@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2304048,0x4b2c25fd78ceb05a8b1d424788456ebec757a08df9bc7bdb0ced0cbcfa067a82,502767,Anduril vs Lockheed Martin - higher valuation on December 31?,Anduril vs Lockheed Martin - higher valuation on December 31?,,995.2628,4820.515001,,,,,,,2027-01-01T12:00:00Z,2026-08-25T20:37:12.963003+00:00
+2304048,0x4b2c25fd78ceb05a8b1d424788456ebec757a08df9bc7bdb0ced0cbcfa067a82,502767,Anduril vs Lockheed Martin - higher valuation on December 31?,Anduril vs Lockheed Martin - higher valuation on December 31?,,1105.1925,4820.515001,,,,,,,2027-01-01T12:00:00Z,2026-08-25T21:35:34.334264+00:00
