@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2304160,0x8faef0b98f32c4edee34db7dcd1c3b0b68a6eedfe3bb8e7f830f36b0eebdfeec,502818,Stripe vs American Express - higher valuation on December 31?,Stripe vs American Express - higher valuation on December 31?,,562.2086,828.355134,,,,,,,2027-01-01T12:00:00Z,2026-08-26T07:27:46.326382+00:00
+2304160,0x8faef0b98f32c4edee34db7dcd1c3b0b68a6eedfe3bb8e7f830f36b0eebdfeec,502818,Stripe vs American Express - higher valuation on December 31?,Stripe vs American Express - higher valuation on December 31?,,528.8052,828.355134,,,,,,,2027-01-01T12:00:00Z,2026-08-26T08:20:29.052392+00:00
