@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2304101,0xaca6fa1aefe48ff454fa81af3a87139033f3750fcf90c60d6f60e29a81fe8b05,502800,Epic Games vs Roblox - higher valuation on December 31?,Epic Games vs Roblox - higher valuation on December 31?,,550.5452,1344.2577410000001,,,,,,,2027-01-01T12:00:00Z,2026-08-26T05:07:11.922764+00:00
+2304160,0x8faef0b98f32c4edee34db7dcd1c3b0b68a6eedfe3bb8e7f830f36b0eebdfeec,502818,Stripe vs American Express - higher valuation on December 31?,Stripe vs American Express - higher valuation on December 31?,,562.2086,828.355134,,,,,,,2027-01-01T12:00:00Z,2026-08-26T06:01:33.393562+00:00
