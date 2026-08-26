@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2304101,0xaca6fa1aefe48ff454fa81af3a87139033f3750fcf90c60d6f60e29a81fe8b05,502800,Epic Games vs Roblox - higher valuation on December 31?,Epic Games vs Roblox - higher valuation on December 31?,,507.8378,1344.2577410000001,,,,,,,2027-01-01T12:00:00Z,2026-08-26T03:12:57.080325+00:00
+2304101,0xaca6fa1aefe48ff454fa81af3a87139033f3750fcf90c60d6f60e29a81fe8b05,502800,Epic Games vs Roblox - higher valuation on December 31?,Epic Games vs Roblox - higher valuation on December 31?,,618.0452,1344.2577410000001,,,,,,,2027-01-01T12:00:00Z,2026-08-26T04:11:32.065856+00:00
