@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2304204,0xfbf0869b186734f26197fc7c96bded5ed05862b394839716df72c29eb3f4fd60,502850,Anthropic + OpenAI vs Microsoft - higher valuation on December 31?,Anthropic + OpenAI vs Microsoft - higher valuation on December 31?,,3700.2526,6505.873444000001,,,,,,,2027-01-01T12:00:00Z,2026-08-26T20:59:46.702969+00:00
+2304364,0x6e75483d8f838d7dc5b42daf8dab22327e53c2087dc21c0ab61e93696e4be256,502875,Sweden Parliamentary Election: 3rd Place,Will Other win the third most seats in the 2026 Swedish parliamentary election?,,0.0,0.0,,,,,,,2026-09-13T00:00:00Z,2026-08-27T00:43:41.654145+00:00
