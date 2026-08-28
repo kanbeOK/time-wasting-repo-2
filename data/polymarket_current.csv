@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3231236,0xc28fc98e966ececbdd7f1d96edb75d74a905651f2ddd15b083149a79e0f473e1,504146,Rodrigo Paz out as President of Bolivia by...?,"Rodrigo Paz out as President of Bolivia by October 31, 2026?",,28.6179,72.639567,,,,,,,2026-11-01T03:59:00Z,2026-08-28T05:35:14.562912+00:00
+2950862,0x6839541c6ceb51d01fc384d4b9b88a6ff64175ad436fbc69804d39ba5bd41ec7,506573,Prabowo Subianto out as President of Indonesia by...?,"Will Prabowo Subianto cease to be President of Indonesia by June 30, 2027?",,497.054,150.958481,,,,,,,2027-07-01T03:59:00Z,2026-08-28T18:31:17.656616+00:00
