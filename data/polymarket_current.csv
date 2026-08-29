@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2950862,0x6839541c6ceb51d01fc384d4b9b88a6ff64175ad436fbc69804d39ba5bd41ec7,506573,Prabowo Subianto out as President of Indonesia by...?,"Will Prabowo Subianto cease to be President of Indonesia by June 30, 2027?",,1745.8734,150.958481,,,,,,,2027-07-01T03:59:00Z,2026-08-29T02:02:47.422190+00:00
+2950862,0x6839541c6ceb51d01fc384d4b9b88a6ff64175ad436fbc69804d39ba5bd41ec7,506573,Prabowo Subianto out as President of Indonesia by...?,"Will Prabowo Subianto cease to be President of Indonesia by June 30, 2027?",,10106.1483,150.958481,,,,,,,2027-07-01T03:59:00Z,2026-08-29T09:19:44.513009+00:00
