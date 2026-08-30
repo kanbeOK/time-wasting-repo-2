@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2314311,0xb549c8aff4385529b58d05ca393d0bc599edc397768857f740819584b6a77830,506767,Chud the Builder convicted?,Chud the Builder convicted?,,393.5455,969.931666,,,,,,,2027-07-31T00:00:00Z,2026-08-30T18:45:10.301831+00:00
+2314311,0xb549c8aff4385529b58d05ca393d0bc599edc397768857f740819584b6a77830,506767,Chud the Builder convicted?,Chud the Builder convicted?,,391.9851,969.931666,,,,,,,2027-07-31T00:00:00Z,2026-08-30T21:53:26.982622+00:00
