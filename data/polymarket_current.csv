@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2314948,0xdf032ab101ff8994817d27168a87c54d159939129e3484a042dae76987b80bb7,507021,Will Cambria launch a token by ___?,"Will Cambria launch a token by December 31, 2027?",,1238.74392,12388.146849000002,,,,,,,2028-01-01T04:59:00Z,2026-08-31T19:56:11.204694+00:00
+2314997,0xe7fa4403278652470a1a99eea4c8569669b449e689abacea966e1447be67d48f,507046,Will Decibel launch a token by ___?,"Will Decibel launch a token by December 31, 2027?",,345.2254,21147.060262,,,,,,,2028-01-01T04:59:00Z,2026-08-31T23:44:01.374793+00:00
