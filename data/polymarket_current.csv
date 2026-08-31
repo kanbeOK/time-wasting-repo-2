@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2314531,0x75f777dd75ac265215854a01e9896c989dbdeb1866b361ddcbec9963fa8ff463,506864,What will OpenAI's public ticker be?,Will OpenAI's public ticker be another ticker?,,0.0,0.0,,,,,,,2027-12-31T00:00:00Z,2026-08-31T13:34:21.801190+00:00
+2314948,0xdf032ab101ff8994817d27168a87c54d159939129e3484a042dae76987b80bb7,507021,Will Cambria launch a token by ___?,"Will Cambria launch a token by December 31, 2027?",,1238.74392,12388.146849000002,,,,,,,2028-01-01T04:59:00Z,2026-08-31T19:56:11.204694+00:00
