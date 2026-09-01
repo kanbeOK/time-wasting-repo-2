@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2314997,0xe7fa4403278652470a1a99eea4c8569669b449e689abacea966e1447be67d48f,507046,Will Decibel launch a token by ___?,"Will Decibel launch a token by December 31, 2027?",,366.3745,21147.060262,,,,,,,2028-01-01T04:59:00Z,2026-09-01T04:51:09.164430+00:00
+2315537,0x80ee05b171a387e641ddd562b246f135b5fc20d1c07bf5abd620a2ec9ea375b2,507323,Will Ink launch a token by ___?,"Will Ink launch a token by December 31, 2027?",,5802.22316,12447.458283,,,,,,,2028-01-01T04:59:00Z,2026-09-01T09:55:02.605636+00:00
