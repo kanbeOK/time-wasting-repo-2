@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2315537,0x80ee05b171a387e641ddd562b246f135b5fc20d1c07bf5abd620a2ec9ea375b2,507323,Will Ink launch a token by ___?,"Will Ink launch a token by December 31, 2027?",,5750.48809,12447.458283,,,,,,,2028-01-01T04:59:00Z,2026-09-01T23:31:10.623312+00:00
+2317005,0xad523086957c401779d7deed21d3ec27d5f482d56de143bc030d82fade717169,507875,What will OpenAI's IPO valuation be?,Will OpenAI's IPO valuation be at least $2.5T?,,5184.42031,36135.11322300001,,,,,,,2027-07-01T00:00:00Z,2026-09-02T04:11:49.072464+00:00
