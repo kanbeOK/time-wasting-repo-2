@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2676529,0x8567295f09b89140143070db5a6ae362aba1d1ce81de2c3ef0da086cc5185877,508270,Will Russia capture Mala Tokmachka by...?,"Will Russia capture Mala Tokmachka by December 31, 2026?",,22390.5229,20220.041029,,,,,,,2027-01-01T04:59:00Z,2026-09-04T04:17:12.602055+00:00
+2318094,0x110e5fb7727488915d133f6d2b6e0ae942979604ca9019c42df604a30eefc8d0,508279,Counter-Strike: eSuba vs Oldboys (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-22T00:50:00Z,2026-09-04T08:59:48.767655+00:00
