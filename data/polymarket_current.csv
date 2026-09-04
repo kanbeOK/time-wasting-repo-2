@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2318107,0x6a6e35ad1126b7c51fdf1bdd72a562f14455dfd1c1885e282a7a10bf6cf251d4,508281,Will Russia capture Orikhiv by...?,"Will Russia capture Orikhiv by December 31, 2026?",,22009.1115,80340.62395300002,,,,,,,2027-01-01T04:59:00Z,2026-09-04T13:26:09.370027+00:00
+2318140,0x78401aebcb93cb03100dedf8d7cfc4568e8e17f619c4b7017a294ae3c8954fb6,508311,"Will Russia capture Borova by December 31, 2026?","Will Russia capture Borova by December 31, 2026?",,1679.2483,54196.024511999996,,,,,,,2027-01-01T04:59:00Z,2026-09-04T17:00:19.757380+00:00
