@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2676529,0x8567295f09b89140143070db5a6ae362aba1d1ce81de2c3ef0da086cc5185877,508270,Will Russia capture Mala Tokmachka by...?,"Will Russia capture Mala Tokmachka by December 31, 2026?",,22871.0493,20200.041029,,,,,,,2027-01-01T04:59:00Z,2026-09-03T23:55:51.346077+00:00
+2676529,0x8567295f09b89140143070db5a6ae362aba1d1ce81de2c3ef0da086cc5185877,508270,Will Russia capture Mala Tokmachka by...?,"Will Russia capture Mala Tokmachka by December 31, 2026?",,22390.5229,20220.041029,,,,,,,2027-01-01T04:59:00Z,2026-09-04T04:17:12.602055+00:00
