@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2318183,0x101335768342a7cfc82c9eb40791ddb001bd146b72a3db1571db61b513b55908,508335,Will Russia capture all of Chasiv Yar by...?,Will Russia capture all of Chasiv Yar by December 31?,,34440.4503,34392.373096999996,,,,,,,2027-01-01T04:59:00Z,2026-09-06T21:38:02.905469+00:00
+2318183,0x101335768342a7cfc82c9eb40791ddb001bd146b72a3db1571db61b513b55908,508335,Will Russia capture all of Chasiv Yar by...?,Will Russia capture all of Chasiv Yar by December 31?,,34434.9232,34392.37309699999,,,,,,,2027-01-01T04:59:00Z,2026-09-06T23:44:13.685109+00:00
