@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2318183,0x101335768342a7cfc82c9eb40791ddb001bd146b72a3db1571db61b513b55908,508335,Will Russia capture all of Chasiv Yar by...?,Will Russia capture all of Chasiv Yar by December 31?,,35270.1043,34392.37309699999,,,,,,,2027-01-01T04:59:00Z,2026-09-07T04:18:28.033940+00:00
+2746764,0x1f1abaa03c1f8122475715e6c60ee9a64236d9f622cf61af95f216bba41c7498,509924,No-confidence vote against Spain PM Sanchez by...?,No-confidence vote against Spain PM Sanchez by December 31?,,10438.9413,5807.750938000001,,,,,,,2027-01-01T04:59:00Z,2026-09-07T09:37:40.673456+00:00
