@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2321810,0x84bc901ce7e95d3135fa5312053cbeb92e0c300b728cb39aa6b3494e0ac23e20,510056,Counter-Strike: BIG Academy vs Kinoa (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,,,,,,,,2026-05-25T18:00:00Z,2026-09-08T01:05:44.360401+00:00
+2321810,0x84bc901ce7e95d3135fa5312053cbeb92e0c300b728cb39aa6b3494e0ac23e20,510056,Counter-Strike: BIG Academy vs Kinoa (BO3) - European Pro League Regular Playoffs,Map 3: Odd/Even Total Rounds?,,,,,,,,,,2026-05-25T18:00:00Z,2026-09-08T06:28:29.088014+00:00
