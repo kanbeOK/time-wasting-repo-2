@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2326379,0x3c11fb0a89202b349c12bfb4fccd1ec13157149e3170f1d44233c637798ef39b,511422,Which countries will have an Ebola case in 2026?,Will China have an Ebola case in 2026?,,128.2998,3537.0740140000003,,,,,,,2027-01-01T04:59:00Z,2026-09-09T06:34:41.433121+00:00
+2327578,0x01b2f87067b481d4851fb053a1c440a3c3fcca8da142757151bc85888cc55dbb,511906,Counter-Strike: KUUSAMO.gg vs Diamant Esports (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-22T17:30:00Z,2026-09-09T12:16:42.165074+00:00
