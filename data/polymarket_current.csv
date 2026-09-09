@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2327578,0x01b2f87067b481d4851fb053a1c440a3c3fcca8da142757151bc85888cc55dbb,511906,Counter-Strike: KUUSAMO.gg vs Diamant Esports (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-22T17:30:00Z,2026-09-09T12:16:42.165074+00:00
+2327589,0xca80e56376d900e6ab869f09967918aca8ce3abca1a91ed98154fcdc99ef91d1,511907,Counter-Strike: SHISHKA vs CSGOPOSITIVE (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-22T20:30:00Z,2026-09-09T16:51:26.065555+00:00
