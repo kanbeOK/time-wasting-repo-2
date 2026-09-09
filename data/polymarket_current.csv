@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2322388,0xfd48efae8c87e192e2d7bd080e5ebda629a304b2908e418279da0c93d96fd9ed,510220,Counter-Strike: BESTIA Academy vs DFX Peek (BO3) - Gamers Club Liga Série A Group A,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-23T01:15:00Z,2026-09-09T01:10:00.397394+00:00
+2326379,0x3c11fb0a89202b349c12bfb4fccd1ec13157149e3170f1d44233c637798ef39b,511422,Which countries will have an Ebola case in 2026?,Will China have an Ebola case in 2026?,,128.2998,3537.0740140000003,,,,,,,2027-01-01T04:59:00Z,2026-09-09T06:34:41.433121+00:00
