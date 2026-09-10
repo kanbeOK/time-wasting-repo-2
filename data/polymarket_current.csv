@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2327589,0xca80e56376d900e6ab869f09967918aca8ce3abca1a91ed98154fcdc99ef91d1,511907,Counter-Strike: SHISHKA vs CSGOPOSITIVE (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-22T20:30:00Z,2026-09-10T00:30:35.952256+00:00
+2337945,0x023e114093e040f30124255eb74d6023bd391acef965e8ebb0c29efd7304b1ae,515947,Counter-Strike: Bushido Wildcats vs 2007 (BO3) - CCT Europe Closed Qualifier: Series #3 Group D,Map 3: Odd/Even Total Rounds?,,,29.0,,,,,,,2026-05-23T14:00:00Z,2026-09-10T05:47:25.692026+00:00
