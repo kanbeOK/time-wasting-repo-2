@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2337945,0x023e114093e040f30124255eb74d6023bd391acef965e8ebb0c29efd7304b1ae,515947,Counter-Strike: Bushido Wildcats vs 2007 (BO3) - CCT Europe Closed Qualifier: Series #3 Group D,Map 3: Odd/Even Total Rounds?,,,29.0,,,,,,,2026-05-23T14:00:00Z,2026-09-10T11:06:23.630351+00:00
+2337945,0x023e114093e040f30124255eb74d6023bd391acef965e8ebb0c29efd7304b1ae,515947,Counter-Strike: Bushido Wildcats vs 2007 (BO3) - CCT Europe Closed Qualifier: Series #3 Group D,Map 3: Odd/Even Total Rounds?,,,29.0,,,,,,,2026-05-23T14:00:00Z,2026-09-10T15:06:52.976928+00:00
