@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2357599,0x8cb23d0934ec425483d90090709f5093264ca3d13ddc6dbd79f45bea1c27e442,525339,Counter-Strike: Pitstop crew vs Diamant Esports (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,5.0,,,,,,,2026-05-26T18:40:00Z,2026-09-11T20:51:51.467124+00:00
+2357599,0x8cb23d0934ec425483d90090709f5093264ca3d13ddc6dbd79f45bea1c27e442,525339,Counter-Strike: Pitstop crew vs Diamant Esports (BO3) - Exort Series Contenders Stage,Map 3: Odd/Even Total Rounds?,,,5.0,,,,,,,2026-05-26T18:40:00Z,2026-09-11T23:09:53.975907+00:00
