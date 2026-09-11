@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2353580,0xb15d3b814fc38c54a2be0ca54cb9ad7f4e74e22f41f119695ba152ce3146b8bb,518206,Counter-Strike: ALGO Esports vs NAVI Junior (BO3) - United21 Playoffs,Map Handicap: NAVI.J (-1.5) vs ALGO Esports (+1.5),,0.0,,,,,,,,2026-05-25T19:30:00Z,2026-09-11T13:44:37.925809+00:00
+2352221,0xd87b472ea79db9e27a888745d2966a015d0f5251cafb1a0644cfebb8d997c96c,522832,Counter-Strike: largadosypelados vs RED Canids Academy (BO3) - Gamers Club Liga Série A Group A,Map 3: Odd/Even Total Rounds?,,,,,,,,,,2026-05-26T00:20:00Z,2026-09-11T17:42:12.631089+00:00
