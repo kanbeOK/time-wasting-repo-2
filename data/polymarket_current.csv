@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2337945,0x023e114093e040f30124255eb74d6023bd391acef965e8ebb0c29efd7304b1ae,515947,Counter-Strike: Bushido Wildcats vs 2007 (BO3) - CCT Europe Closed Qualifier: Series #3 Group D,Map 3: Odd/Even Total Rounds?,,,29.0,,,,,,,2026-05-23T14:00:00Z,2026-09-11T09:04:46.507295+00:00
+2353580,0xb15d3b814fc38c54a2be0ca54cb9ad7f4e74e22f41f119695ba152ce3146b8bb,518206,Counter-Strike: ALGO Esports vs NAVI Junior (BO3) - United21 Playoffs,Map Handicap: NAVI.J (-1.5) vs ALGO Esports (+1.5),,0.0,,,,,,,,2026-05-25T19:30:00Z,2026-09-11T13:44:37.925809+00:00
