@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2361377,0x52ea45e8c1a57abd40de5d7e270a64f40b92a8f83d73949b49df2d185823e1fc,527199,Eurovision 2027 Participants,Will Kazakhstan participate in Eurovision 2027?,,566.5651,1072.6559750000001,,,,,,,2026-12-31T00:00:00Z,2026-09-13T14:53:19.980782+00:00
+2361765,0x92b59438f6dd47f42751d21f37f416ddb81f8266ea7278b82d94a940b742bfa5,527408,Will Banksy create a new mural or street artwork by December 31?,Will Banksy create a new mural or street artwork by December 31?,,1496.2561,2901.639044999999,,,,,,,2027-01-01T04:59:00Z,2026-09-13T18:03:30.492379+00:00
