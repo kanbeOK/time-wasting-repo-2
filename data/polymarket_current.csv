@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3861150,0x570705dab39dd3155d7e73e4339730c407805d4ef5e0062e36af56b80157b84f,527110,Another GTA VI trailer released by...?,Another GTA VI trailer released by September 30?,,18776.5635,62116.80235599999,,,,,,,2026-09-01T03:59:00Z,2026-09-13T05:16:51.034992+00:00
+3861150,0x570705dab39dd3155d7e73e4339730c407805d4ef5e0062e36af56b80157b84f,527110,Another GTA VI trailer released by...?,Another GTA VI trailer released by September 30?,,17499.4926,62977.23235600001,,,,,,,2026-09-01T03:59:00Z,2026-09-13T10:32:57.438896+00:00
