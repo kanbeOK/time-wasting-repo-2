@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3861150,0x570705dab39dd3155d7e73e4339730c407805d4ef5e0062e36af56b80157b84f,527110,Another GTA VI trailer released by...?,Another GTA VI trailer released by September 30?,,17499.4926,62977.23235600001,,,,,,,2026-09-01T03:59:00Z,2026-09-13T10:32:57.438896+00:00
+2361377,0x52ea45e8c1a57abd40de5d7e270a64f40b92a8f83d73949b49df2d185823e1fc,527199,Eurovision 2027 Participants,Will Kazakhstan participate in Eurovision 2027?,,566.5651,1072.6559750000001,,,,,,,2026-12-31T00:00:00Z,2026-09-13T14:53:19.980782+00:00
