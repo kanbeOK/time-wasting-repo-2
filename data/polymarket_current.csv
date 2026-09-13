@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2361207,0x9d09f04212afa3e6eaf978b260489740791402379633922768ba7db1bb09cbeb,527100,Counter-Strike: Guara Esports vs ODDIK Academy (BO3) - Gamers Club Liga Série A Group D,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-27T02:15:00Z,2026-09-13T00:10:59.728823+00:00
+3861150,0x570705dab39dd3155d7e73e4339730c407805d4ef5e0062e36af56b80157b84f,527110,Another GTA VI trailer released by...?,Another GTA VI trailer released by September 30?,,18776.5635,62116.80235599999,,,,,,,2026-09-01T03:59:00Z,2026-09-13T05:16:51.034992+00:00
