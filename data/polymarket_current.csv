@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2362969,0x4b527f4291ebebee4a6579b906b8fff39b4209c9ed1950dbca5213674350f952,527792,Will Curvance launch a token by ___?,"Will Curvance launch a token by December 31, 2027?",,3.0,,,,,,,,2028-01-01T04:59:00Z,2026-09-15T13:25:01.054692+00:00
+2362969,0x4b527f4291ebebee4a6579b906b8fff39b4209c9ed1950dbca5213674350f952,527792,Will Curvance launch a token by ___?,"Will Curvance launch a token by December 31, 2027?",,3.0,,,,,,,,2028-01-01T04:59:00Z,2026-09-15T17:44:26.241500+00:00
