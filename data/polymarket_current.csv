@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2362939,0xd9d07edea46ca5567af5b37013bcf1852bb4a96faf5f7f971d4dca80dd85e64a,527782,Will Ritual launch a token by ___?,"Will Ritual launch a token by December 31, 2027?",,4.9406,,,,,,,,2028-01-01T04:59:00Z,2026-09-14T23:03:34.537452+00:00
+2362939,0xd9d07edea46ca5567af5b37013bcf1852bb4a96faf5f7f971d4dca80dd85e64a,527782,Will Ritual launch a token by ___?,"Will Ritual launch a token by December 31, 2027?",,4.9406,,,,,,,,2028-01-01T04:59:00Z,2026-09-15T01:48:43.163823+00:00
