@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2362984,0x99731fb3f2469b25ed057d71c6e0794e337843588eaed6d08e445f39c2f13691,527800,Will BULK launch a token by ___?,"Will BULK launch a token by December 31, 2027?",,30.3,,,,,,,,2028-01-01T04:59:00Z,2026-09-16T04:35:00.624240+00:00
+2364075,0x509f046b7c469e369f4bd82221f8915e925b113898d349efcec99a317fb9cbda,528101,Ken Martin out as DNC Chair by...? ,"Will Ken Martin cease to be DNC Chair by December 31, 2026?",,160.1234,9768.497674000002,,,,,,,2027-01-01T04:59:00Z,2026-09-16T09:48:59.967283+00:00
