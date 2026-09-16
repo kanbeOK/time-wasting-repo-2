@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2364075,0x509f046b7c469e369f4bd82221f8915e925b113898d349efcec99a317fb9cbda,528101,Ken Martin out as DNC Chair by...? ,"Will Ken Martin cease to be DNC Chair by December 31, 2026?",,160.1234,9768.497674000002,,,,,,,2027-01-01T04:59:00Z,2026-09-16T09:48:59.967283+00:00
+2364075,0x509f046b7c469e369f4bd82221f8915e925b113898d349efcec99a317fb9cbda,528101,Ken Martin out as DNC Chair by...? ,"Will Ken Martin cease to be DNC Chair by December 31, 2026?",,143.8807,9768.497674000002,,,,,,,2027-01-01T04:59:00Z,2026-09-16T14:46:50.553452+00:00
