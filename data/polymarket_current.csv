@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2369912,0xb8c2e67c612036126e482d98336052702a51e1c2e264c365726b39de4ccee327,530784,Counter-Strike: Alzon vs QUINTESSÊNCIA (BO3) - Gamers Club Liga Série A Group C,Map 3: Odd/Even Total Rounds?,,,,,,,,,,2026-05-29T00:00:00Z,2026-09-17T16:48:08.217236+00:00
+2694422,0x3db36d07bf43609dec666dcd0a303b6c70afebb9c3f609009f1b46a298a6c531,531004,JD Vance out as VP by...?,JD Vance out as VP by July 31?,,0.0,4362.670666,,,,,,,2026-08-01T03:59:00Z,2026-09-17T20:09:14.792113+00:00
