@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3762823,0x55272ba2b993eeecbde704bf00d0c3fe7667763c8944dd55a69c006c25029086,528628,GTA VI released by...?,GTA VI released by September 30?,,11737.15018,4162.037579,,,,,,,2026-10-01T03:59:00Z,2026-09-17T05:59:30.772744+00:00
+2369912,0xb8c2e67c612036126e482d98336052702a51e1c2e264c365726b39de4ccee327,530784,Counter-Strike: Alzon vs QUINTESSÊNCIA (BO3) - Gamers Club Liga Série A Group C,Map 3: Odd/Even Total Rounds?,,,,,,,,,,2026-05-29T00:00:00Z,2026-09-17T11:32:44.870121+00:00
