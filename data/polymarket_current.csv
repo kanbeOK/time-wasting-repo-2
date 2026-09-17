@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3762823,0x55272ba2b993eeecbde704bf00d0c3fe7667763c8944dd55a69c006c25029086,528628,GTA VI released by...?,GTA VI released by September 30?,,11251.95141,4162.037579,,,,,,,2026-10-01T03:59:00Z,2026-09-16T22:02:18.010531+00:00
+3762823,0x55272ba2b993eeecbde704bf00d0c3fe7667763c8944dd55a69c006c25029086,528628,GTA VI released by...?,GTA VI released by September 30?,,11939.55544,4162.037579,,,,,,,2026-10-01T03:59:00Z,2026-09-17T00:50:06.827292+00:00
