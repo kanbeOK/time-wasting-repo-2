@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2694422,0x3db36d07bf43609dec666dcd0a303b6c70afebb9c3f609009f1b46a298a6c531,531004,JD Vance out as VP by...?,JD Vance out as VP by July 31?,,0.0,4362.670666,,,,,,,2026-08-01T03:59:00Z,2026-09-17T20:09:14.792113+00:00
+2370885,0x82141371409da1f4b21c5da853ee821c1acbb5c542a52ababc920df9546ec932,531258,Vance announces he won't run for President in 2028 this year?,Vance announces he won't run for President in 2028 this year?,,10109.7473,18790.377679,,,,,,,2026-12-31T00:00:00Z,2026-09-17T23:00:59.965723+00:00
