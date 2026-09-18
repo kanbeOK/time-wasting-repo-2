@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2371561,0xe556e3760c9b9e5fc6c17a03455b3abd16b83970e4c6d95ab64274b54153dfb0,531468,Top Spotify Album 2026,Will another album be the top Spotify album for 2026?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-09-18T16:40:00.300376+00:00
+2371561,0xe556e3760c9b9e5fc6c17a03455b3abd16b83970e4c6d95ab64274b54153dfb0,531468,Top Spotify Album 2026,Will another album be the top Spotify album for 2026?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-09-18T19:30:16.649117+00:00
