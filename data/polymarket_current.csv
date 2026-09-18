@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2371101,0x82b92892a18139a7a0bd50c6ad54958284f2299fd4704351e527c4d44e671d3a,531333,Next French Presidential Election: who will advance to the 2nd round?,Will Sébastien Lecornu advance to the second round of the next French presidential election?,,14085.43122,1536.083662,,,,,,,2027-04-30T00:00:00Z,2026-09-18T12:10:58.656761+00:00
+2371561,0xe556e3760c9b9e5fc6c17a03455b3abd16b83970e4c6d95ab64274b54153dfb0,531468,Top Spotify Album 2026,Will another album be the top Spotify album for 2026?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-09-18T16:40:00.300376+00:00
