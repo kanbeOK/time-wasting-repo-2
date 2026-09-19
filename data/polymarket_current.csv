@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2371561,0xe556e3760c9b9e5fc6c17a03455b3abd16b83970e4c6d95ab64274b54153dfb0,531468,Top Spotify Album 2026,Will another album be the top Spotify album for 2026?,,0.0,0.0,,,,,,,2026-12-31T00:00:00Z,2026-09-19T00:06:56.322899+00:00
+2375175,0xad436f3bcb65a8aa95cb69d235cfbb7348b30af3dee544fec5255e8db0a9359d,532864,Counter-Strike: X-CITY vs INFURITY Gaming (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-28T18:55:00Z,2026-09-19T04:56:03.089497+00:00
