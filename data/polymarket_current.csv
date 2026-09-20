@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2375193,0xb0d6a1a82372851ee6f5ed9a9a8df1ebb24371e99aad30aad7cb165202f556e9,532865,Counter-Strike: CarritoSpain vs Diamant Esports (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-28T20:30:00Z,2026-09-20T17:37:33.529154+00:00
+2375219,0x3dfc6b4db4f8ae182d56acb64868ba5b4751dbd93435e23e86a6b6bb606bab6d,532867,Counter-Strike: The Last Resort vs SHISHKA (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-29T00:45:00Z,2026-09-20T20:40:50.812558+00:00
