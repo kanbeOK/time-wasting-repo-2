@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2375219,0x3dfc6b4db4f8ae182d56acb64868ba5b4751dbd93435e23e86a6b6bb606bab6d,532867,Counter-Strike: The Last Resort vs SHISHKA (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-29T00:45:00Z,2026-09-20T20:40:50.812558+00:00
+2375219,0x3dfc6b4db4f8ae182d56acb64868ba5b4751dbd93435e23e86a6b6bb606bab6d,532867,Counter-Strike: The Last Resort vs SHISHKA (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-29T00:45:00Z,2026-09-20T23:08:41.941283+00:00
