@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2376399,0x6f9866892540e7a0993c149142b92225ebaac10f52da5eb093e42bb2e13bdb77,533278,Counter-Strike: Passion Academy vs ReThink (BO3) - United21 Group A,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-28T14:10:00Z,2026-09-21T01:29:57.555359+00:00
+2376432,0x8cfeec13fc125bbe28cfa98c1bad57adb45378ff61677f2d39f9590101d26cf2,533282,Counter-Strike: UNiTY esports vs INFURITY Gaming (BO3) - United21 Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-29T16:40:00Z,2026-09-21T07:04:01.363196+00:00
