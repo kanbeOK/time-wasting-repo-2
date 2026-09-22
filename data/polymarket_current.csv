@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2379833,0x166e8dc72e004856a927f6fdd4e1cc1c8fffbc0d4e493bc09309bf1f8c52b0ad,535051,Counter-Strike: ALKA vs FURIA fe (BO3) - Gamers Club Liga Série A Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-30T01:40:00Z,2026-09-22T21:11:00.906092+00:00
+2380219,0xef9efe2c1d1484f89e11e800bd26831a0ad1c7bc8bd71e3a7190c942765b50ad,535249,Trump on $250 bill this year?,Trump on $250 bill this year?,,15818.80721,32061.473891999995,,,,,,,2027-01-01T04:59:00Z,2026-09-22T23:45:33.893916+00:00
