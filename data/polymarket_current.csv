@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2379001,0x37b4c3e697d867455e6219e69b8c22ae62bfeb91c138d9dd10520405e843c03b,534725,Will Argentina make Peter Thiel a citizen by December 31?,Will Argentina make Peter Thiel a citizen by December 31?,,203.3155,1335.572082,,,,,,,2027-01-01T04:59:00Z,2026-09-21T23:09:58.989519+00:00
+2379001,0x37b4c3e697d867455e6219e69b8c22ae62bfeb91c138d9dd10520405e843c03b,534725,Will Argentina make Peter Thiel a citizen by December 31?,Will Argentina make Peter Thiel a citizen by December 31?,,206.2158,1335.572082,,,,,,,2027-01-01T04:59:00Z,2026-09-22T01:46:27.681881+00:00
