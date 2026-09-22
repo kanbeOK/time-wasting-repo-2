@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2379001,0x37b4c3e697d867455e6219e69b8c22ae62bfeb91c138d9dd10520405e843c03b,534725,Will Argentina make Peter Thiel a citizen by December 31?,Will Argentina make Peter Thiel a citizen by December 31?,,206.2042,1335.572082,,,,,,,2027-01-01T04:59:00Z,2026-09-22T17:44:03.204963+00:00
+2379833,0x166e8dc72e004856a927f6fdd4e1cc1c8fffbc0d4e493bc09309bf1f8c52b0ad,535051,Counter-Strike: ALKA vs FURIA fe (BO3) - Gamers Club Liga Série A Group B,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-30T01:40:00Z,2026-09-22T21:11:00.906092+00:00
