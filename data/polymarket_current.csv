@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-4859454,0x7de3aeadbe94b3da7c16c18f5545acc3d3b1b6ee828a94d50f0fc028b8635907,536290,US x China tariff agreement by December 31?,US x China tariff agreement by September 30?,,3556.0944,1288.0913030000002,,,,,,,2026-10-01T03:59:00Z,2026-09-23T09:51:33.948702+00:00
+4859454,0x7de3aeadbe94b3da7c16c18f5545acc3d3b1b6ee828a94d50f0fc028b8635907,536290,US x China tariff agreement by December 31?,US x China tariff agreement by September 30?,,4562.9969,2988.497968,,,,,,,2026-10-01T03:59:00Z,2026-09-23T14:51:34.499764+00:00
