@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2383359,0xc2d4b40e8c271e5103d8f9b6d94653cc7914e82e967ea6949b2f963c5d648758,536583,Counter-Strike: Diamant Esports vs Basement Bobs (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,,10.0,,,,,,,2026-05-29T14:30:00Z,2026-09-23T22:12:10.856597+00:00
+2383370,0x47c14f6044e6ad0591090d95295626ee23c31f1512bb207f9c819ba28393bcbe,536584,Counter-Strike: Endless Journey vs Partizan Esport (BO3) - Exort Series Main Stage,Map 3: Odd/Even Total Rounds?,,0.0,,,,,,,,2026-05-29T17:30:00Z,2026-09-24T00:48:48.433017+00:00
