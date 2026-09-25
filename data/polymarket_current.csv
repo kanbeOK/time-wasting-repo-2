@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2420489,0x9febdc3dce0fff0f48436958e95b1898004a8f82d98ef30ac308c3e3481403ee,552326,Tallahassee Mayoral Election Winner,Will Other win the Tallahassee mayoral election?,,0.0,0.0,,,,,,,2026-08-18T16:00:00Z,2026-09-25T04:40:41.008319+00:00
+4838461,0x30a38186364283c4769f4308cc97310df935dc631529cc71fd9de10b092c5145,559891,Will Russia capture Stavky by...?,"Will Russia capture Stavky by December 31, 2026?",,462.4385,83.32889,,,,,,,2027-01-01T04:59:00Z,2026-09-25T10:06:59.729813+00:00
