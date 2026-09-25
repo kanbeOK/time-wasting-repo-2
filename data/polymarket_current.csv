@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-4838461,0x30a38186364283c4769f4308cc97310df935dc631529cc71fd9de10b092c5145,559891,Will Russia capture Stavky by...?,"Will Russia capture Stavky by December 31, 2026?",,462.4385,83.32889,,,,,,,2027-01-01T04:59:00Z,2026-09-25T10:06:59.729813+00:00
+2446301,0x107d37ee479922c634aa66e71011dd4f669df0a01cd520ca2fd1650d8e928660,563013,Will Saturn launch a token by ___?,"Will Saturn launch a token by December 31, 2027?",,468.0215,4933.740607999999,,,,,,,2028-01-01T04:59:00Z,2026-09-25T15:28:19.043530+00:00
