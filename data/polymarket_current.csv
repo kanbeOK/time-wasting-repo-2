@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2447325,0x270d3ef640f23a0908f7a3d477faf063baea28c8e2fd11d36f33b4f8c2ab4176,563377,Zcash's Orchard pool confirmed exploited?,Zcash's Orchard pool confirmed exploited?,,4286.77837,27063.590463000008,,,,,,,2027-06-05T03:59:00Z,2026-09-26T12:10:13.206005+00:00
+2447325,0x270d3ef640f23a0908f7a3d477faf063baea28c8e2fd11d36f33b4f8c2ab4176,563377,Zcash's Orchard pool confirmed exploited?,Zcash's Orchard pool confirmed exploited?,,4284.08768,27063.590463,,,,,,,2027-06-05T03:59:00Z,2026-09-26T16:39:54.418435+00:00
