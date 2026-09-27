@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-4838499,0xce911315db43b8a9bcf74361957c56541ab7d0a2ea5acd8a090c2e57d3dfd960,563426,Will Ukraine re-enter Hryshyne by...?,"Will Ukraine re-enter Hryshyne by December 31, 2026?",,678.7373,142.631579,,,,,,,2027-01-01T04:59:00Z,2026-09-27T07:01:20.648524+00:00
+2448445,0x97b9bc50bb2d94b68dadf8711153ce6522c92ca3624ecfb6825a661ac97d4dc0,563655,Will global art market sales hit $65 billion for 2026?,Will global art market sales hit $65 billion for 2026?,,235.2345,406.12611000000004,,,,,,,2027-04-01T03:59:00Z,2026-09-27T13:14:32.954534+00:00
