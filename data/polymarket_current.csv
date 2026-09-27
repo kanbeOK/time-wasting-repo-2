@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2448445,0x97b9bc50bb2d94b68dadf8711153ce6522c92ca3624ecfb6825a661ac97d4dc0,563655,Will global art market sales hit $65 billion for 2026?,Will global art market sales hit $65 billion for 2026?,,86.6325,408.92611,,,,,,,2027-04-01T03:59:00Z,2026-09-27T21:14:53.793217+00:00
+2448445,0x97b9bc50bb2d94b68dadf8711153ce6522c92ca3624ecfb6825a661ac97d4dc0,563655,Will global art market sales hit $65 billion for 2026?,Will global art market sales hit $65 billion for 2026?,,88.4225,408.92611,,,,,,,2027-04-01T03:59:00Z,2026-09-27T23:54:20.091706+00:00
