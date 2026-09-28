@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2487516,0x578d4061d610310dbad48fdad0f0d0ab6e7842430c6005d6d79d5c40b29a297f,578440,Santa Catarina Governor Election Winner ,Will Other win the Governor of Santa Catarina election?,,0.0,0.0,,,,,,,2026-10-04T23:59:00Z,2026-09-28T11:55:41.058124+00:00
+2487516,0x578d4061d610310dbad48fdad0f0d0ab6e7842430c6005d6d79d5c40b29a297f,578440,Santa Catarina Governor Election Winner ,Will Other win the Governor of Santa Catarina election?,,0.0,0.0,,,,,,,2026-10-04T23:59:00Z,2026-09-28T19:34:45.220399+00:00
