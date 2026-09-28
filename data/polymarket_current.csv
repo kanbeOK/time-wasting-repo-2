@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2448445,0x97b9bc50bb2d94b68dadf8711153ce6522c92ca3624ecfb6825a661ac97d4dc0,563655,Will global art market sales hit $65 billion for 2026?,Will global art market sales hit $65 billion for 2026?,,88.4225,408.92611,,,,,,,2027-04-01T03:59:00Z,2026-09-27T23:54:20.091706+00:00
+2487473,0x1c2d116b3245de668dbca6406745182398e7b8354900a2c9d7fe0bba7fe6bf37,578437,Pará Governor Election Winner,Will Other win the Governor of Pará election?,,0.0,0.0,,,,,,,2026-10-05T03:59:00Z,2026-09-28T05:07:14.275401+00:00
