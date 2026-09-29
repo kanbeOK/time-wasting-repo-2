@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2487568,0xcf9e1faca0001ac149077e574198c75e23c4f69c1807e7032d5a1db98582154c,578457,Flávio Bolsonaro charged or arrested by September 30?,Flávio Bolsonaro charged or arrested by September 30?,,12886.53279,6824.535392999999,,,,,,,2026-10-01T03:59:00Z,2026-09-29T13:15:21.326910+00:00
+2487568,0xcf9e1faca0001ac149077e574198c75e23c4f69c1807e7032d5a1db98582154c,578457,Flávio Bolsonaro charged or arrested by September 30?,Flávio Bolsonaro charged or arrested by September 30?,,13228.64757,6957.535392999997,,,,,,,2026-10-01T03:59:00Z,2026-09-29T18:49:36.975191+00:00
