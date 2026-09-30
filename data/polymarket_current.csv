@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2487568,0xcf9e1faca0001ac149077e574198c75e23c4f69c1807e7032d5a1db98582154c,578457,Flávio Bolsonaro charged or arrested by September 30?,Flávio Bolsonaro charged or arrested by September 30?,,13228.64757,6957.535392999997,,,,,,,2026-10-01T03:59:00Z,2026-09-30T01:58:37.765516+00:00
+2487582,0xb68fefb96ae3cba649aa57bf0dfddc9608f6cbc9ecc5a88c721a9f82d358fe27,578465,Social Security Insolvent by...? ,"Social Security insolvent by December 31, 2028?",,853.9645,44.64831,,,,,,,2029-01-01T04:59:00Z,2026-09-30T08:22:46.349998+00:00
