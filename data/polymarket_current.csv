@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2487582,0xb68fefb96ae3cba649aa57bf0dfddc9608f6cbc9ecc5a88c721a9f82d358fe27,578465,Social Security Insolvent by...? ,"Social Security insolvent by December 31, 2028?",,844.1515,44.64831,,,,,,,2029-01-01T04:59:00Z,2026-10-01T00:07:49.017320+00:00
+2496527,0x9217b42256d280e28fc26e590a5bee0618edc4b61cfb21b644d6edeb77840c34,581100,USD/JPY: Close Price End of 2026,Will the close USD/JPY price at the end of 2026 be at least 180?,,225.64766,233.10022700000002,,,,,,,2027-01-01T04:59:00Z,2026-10-01T06:26:20.629241+00:00
