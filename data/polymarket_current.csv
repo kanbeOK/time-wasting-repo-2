@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2507003,0xcf3526a3ef08df208f1d9c79936eeba9e3bec39bf261f6af74547c305a9d51fa,584288,Two SpaceX Starships dock together by…?,"Will two SpaceX Starships dock together by December 31, 2027?",,1732.8906,25817.306827999997,,,,,,,2028-01-01T04:59:00Z,2026-10-01T19:24:49.235727+00:00
+2517515,0x8ab2e48b97506e8cfaf26c1b5e256001e5ef7a93c97830c6e5f86dec67500b65,587444,Paraíba Governor Election Winner,Will Other win the Governor of Paraíba election?,,0.0,0.0,,,,,,,2026-10-05T03:59:00Z,2026-10-01T23:23:03.644090+00:00
