@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2517855,0x738a14c4c24f12b78b232a745d266303a884fc62a4712b917f1693f645f69eb5,587533,Will Disney+ Reach 150 million total users by September?,Will Disney+ Reach 150 million total users by September?,,37.57289,1797.4904370000002,,,,,,,2027-01-01T04:59:00Z,2026-10-02T16:12:08.468699+00:00
+2517855,0x738a14c4c24f12b78b232a745d266303a884fc62a4712b917f1693f645f69eb5,587533,Will Disney+ Reach 150 million total users by September?,Will Disney+ Reach 150 million total users by September?,,40.83235,1797.4904370000002,,,,,,,2027-01-01T04:59:00Z,2026-10-02T20:53:46.568118+00:00
