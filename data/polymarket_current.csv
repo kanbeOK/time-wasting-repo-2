@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2517531,0x5e74b420700e1a6d5ca28e04f9b6bdf3c27a552993f7508686b41266294b7114,587445,Espírito Santo Governor Election Winner ,Will Other win the Governor of Espírito Santo election?,,0.0,0.0,,,,,,,2026-10-05T03:59:00Z,2026-10-02T09:36:54.781351+00:00
+2517855,0x738a14c4c24f12b78b232a745d266303a884fc62a4712b917f1693f645f69eb5,587533,Will Disney+ Reach 150 million total users by September?,Will Disney+ Reach 150 million total users by September?,,37.57289,1797.4904370000002,,,,,,,2027-01-01T04:59:00Z,2026-10-02T16:12:08.468699+00:00
