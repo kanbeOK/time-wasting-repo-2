@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2519248,0x0df60e53dd1f222990b0d10cfe43bb20843dca513ffd75da8a7951883a6285d7,587912,#2 Spotify Artist 2026,Will someone else be the second most streamed Spotify artist for 2026?,,0.0,0.0,,,,,,,2027-01-01T04:59:00Z,2026-10-03T05:38:50.604111+00:00
+2519362,0xa10b256d771e46cf5a995fa6c640682c509fe4af482c7bba3910195048ad1674,587918,#3 Spotify Artist 2026,Will someone else be the third most streamed Spotify artist for 2026?,,0.0,0.0,,,,,,,2027-01-01T04:59:00Z,2026-10-03T11:30:59.991054+00:00
