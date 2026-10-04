@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2519362,0xa10b256d771e46cf5a995fa6c640682c509fe4af482c7bba3910195048ad1674,587918,#3 Spotify Artist 2026,Will someone else be the third most streamed Spotify artist for 2026?,,0.0,0.0,,,,,,,2027-01-01T04:59:00Z,2026-10-04T01:56:23.492323+00:00
+2523880,0xc8c7188d536be9cb6d99962b2c049b1046e13555d2f5f5aaafd5219cadf21bc0,588441,"Will Ukraine sign an EU accession treaty by December 31, 2027?","Will Ukraine sign an EU accession treaty by December 31, 2027?",,11729.8626,3105.929164,,,,,,,2028-01-01T04:59:00Z,2026-10-04T08:18:56.315991+00:00
