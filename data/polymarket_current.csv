@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2565910,0x00a04ab5a205737dce099bb06aa796fb39f5b3fe40f33e579ba0bc188a8bbe85,601394,UFC: Who Will Ilia Topuria Fight Next?,Will Ilia Topuria fight someone else next?,,0.0,0.0,,,,,,,,2026-10-05T06:49:00.743110+00:00
+2571639,0xbde771b48b5448917095b1af82be99a166614e133680f2ebadf319dd56d99cd9,602816,UK social media ban in effect by…?,"Will a UK social media ban take effect by June 30, 2027?",,396.0384,262.486182,,,,,,,2027-07-01T03:59:00Z,2026-10-05T15:50:25.151029+00:00
