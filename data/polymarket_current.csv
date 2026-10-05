@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2571639,0xbde771b48b5448917095b1af82be99a166614e133680f2ebadf319dd56d99cd9,602816,UK social media ban in effect by…?,"Will a UK social media ban take effect by June 30, 2027?",,396.0384,262.486182,,,,,,,2027-07-01T03:59:00Z,2026-10-05T15:50:25.151029+00:00
+2614032,0x4aa072d2bf92e2ec1d2cea22c81c60daf8a7cba8ab93630a595fc9536903e533,613770,Will Faker Win an International Title in 2026?,Will Faker Win an International Title in 2026?,,79.8438,2066.3875840000005,,,,,,,2027-01-01T04:59:00Z,2026-10-05T22:29:59.730251+00:00
