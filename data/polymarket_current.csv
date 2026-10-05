@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2556321,0x24ae15a494dccb229cbedcfd7c3c58b0194401b44c5d01d7ff9982edc5093280,595000,Mobile Legends Bang Bang: The World vs Aterion Esports (BO3) - BetBoom Rise of Legends Close Qualifiers,Game Handicap: INV (-1.5) vs Aterion Esports (+1.5),,0.1,,,,,,,,2026-06-23T03:59:00Z,2026-10-05T00:41:33.510802+00:00
+2565910,0x00a04ab5a205737dce099bb06aa796fb39f5b3fe40f33e579ba0bc188a8bbe85,601394,UFC: Who Will Ilia Topuria Fight Next?,Will Ilia Topuria fight someone else next?,,0.0,0.0,,,,,,,,2026-10-05T06:49:00.743110+00:00
