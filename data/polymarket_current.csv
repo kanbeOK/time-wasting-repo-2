@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2645480,0x4e2ffe79580bb7aa80a02844b7dedf68609cd6e6464c285993a2142ac5ccf466,623799,NBA Free Agency: Zach LaVine Next Team,Will Zach LaVine play for another team in 2026-27?,,0.0,0.0,,,,,,,2026-10-31T23:59:00Z,2026-10-06T02:28:47.599671+00:00
+2646017,0x3b2df31f2f0e3ee1271273393188aebbe6a5adf7e0909cebc88615f3b84ef39a,623909,NBA Free Agency: Russell Westbrook Next Team,Will Russell Westbrook play for another team in 2026-27?,,0.0,0.0,,,,,,,2026-10-31T23:59:00Z,2026-10-06T09:21:16.912729+00:00
