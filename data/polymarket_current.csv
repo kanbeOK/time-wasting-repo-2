@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2614032,0x4aa072d2bf92e2ec1d2cea22c81c60daf8a7cba8ab93630a595fc9536903e533,613770,Will Faker Win an International Title in 2026?,Will Faker Win an International Title in 2026?,,79.8438,2066.3875840000005,,,,,,,2027-01-01T04:59:00Z,2026-10-05T22:29:59.730251+00:00
+2645480,0x4e2ffe79580bb7aa80a02844b7dedf68609cd6e6464c285993a2142ac5ccf466,623799,NBA Free Agency: Zach LaVine Next Team,Will Zach LaVine play for another team in 2026-27?,,0.0,0.0,,,,,,,2026-10-31T23:59:00Z,2026-10-06T02:28:47.599671+00:00
