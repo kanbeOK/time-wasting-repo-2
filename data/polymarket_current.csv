@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2662576,0xcf96e7ba31d92ebe780347e9c32370977af0d17baac4dbcaea0acbb47ad8cfd3,628050,Will Pauline Hanson wear a burqa again in 2026?,Will Pauline Hanson wear a burqa again in 2026?,,867.57544,942.547541,,,,,,,2027-01-01T04:59:00Z,2026-10-07T14:41:58.891274+00:00
+2853114,0x73dd54214430d1d67ddf59ad22fdf62e00e71e273b229dc0040da504e5281b6f,628275,"IAEA visits Isfahan, Fordow, or Natanz nuclear site by...?","IAEA visits Isfahan, Fordow, or Natanz nuclear site by October 31?",,12241.21415,95166.16259699999,,,,,,,2026-11-01T03:59:00Z,2026-10-07T20:32:35.479290+00:00
