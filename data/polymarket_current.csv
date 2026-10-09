@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2666696,0x0e3e1db94339bb0a6f9eee0af501b390d748b48c7f116c056337e42bcd3b9cad,629435,KBO: KT Wiz vs. Hanwha Eagles,KBO: KT Wiz vs. Hanwha Eagles,,9.91559,21414.420614999995,,,,,,,2026-07-07T09:30:00Z,2026-10-09T01:08:39.090006+00:00
+2666710,0xe8fa117622fad2f8a98a30a2734bdda87b991cb2aec37231bfe071b58a472715,629449,Yokohama BayStars vs. Yomiuri Giants,Yokohama BayStars vs. Yomiuri Giants,,2.7012,25.348093000000002,,,,,,,2026-07-04T09:15:00Z,2026-10-09T07:56:47.428221+00:00
