@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2666710,0xe8fa117622fad2f8a98a30a2734bdda87b991cb2aec37231bfe071b58a472715,629449,Yokohama BayStars vs. Yomiuri Giants,Yokohama BayStars vs. Yomiuri Giants,,2.7012,25.348093000000002,,,,,,,2026-07-04T09:15:00Z,2026-10-09T07:56:47.428221+00:00
+2666712,0x5b6514abbe527f8ea0261a1a9f93455e005bc9f0ed5a8d863d1121ef0f09bd5b,629451,Chiba Lotte Marines vs. Fukuoka SoftBank Hawks,Chiba Lotte Marines vs. Fukuoka SoftBank Hawks,,668.10302,19480.538682,,,,,,,2026-10-09T09:00:00Z,2026-10-09T15:12:53.897547+00:00
