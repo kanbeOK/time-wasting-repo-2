@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2674204,0x99fa20b5dd7c7f66d196c426ab839d6a04c2126146fb96ddde1f9a6f6d70fe41,631085,Who will the Trump admin next nominate as SCOTUS Justice?,Will Other be the next Supreme Court nominee?,,0.0,0.0,,,,,,,2029-01-19T23:59:00Z,2026-10-10T17:46:56.493775+00:00
+2682398,0xe45e9af76a3f7b20084fb4313f6a0f164035ef35efde1c0580e5d55d03e47cfb,633560,Will Trump issue a veto in 2026?,Will Trump issue a veto in 2026?,,22322.1552,5875.167469,,,,,,,2027-01-01T04:59:00Z,2026-10-10T21:30:34.677908+00:00
