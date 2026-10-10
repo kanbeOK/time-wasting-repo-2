@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2668007,0x30f9431d1385445af6f2da6c567517eaa9a74ce57731a27594c11cfdb3260e20,629791,What will be in a US-Iran deal in 2026?,Will a US-Iran deal in 2026 include Surrender of Iranian Enriched Uranium?,,48540.3553,78201.15101200002,,,,,,,2027-01-01T04:59:00Z,2026-10-09T20:17:40.222482+00:00
+2668007,0x30f9431d1385445af6f2da6c567517eaa9a74ce57731a27594c11cfdb3260e20,629791,What will be in a US-Iran deal in 2026?,Will a US-Iran deal in 2026 include Surrender of Iranian Enriched Uranium?,,50421.2149,78201.15101200002,,,,,,,2027-01-01T04:59:00Z,2026-10-10T00:16:30.144319+00:00
