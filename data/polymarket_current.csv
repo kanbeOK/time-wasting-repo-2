@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2668007,0x30f9431d1385445af6f2da6c567517eaa9a74ce57731a27594c11cfdb3260e20,629791,What will be in a US-Iran deal in 2026?,Will a US-Iran deal in 2026 include Surrender of Iranian Enriched Uranium?,,51391.2705,78201.15101200002,,,,,,,2027-01-01T04:59:00Z,2026-10-10T06:18:00.248055+00:00
+2674204,0x99fa20b5dd7c7f66d196c426ab839d6a04c2126146fb96ddde1f9a6f6d70fe41,631085,Who will the Trump admin next nominate as SCOTUS Justice?,Will Other be the next Supreme Court nominee?,,0.0,0.0,,,,,,,2029-01-19T23:59:00Z,2026-10-10T12:57:56.688492+00:00
