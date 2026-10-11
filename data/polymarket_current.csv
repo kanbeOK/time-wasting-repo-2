@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2683658,0x84c91f4d194592976d22aa64d2b46bf06dc3e72089c19f87fb9fe33e580671a2,633957,Anwar Ibrahim out as Prime Minister of Malaysia by...? ,"Will Anwar Ibrahim cease to be Prime Minister of Malaysia by December 31, 2026?",,11269.356,3946.7310050000006,,,,,,,2027-01-01T04:59:00Z,2026-10-11T06:59:47.876853+00:00
+2685367,0x7cc8caf9a247eda33bd1b95b13fd1a8f2764879a05ec268adf0e5f8b506bb0e2,634482,NBA: 2027 Eastern Conference Champion,Will another team be the 2027 NBA Eastern Conference Champion?,,0.0,0.0,,,,,,,2027-06-05T23:59:00Z,2026-10-11T13:56:52.378200+00:00
