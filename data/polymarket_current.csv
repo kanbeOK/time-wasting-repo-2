@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2682398,0xe45e9af76a3f7b20084fb4313f6a0f164035ef35efde1c0580e5d55d03e47cfb,633560,Will Trump issue a veto in 2026?,Will Trump issue a veto in 2026?,,22322.1552,5875.167469,,,,,,,2027-01-01T04:59:00Z,2026-10-10T21:30:34.677908+00:00
+2683537,0x927076e05bc2fa65a3bd1ad7cfba4570c96b8545f60096ddb0eff23ad8203507,633938,Next CEO of JPMorgan Chase? ,Will Other be the next CEO of JPMorgan Chase?,,0.0,0.0,,,,,,,2028-12-31T23:59:00Z,2026-10-11T00:47:46.880055+00:00
