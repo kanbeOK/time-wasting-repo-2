@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2687915,0xa31af342d01d5e4a44052e5caabfddd02d24eb5de227f71fcf35717fc1fdcfd9,635388,Will Prime Intellect launch a token by ___?,"Will Prime Intellect launch a token by December 31, 2027?",,1202.2853,4634.451105,,,,,,,2028-01-01T04:59:00Z,2026-10-12T09:39:51.967101+00:00
+2688672,0x3484d22ae600d710b02efa7b7b848834ff2c667ef7c44efe1feca15ee2f961f0,635623,Will Ambient launch a token by ___?,"Will Ambient launch a token by December 31, 2027?",,566.1448,2253.259196,,,,,,,2028-01-01T04:59:00Z,2026-10-12T19:44:42.250543+00:00
