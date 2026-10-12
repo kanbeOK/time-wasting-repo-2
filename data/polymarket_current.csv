@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2685367,0x7cc8caf9a247eda33bd1b95b13fd1a8f2764879a05ec268adf0e5f8b506bb0e2,634482,NBA: 2027 Eastern Conference Champion,Will another team be the 2027 NBA Eastern Conference Champion?,,0.0,0.0,,,,,,,2027-06-05T23:59:00Z,2026-10-12T02:14:17.877360+00:00
+2687915,0xa31af342d01d5e4a44052e5caabfddd02d24eb5de227f71fcf35717fc1fdcfd9,635388,Will Prime Intellect launch a token by ___?,"Will Prime Intellect launch a token by December 31, 2027?",,1202.2853,4634.451105,,,,,,,2028-01-01T04:59:00Z,2026-10-12T09:39:51.967101+00:00
