@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2690160,0x2a96c3f2802ac013ae6f923bf08fbfcd6f6c2f51305e335dbb806f0691a71a9d,635791,Will Codex launch a token by ___?,"Will Codex launch a token by December 31, 2027?",,350.5414,1413.1669219999999,,,,,,,2028-01-01T04:59:00Z,2026-10-13T01:57:12.172524+00:00
+2690160,0x2a96c3f2802ac013ae6f923bf08fbfcd6f6c2f51305e335dbb806f0691a71a9d,635791,Will Codex launch a token by ___?,"Will Codex launch a token by December 31, 2027?",,360.7745,1413.1669219999999,,,,,,,2028-01-01T04:59:00Z,2026-10-13T09:17:28.821540+00:00
