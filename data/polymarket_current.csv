@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2692556,0xe65d6e167437b65766837e44c52fe254ba446cb3de7a225544d53ea739856d69,637105,Will MSCI downgrade Indonesia to Frontier Market status by November 30?,Will MSCI downgrade Indonesia to Frontier Market status by November 30?,,159.9342,329.97297499999996,,,,,,,2026-12-01T04:59:00Z,2026-10-14T12:48:47.634672+00:00
+2694391,0xa9d5a32d875b2a8050b13c4a92045eb88c828b2043ec65b6048c381af56f22da,637176,2026 Montgomery County Judge Election Winner,Will someone else win the 2026 Montgomery County Judge election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-14T17:55:24.425500+00:00
