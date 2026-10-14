@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2690245,0x0a146060cfcfad0c69cedbf4da31bca771bfe57d024630b41cacd65f7ba6c9f0,635857,Will LI.FI launch a token by ___?,"Will LI.FI launch a token by December 31, 2027?",,914.4023,2851.334842,,,,,,,2028-01-01T04:59:00Z,2026-10-13T21:56:34.734673+00:00
+2690245,0x0a146060cfcfad0c69cedbf4da31bca771bfe57d024630b41cacd65f7ba6c9f0,635857,Will LI.FI launch a token by ___?,"Will LI.FI launch a token by December 31, 2027?",,869.8083,2851.334842,,,,,,,2028-01-01T04:59:00Z,2026-10-14T01:05:41.979603+00:00
