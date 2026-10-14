@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2690245,0x0a146060cfcfad0c69cedbf4da31bca771bfe57d024630b41cacd65f7ba6c9f0,635857,Will LI.FI launch a token by ___?,"Will LI.FI launch a token by December 31, 2027?",,1514.7524,2851.334842,,,,,,,2028-01-01T04:59:00Z,2026-10-14T06:38:05.338644+00:00
+2692556,0xe65d6e167437b65766837e44c52fe254ba446cb3de7a225544d53ea739856d69,637105,Will MSCI downgrade Indonesia to Frontier Market status by November 30?,Will MSCI downgrade Indonesia to Frontier Market status by November 30?,,159.9342,329.97297499999996,,,,,,,2026-12-01T04:59:00Z,2026-10-14T12:48:47.634672+00:00
