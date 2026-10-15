@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2694892,0xf334738d5599accca2a80fd22750481e55e80f61a62e8d1f17aa2cfbc88a4624,637267,2026 Harris County Judge Election Winner,Will someone else win the 2026 Harris County Judge election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-15T15:17:35.720820+00:00
+2694892,0xf334738d5599accca2a80fd22750481e55e80f61a62e8d1f17aa2cfbc88a4624,637267,2026 Harris County Judge Election Winner,Will someone else win the 2026 Harris County Judge election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-15T19:20:41.624337+00:00
