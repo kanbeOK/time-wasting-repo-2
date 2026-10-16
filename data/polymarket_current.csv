@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2695736,0x690869a77f8f8b427c8ad28bb0b79d12243d81bd0bf7097e5c035a16195becea,637442,Next Prime Minister of Spain?,Will someone else be the next Prime Minister of Spain?,,0.0,0.0,,,,,,,2028-03-31T23:59:00Z,2026-10-16T19:40:44.841085+00:00
+5400959,0xe1a84e29b4845b6bf024026b701243e8f46fde9084b3b64639e29b1d22c7571c,637443,Carles Puigdemont back in Spain by...?,"Carles Puigdemont back in Spain by October 15, 2026?",,364.32971,4631.673107999999,,,,,,,2026-10-16T03:59:00Z,2026-10-16T22:44:19.174856+00:00
