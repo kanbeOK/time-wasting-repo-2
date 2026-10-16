@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2695006,0x8e629467ebf48a8af585205f27e24f200159498aa8f6180a90a4aaef122136a6,637312,2026 Louisville Mayoral Election Winner,Will someone else win the 2026 Louisville mayoral election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-16T06:16:55.217534+00:00
+2695072,0xd56cf9fc36fbd94ebea792f0b4a0c820ee69119b9803ef280059909c1517e9d6,637321,2026 Reno Mayoral Election Winner,Will someone else win the 2026 Reno mayoral election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-16T11:49:22.032720+00:00
