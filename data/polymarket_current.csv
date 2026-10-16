@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2695452,0xcdc21889b87e63ce2306a0867bd1d68e3c424ace00e742e9183cded1254ba1c2,637388,2026 Henderson Mayoral Election Winner,Will someone else win the 2026 Henderson mayoral election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-16T16:30:09.084684+00:00
+2695736,0x690869a77f8f8b427c8ad28bb0b79d12243d81bd0bf7097e5c035a16195becea,637442,Next Prime Minister of Spain?,Will someone else be the next Prime Minister of Spain?,,0.0,0.0,,,,,,,2028-03-31T23:59:00Z,2026-10-16T19:40:44.841085+00:00
