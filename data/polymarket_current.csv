@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2695072,0xd56cf9fc36fbd94ebea792f0b4a0c820ee69119b9803ef280059909c1517e9d6,637321,2026 Reno Mayoral Election Winner,Will someone else win the 2026 Reno mayoral election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-16T11:49:22.032720+00:00
+2695452,0xcdc21889b87e63ce2306a0867bd1d68e3c424ace00e742e9183cded1254ba1c2,637388,2026 Henderson Mayoral Election Winner,Will someone else win the 2026 Henderson mayoral election?,,0.0,0.0,,,,,,,2026-11-03T23:59:00Z,2026-10-16T16:30:09.084684+00:00
