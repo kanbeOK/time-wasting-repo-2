@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-5400959,0xe1a84e29b4845b6bf024026b701243e8f46fde9084b3b64639e29b1d22c7571c,637443,Carles Puigdemont back in Spain by...?,"Carles Puigdemont back in Spain by October 15, 2026?",,0.0,4631.673107999999,,,,,,,2026-10-16T03:59:00Z,2026-10-17T17:29:18.681667+00:00
+5400959,0xe1a84e29b4845b6bf024026b701243e8f46fde9084b3b64639e29b1d22c7571c,637443,Carles Puigdemont back in Spain by...?,"Carles Puigdemont back in Spain by October 15, 2026?",,0.0,4631.673107999999,,,,,,,2026-10-16T03:59:00Z,2026-10-17T19:40:40.165739+00:00
