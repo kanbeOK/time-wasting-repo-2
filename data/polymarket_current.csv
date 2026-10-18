@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2697443,0x55d2c1a66e735c5244b987905c36f53c535cc7c8ab3b90264a1017967f6faa6b,637885,Coppa il Mondo T10: Janjua Brescia vs Bassano Bresciano,Coppa il Mondo T10: Janjua Brescia vs Bassano Bresciano - Completed match?,,0.03,213.277186,,,,,,,2026-07-06T13:00:00Z,2026-10-18T09:49:24.188508+00:00
+2697610,0x621577c0feffcf0acce61d4c0ebf302933ce74cc6046351352d3a9d71916913b,637940,ECS Bulgaria: BSCU Panthers vs MU Plovdiv - Team Top Batter,ECS Bulgaria: BSCU Panthers vs MU Plovdiv - Team Top Batter MU Plovdiv Winner,,,,,,,,,,2026-07-07T10:30:00Z,2026-10-18T13:53:52.954661+00:00
