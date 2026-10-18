@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2697610,0x621577c0feffcf0acce61d4c0ebf302933ce74cc6046351352d3a9d71916913b,637940,ECS Bulgaria: BSCU Panthers vs MU Plovdiv - Team Top Batter,ECS Bulgaria: BSCU Panthers vs MU Plovdiv - Team Top Batter MU Plovdiv Winner,,,,,,,,,,2026-07-07T10:30:00Z,2026-10-18T13:53:52.954661+00:00
+2697677,0x927e466bc36194983b15c67d1738297f11197388c44fd1ab9a15aa1d3174121f,637961,Will Linera launch a token by ___?,"Will Linera launch a token by December 31, 2027?",,757.861,5579.992603000001,,,,,,,2028-01-01T04:59:00Z,2026-10-18T17:13:29.149350+00:00
