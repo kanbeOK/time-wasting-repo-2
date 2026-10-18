@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2697949,0xf2870eca213faada987c0bdc23c16833f9c448581ab3a2d406d72f68838bf476,638050,Will Arch Network launch a token by ___?,"Will Arch Network launch a token by December 31, 2027?",,1027.1943,461.85923,,,,,,,2028-01-01T04:59:00Z,2026-10-18T19:34:41.006190+00:00
+2697988,0x2608776420b8140161cb7e8b179503ca6bfdb070a7f6cb5b4ceaa8048d96229e,638074,Will the Senate pass another reconciliation bill by...?,Will the Senate pass a reconciliation bill by December 31?,,10798.6026,3834.6967649999997,,,,,,,2027-01-01T04:59:00Z,2026-10-18T22:21:46.825498+00:00
