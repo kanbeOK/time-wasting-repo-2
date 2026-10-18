@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2697677,0x927e466bc36194983b15c67d1738297f11197388c44fd1ab9a15aa1d3174121f,637961,Will Linera launch a token by ___?,"Will Linera launch a token by December 31, 2027?",,757.861,5579.992603000001,,,,,,,2028-01-01T04:59:00Z,2026-10-18T17:13:29.149350+00:00
+2697949,0xf2870eca213faada987c0bdc23c16833f9c448581ab3a2d406d72f68838bf476,638050,Will Arch Network launch a token by ___?,"Will Arch Network launch a token by December 31, 2027?",,1027.1943,461.85923,,,,,,,2028-01-01T04:59:00Z,2026-10-18T19:34:41.006190+00:00
