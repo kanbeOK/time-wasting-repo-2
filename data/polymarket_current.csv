@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2698009,0x23401201a8d27f7a72138b98390a2687504392b931b52e3a1910cf8e08a6af04,638083,Will OnRe launch a token by ___?,"Will OnRe launch a token by December 31, 2027?",,727.7095,1592.026598,,,,,,,2028-01-01T04:59:00Z,2026-10-20T17:27:55.443370+00:00
+2698819,0x12b0104927420bbc7a7a7ef184ccc47e0a1125535a6e5d3634294fb254b4924e,638395,How many cities will Waymo operate in by December 31?,Will Waymo operate in 32 or more cities on December 31 2026?,,2224.97671,6890.751796,,,,,,,2027-01-01T04:59:00Z,2026-10-20T20:48:47.004946+00:00
