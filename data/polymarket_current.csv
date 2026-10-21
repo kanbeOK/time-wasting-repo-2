@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3868064,0xd20fe7a948f8f6f212b1d00921648924c7d0f0e9cfaf9a22deb98afec72a5152,642009,What price will Cap hit in 2026?,Will Cap dip to $0.06 before 2027?,,,569.8199999999999,,,,,,,2027-01-01T05:00:00Z,2026-10-20T23:45:53.134657+00:00
+2724760,0x0fdad9f7ba826ad857f96d6afb034e3acd6d698c861ac50f6dcc7f50a0730c30,645983,What price will LAB hit in 2026?,Will LAB dip to $6 before 2027?,,,15231.588995,,,,,,,2027-01-01T05:00:00Z,2026-10-21T04:26:20.704372+00:00
