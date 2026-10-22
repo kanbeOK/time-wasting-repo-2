@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2732615,0x96300824d432a7918907d2ccc63169ef0a2f3646219e722062efd86daee59d16,648392,What price will $ANSEM hit in 2026?,Will $ANSEM dip to $0.01 before 2027?,,619.98834,1508.868144,,,,,,,2027-01-01T05:00:00Z,2026-10-22T13:08:32.449368+00:00
+2732615,0x96300824d432a7918907d2ccc63169ef0a2f3646219e722062efd86daee59d16,648392,What price will $ANSEM hit in 2026?,Will $ANSEM dip to $0.01 before 2027?,,491.44174,1508.868144,,,,,,,2027-01-01T05:00:00Z,2026-10-22T18:08:01.985725+00:00
