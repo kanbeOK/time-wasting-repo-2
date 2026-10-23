@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3247822,0x15a2e483cf1eaef310702f7c55c6c52695c5061d635647e2ee4aacba660e798c,648757,Trump Media x TAE Technologies merger closed by July 31?,Trump Media x TAE Technologies merger closed by December 31?,,2.7679,28.915658,,,,,,,2027-01-01T04:59:00Z,2026-10-23T15:51:54.820158+00:00
+2734383,0x4f4ea7a0b4f2d23f114c7a9440b9307477a31ebb27ff6cd23db49767934c64fa,648759,US Treasury transactions on blockchain by December 31?,US Treasury transactions on blockchain by December 31?,,1226.41052,9077.576524,,,,,,,2027-01-01T04:59:00Z,2026-10-23T19:54:28.740127+00:00
