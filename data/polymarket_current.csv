@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2734360,0xb39eac53d6f459aa03c64163ac6ab0814eed5e03820e3deb6f84204b32886732,648747,"Will Trump create a tariff dividend by December 31, 2026?","Will Trump create a tariff dividend by December 31, 2026?",,11108.7118,3297.89736,,,,,,,2027-01-01T04:59:00Z,2026-10-23T11:26:02.213016+00:00
+3247822,0x15a2e483cf1eaef310702f7c55c6c52695c5061d635647e2ee4aacba660e798c,648757,Trump Media x TAE Technologies merger closed by July 31?,Trump Media x TAE Technologies merger closed by December 31?,,2.7679,28.915658,,,,,,,2027-01-01T04:59:00Z,2026-10-23T15:51:54.820158+00:00
