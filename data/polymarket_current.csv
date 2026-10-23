@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2734359,0x8717e5607d70a0d2da08e576efa9d45c8134041013efabe4a2707eef35075bac,648746,Mamdani opens city-owned grocery store by December 31?,Mamdani opens city-owned grocery store by December 31?,,10447.46626,1648.2846869999998,,,,,,,2027-01-01T04:59:00Z,2026-10-22T21:52:09.470452+00:00
+2734360,0xb39eac53d6f459aa03c64163ac6ab0814eed5e03820e3deb6f84204b32886732,648747,"Will Trump create a tariff dividend by December 31, 2026?","Will Trump create a tariff dividend by December 31, 2026?",,11112.4018,3297.89736,,,,,,,2027-01-01T04:59:00Z,2026-10-23T00:31:45.898468+00:00
