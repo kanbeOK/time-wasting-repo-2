@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2734360,0xb39eac53d6f459aa03c64163ac6ab0814eed5e03820e3deb6f84204b32886732,648747,"Will Trump create a tariff dividend by December 31, 2026?","Will Trump create a tariff dividend by December 31, 2026?",,11112.4018,3297.89736,,,,,,,2027-01-01T04:59:00Z,2026-10-23T00:31:45.898468+00:00
+2734360,0xb39eac53d6f459aa03c64163ac6ab0814eed5e03820e3deb6f84204b32886732,648747,"Will Trump create a tariff dividend by December 31, 2026?","Will Trump create a tariff dividend by December 31, 2026?",,11108.7118,3297.89736,,,,,,,2027-01-01T04:59:00Z,2026-10-23T05:54:20.634350+00:00
