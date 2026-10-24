@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2734383,0x4f4ea7a0b4f2d23f114c7a9440b9307477a31ebb27ff6cd23db49767934c64fa,648759,US Treasury transactions on blockchain by December 31?,US Treasury transactions on blockchain by December 31?,,1194.9939,9089.34123,,,,,,,2027-01-01T04:59:00Z,2026-10-24T01:53:52.369787+00:00
+2734383,0x4f4ea7a0b4f2d23f114c7a9440b9307477a31ebb27ff6cd23db49767934c64fa,648759,US Treasury transactions on blockchain by December 31?,US Treasury transactions on blockchain by December 31?,,1044.59723,9089.34123,,,,,,,2027-01-01T04:59:00Z,2026-10-24T07:08:41.134633+00:00
