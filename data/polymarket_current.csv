@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2734708,0x01c77a1fd49c98c26139667fe608a8b8282a297f6e028d6d9b7d0fc410abd86b,648809,JIO Platforms IPO by...?,"Will Jio Platforms IPO by December 31, 2026?",,502.40028,6606.268822000002,,,,,,,2027-01-01T04:59:00Z,2026-10-25T04:24:07.147244+00:00
+2734708,0x01c77a1fd49c98c26139667fe608a8b8282a297f6e028d6d9b7d0fc410abd86b,648809,JIO Platforms IPO by...?,"Will Jio Platforms IPO by December 31, 2026?",,509.76186,6606.268822000002,,,,,,,2027-01-01T04:59:00Z,2026-10-25T09:19:50.657129+00:00
