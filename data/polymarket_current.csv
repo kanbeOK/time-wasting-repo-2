@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2735561,0x3f42cbfce4365294cd557116d51c6993bf118609a9316aaaa044ddf5693ed7dd,648983,Next Serbia Presidential Election Winner,Will someone else win the next Serbia presidential election?,,0.0,0.0,,,,,,,2027-05-02T03:59:00Z,2026-10-26T01:33:18.963608+00:00
+2745549,0x2d7da8aeba11b38dc7733150b53a7b7f5fc6d8e68571d671a11377468bbd8b74,652099,Will Russia capture Kozacha Lopan by...?,"Will Russia capture Kozacha Lopan by December 31, 2026?",,1408.5074,21351.658363000002,,,,,,,2027-01-01T04:59:00Z,2026-10-26T07:41:45.763321+00:00
