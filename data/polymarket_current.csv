@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-5724983,0xe04edf9c575fc7ae6738b5869d892a67dc4defad1d050a028fa9bd8f1cdb077e,652127,How high will Polymarket's mindshare go by December 31?,Will Polymarket mindshare hit 65% by December 31?,,,534.035666,,,,,,,2027-01-01T04:59:00Z,2026-10-27T16:23:04.831704+00:00
+5724983,0xe04edf9c575fc7ae6738b5869d892a67dc4defad1d050a028fa9bd8f1cdb077e,652127,How high will Polymarket's mindshare go by December 31?,Will Polymarket mindshare hit 65% by December 31?,,,534.035666,,,,,,,2027-01-01T04:59:00Z,2026-10-27T20:53:42.939256+00:00
