@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2745579,0x6d4cf8f589885d907a466fb27fc620230a99eb48191aee0165f473bcdf9f74c7,652125,Will Tesla launch robotaxis in California by December 31?,Will Tesla launch robotaxis in California by December 31?,,3150.6305,10869.942797,,,,,,,2027-01-01T04:59:00Z,2026-10-27T05:28:44.706936+00:00
+2745580,0x5a1632158f6c7d80cdf87a6f1f349c4802e5f5d4433b5a0ab90ba86e6c5b32a7,652126,Another Elon baby by December 31?,Another Elon baby by December 31?,,123.39763,1081.658701,,,,,,,2027-01-01T04:59:00Z,2026-10-27T10:53:37.130933+00:00
