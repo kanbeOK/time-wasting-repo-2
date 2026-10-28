@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2746332,0x3ede562e351d615ea0d931de51ab2344fcb4d8f68d0684b64b88820a252cf057,652354,NHL: 2027 Western Conference Champion,Will another team be the 2027 NHL Western Conference Champion?,,0.0,0.0,,,,,,,2027-06-05T23:59:00Z,2026-10-28T13:26:43.454959+00:00
+2746352,0xe70b3ca8fa1a7887a7d44ce598e44de49718bb9c735609debdfce4fe69e5510b,652355,NHL: 2027 Eastern Conference Champion,Will another team be the 2027 NHL Eastern Conference Champion?,,0.0,0.0,,,,,,,2027-06-05T23:59:00Z,2026-10-28T19:02:53.345449+00:00
