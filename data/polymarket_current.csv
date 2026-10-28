@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2746352,0xe70b3ca8fa1a7887a7d44ce598e44de49718bb9c735609debdfce4fe69e5510b,652355,NHL: 2027 Eastern Conference Champion,Will another team be the 2027 NHL Eastern Conference Champion?,,0.0,0.0,,,,,,,2027-06-05T23:59:00Z,2026-10-28T19:02:53.345449+00:00
+2750319,0x3b5a8f61120f2fb2a808f117b950d7c37ad3ee0953464ba69927c31d24cde918,653446,Next leader out of power before 2027?,Will no listed leader be out before 2027?,,38450.117,304475.35933999997,,,,,,,2027-01-01T04:59:00Z,2026-10-28T23:27:26.246397+00:00
