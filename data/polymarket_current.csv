@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2746287,0xec5dff26efa4aecc48a1919f80158a455776837ae2747a1317f72e2a14077d02,652332,Vatican III in 2026?,Vatican III in 2026?,,100.97811,17.461991,,,,,,,2027-01-01T04:59:00Z,2026-10-28T06:10:52.397165+00:00
+2746332,0x3ede562e351d615ea0d931de51ab2344fcb4d8f68d0684b64b88820a252cf057,652354,NHL: 2027 Western Conference Champion,Will another team be the 2027 NHL Western Conference Champion?,,0.0,0.0,,,,,,,2027-06-05T23:59:00Z,2026-10-28T13:26:43.454959+00:00
