@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2759122,0x0bcaea12d29410ae787f8959d44132df2414ef5ea96d73d3e3c4890e089f5ca3,655740,Will ByteDance's valuation hit __ by December 31?,Will ByteDance's valuation hit (LOW) $300B by December 31?,,1979.70677,9265.081907000002,,,,,,,2027-01-05T04:59:00Z,2026-10-29T09:45:29.316055+00:00
+2759176,0x295b72c9415343fb00537b530814de14e94871609e3a9a448b39d33a11728318,655750,Will Glean's valuation hit __ by December 31?,Will Glean's valuation hit (LOW) $4B by December 31?,,102.7457,10998.844987,,,,,,,2027-01-02T04:59:00Z,2026-10-29T16:50:29.048579+00:00
