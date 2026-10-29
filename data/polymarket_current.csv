@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2750319,0x3b5a8f61120f2fb2a808f117b950d7c37ad3ee0953464ba69927c31d24cde918,653446,Next leader out of power before 2027?,Will no listed leader be out before 2027?,,38450.117,304475.35933999997,,,,,,,2027-01-01T04:59:00Z,2026-10-28T23:27:26.246397+00:00
+2750319,0x3b5a8f61120f2fb2a808f117b950d7c37ad3ee0953464ba69927c31d24cde918,653446,Next leader out of power before 2027?,Will no listed leader be out before 2027?,,34896.1028,306633.172198,,,,,,,2027-01-01T04:59:00Z,2026-10-29T02:45:49.401797+00:00
