@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2760947,0xf369d385c3410baf756fff122e57f7397bb310eb984cb25e3fe09e867f225a88,656337,SCOTUS invalidates AR-15 bans?,SCOTUS invalidates AR-15 bans?,,852.8394,1897.3980130000004,,,,,,,2027-08-02T03:59:00Z,2026-10-30T20:03:25.083800+00:00
+2760948,0x3882375b9a6c5f123798dcceede3066fe365b1c0c139a9ebf541d432a304fb46,656338,US announces military base in Israel in 2026?,US announces military base in Israel in 2026?,,90.20281,1887.555816,,,,,,,2027-01-01T04:59:00Z,2026-10-30T23:59:42.931688+00:00
