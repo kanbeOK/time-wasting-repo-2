@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2760642,0x6562a93dfdbecef8f750a7314f819bee37ac3c817e40b7c1ce95b75d7113d0c4,656219,Stripe IPO Closing Market Cap,"Will Stripe not IPO by December 31, 2027?",,91.4045,79.00306,,,,,,,2028-01-01T04:59:00Z,2026-10-30T08:28:02.946706+00:00
+2760642,0x6562a93dfdbecef8f750a7314f819bee37ac3c817e40b7c1ce95b75d7113d0c4,656219,Stripe IPO Closing Market Cap,"Will Stripe not IPO by December 31, 2027?",,98.5245,79.00306,,,,,,,2028-01-01T04:59:00Z,2026-10-30T15:16:13.655507+00:00
