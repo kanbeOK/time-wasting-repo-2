@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2760623,0xbc6da4859bfd07a38e68c9476a0da178e00d5f6d98ac49d3ec63c4f9ed9e0e46,656211,Nasdaq round-the-clock trading by December 31?,Nasdaq round-the-clock trading by December 31?,,413.23567,3698.892134,,,,,,,2027-01-01T04:59:00Z,2026-10-29T21:43:20.089586+00:00
+2760623,0xbc6da4859bfd07a38e68c9476a0da178e00d5f6d98ac49d3ec63c4f9ed9e0e46,656211,Nasdaq round-the-clock trading by December 31?,Nasdaq round-the-clock trading by December 31?,,378.04459,3698.892134,,,,,,,2027-01-01T04:59:00Z,2026-10-30T01:48:52.353363+00:00
