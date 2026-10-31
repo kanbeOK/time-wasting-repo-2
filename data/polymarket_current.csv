@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2760971,0x1ca549d0232aaabc79e842b50cf1ffb40d89dab82c0e9ce5f7d640f22359d595,656361,Tom Kean Jr. out as US Rep before term ends?,Tom Kean Jr.out as US Rep before term ends?,,66.3408,309.42666699999995,,,,,,,2027-01-04T04:59:00Z,2026-10-31T20:13:38.089618+00:00
+2761052,0xb27aff386f8c4ddafee7251fb6f3d590ec457fad0d6352b1f82e16cdb8ee0de8,656425,USMCA extended in 2026?,USMCA extended in 2026?,,2795.5925,11728.304944999998,,,,,,,2027-01-01T04:59:00Z,2026-10-31T23:37:07.726756+00:00
