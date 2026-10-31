@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2760948,0x3882375b9a6c5f123798dcceede3066fe365b1c0c139a9ebf541d432a304fb46,656338,US announces military base in Israel in 2026?,US announces military base in Israel in 2026?,,78.55397,1887.5558159999998,,,,,,,2027-01-01T04:59:00Z,2026-10-31T05:26:22.034442+00:00
+2760948,0x3882375b9a6c5f123798dcceede3066fe365b1c0c139a9ebf541d432a304fb46,656338,US announces military base in Israel in 2026?,US announces military base in Israel in 2026?,,10447.80271,1887.5558159999998,,,,,,,2027-01-01T04:59:00Z,2026-10-31T11:08:17.695395+00:00
