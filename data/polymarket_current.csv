@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2760948,0x3882375b9a6c5f123798dcceede3066fe365b1c0c139a9ebf541d432a304fb46,656338,US announces military base in Israel in 2026?,US announces military base in Israel in 2026?,,10793.81008,1887.555816,,,,,,,2027-01-01T04:59:00Z,2026-10-31T16:16:32.848924+00:00
+2760971,0x1ca549d0232aaabc79e842b50cf1ffb40d89dab82c0e9ce5f7d640f22359d595,656361,Tom Kean Jr. out as US Rep before term ends?,Tom Kean Jr.out as US Rep before term ends?,,66.3408,309.42666699999995,,,,,,,2027-01-04T04:59:00Z,2026-10-31T20:13:38.089618+00:00
