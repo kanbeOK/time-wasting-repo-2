@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2761531,0x723ce3df77c3f104b52191cfaa6661a02b70272fdf284f07e6b057c634c213ac,656666,California Tax Spend Audit Proposition,California Tax Spend Audit Proposition,,2873.5798,1859.4386300000003,,,,,,,2026-11-04T04:59:00Z,2026-11-01T05:45:28.274500+00:00
+2761554,0x804e6cd1e9f05c86ba2b944130632b1f735b8c4435dc7c471ec210612614709e,656689,California Recall Election Reform Proposition,California Recall Election Reform Proposition,,397.0256,953.857013,,,,,,,2026-11-04T04:59:00Z,2026-11-01T13:07:17.014678+00:00
