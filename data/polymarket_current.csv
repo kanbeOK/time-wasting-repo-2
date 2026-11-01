@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2761554,0x804e6cd1e9f05c86ba2b944130632b1f735b8c4435dc7c471ec210612614709e,656689,California Recall Election Reform Proposition,California Recall Election Reform Proposition,,397.0256,953.857013,,,,,,,2026-11-04T04:59:00Z,2026-11-01T13:07:17.014678+00:00
+2761554,0x804e6cd1e9f05c86ba2b944130632b1f735b8c4435dc7c471ec210612614709e,656689,California Recall Election Reform Proposition,California Recall Election Reform Proposition,,220.2776,953.857013,,,,,,,2026-11-04T04:59:00Z,2026-11-01T18:30:33.947335+00:00
