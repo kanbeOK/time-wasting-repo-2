@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2761556,0xbaaea10dca81e7f22e08c04f1a941e30b75174cf02144fba7f163040b8d76923,656691,California Immunology Research Bond Proposition,California Immunology Research Bond Proposition,,488.6882,3593.9306850000007,,,,,,,2026-11-04T04:59:00Z,2026-11-02T20:11:40.850930+00:00
+2761556,0xbaaea10dca81e7f22e08c04f1a941e30b75174cf02144fba7f163040b8d76923,656691,California Immunology Research Bond Proposition,California Immunology Research Bond Proposition,,366.7738,3593.9306850000003,,,,,,,2026-11-04T04:59:00Z,2026-11-03T02:34:20.441226+00:00
