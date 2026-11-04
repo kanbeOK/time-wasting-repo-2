@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3090656,0xc0849a6027c38fe5d633a1510b19cf81fe63c33a058b73068f0e939e07652802,745004,Plakushchyi Pavel vs. Dukhovenko Oleksandr,Game Handicap: Dukhovenko Oleksandr (-1.5) vs Plakushchyi Pavel (+1.5),,0.0,,,,,,,,2026-08-01T19:25:00Z,2026-11-04T14:19:28.586881+00:00
+3104786,0x86894fb5b8ad17c2d72a7b620de52890e1602d70e0c5c82b9ee72a953c243862,748971,Fujieda MYFC vs. Vegalta Sendai - Total Corners,Fujieda MYFC vs. Vegalta Sendai: Team to Take First Corner,,,,,,,,,,2026-08-08T09:30:00Z,2026-11-04T20:54:00.007918+00:00
