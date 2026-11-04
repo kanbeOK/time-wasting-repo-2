@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3026105,0xedb8a384b6a3d973cb1c934ee361feeec24e52281df76f18be706823249cd7e0,731806,Pro Football: Falcons vs. Buccaneers Season Series Winner,Will the season series between the Falcons and Buccaneers end in a tie during the 2026-27 NFL regular season?,,73.35,632.832219,,,,,,,2027-01-27T04:59:00Z,2026-11-04T05:57:53.693526+00:00
+3090656,0xc0849a6027c38fe5d633a1510b19cf81fe63c33a058b73068f0e939e07652802,745004,Plakushchyi Pavel vs. Dukhovenko Oleksandr,Game Handicap: Dukhovenko Oleksandr (-1.5) vs Plakushchyi Pavel (+1.5),,0.0,,,,,,,,2026-08-01T19:25:00Z,2026-11-04T14:19:28.586881+00:00
