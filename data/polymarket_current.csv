@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-2769088,0x46e0df50ec352318b7b6042a817ce0c0dd78b9aa29850d4a229eb9dbe00702e0,658969,Dario Amodei arrested by December 31?,Dario Amodei arrested by December 31?,,876.56355,4679.765298,,,,,,,2027-01-01T04:59:00Z,2026-11-03T23:36:04.356453+00:00
+3026105,0xedb8a384b6a3d973cb1c934ee361feeec24e52281df76f18be706823249cd7e0,731806,Pro Football: Falcons vs. Buccaneers Season Series Winner,Will the season series between the Falcons and Buccaneers end in a tie during the 2026-27 NFL regular season?,,73.35,632.832219,,,,,,,2027-01-27T04:59:00Z,2026-11-04T05:57:53.693526+00:00
