@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3132025,0x5ac0e3bf7d0dd204421abf62b5a2db36922e73d1ea6ef3180adf04190ff398ce,757084,Montedio Yamagata vs. Tochigi City FC - Total Corners,Montedio Yamagata vs. Tochigi City FC: Team to Take First Corner,,0.01,,,,,,,,2026-08-09T10:00:00Z,2026-11-05T08:23:57.528932+00:00
+3132025,0x5ac0e3bf7d0dd204421abf62b5a2db36922e73d1ea6ef3180adf04190ff398ce,757084,Montedio Yamagata vs. Tochigi City FC - Total Corners,Montedio Yamagata vs. Tochigi City FC: Team to Take First Corner,,0.01,,,,,,,,2026-08-09T10:00:00Z,2026-11-05T16:42:09.546210+00:00
