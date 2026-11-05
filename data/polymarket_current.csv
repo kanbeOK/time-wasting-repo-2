@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3104786,0x86894fb5b8ad17c2d72a7b620de52890e1602d70e0c5c82b9ee72a953c243862,748971,Fujieda MYFC vs. Vegalta Sendai - Total Corners,Fujieda MYFC vs. Vegalta Sendai: Team to Take First Corner,,,,,,,,,,2026-08-08T09:30:00Z,2026-11-04T20:54:00.007918+00:00
+3120163,0x6fb5c6ed53e59329c2ae78cda371a1a0bf9bd94ea17318aded30bf6d7fca4312,753202,Dota 2: Stray Team vs Rostik Team (BO3) - BetBoom Streamers Battle Group A,Game 3: Any Player Rampage?,,,,,,,,,,2026-08-05T03:59:00Z,2026-11-05T01:24:40.753336+00:00
