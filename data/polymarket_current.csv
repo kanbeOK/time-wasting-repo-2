@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3120163,0x6fb5c6ed53e59329c2ae78cda371a1a0bf9bd94ea17318aded30bf6d7fca4312,753202,Dota 2: Stray Team vs Rostik Team (BO3) - BetBoom Streamers Battle Group A,Game 3: Any Player Rampage?,,,,,,,,,,2026-08-05T03:59:00Z,2026-11-05T01:24:40.753336+00:00
+3132025,0x5ac0e3bf7d0dd204421abf62b5a2db36922e73d1ea6ef3180adf04190ff398ce,757084,Montedio Yamagata vs. Tochigi City FC - Total Corners,Montedio Yamagata vs. Tochigi City FC: Team to Take First Corner,,0.01,,,,,,,,2026-08-09T10:00:00Z,2026-11-05T08:23:57.528932+00:00
