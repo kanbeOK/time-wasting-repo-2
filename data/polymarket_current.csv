@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3149159,0xa3320a9c8c92982392848286c398edee1b686ed408596f0f619e2fac7d3398bf,759896,Mukono Super Smash T20: Bussana vs Kalagi - Most Sixes,Mukono Super Smash T20: Bussana vs Kalagi - Most Sixes Kalagi Winner,,,,,,,,,,2026-08-07T07:00:00Z,2026-11-06T03:19:57.611749+00:00
+3151186,0x81c9b8e5e3522483c83cc1d071754c32d7a4942cad2e61e63291deb5a9756c5d,760509,FK Zorya Luhansk vs. FK Kryvbas Kryvyi Rih - Total Corners,FK Zorya Luhansk vs. FK Kryvbas Kryvyi Rih: Team to Take First Corner,,0.01,,,,,,,,2026-08-09T10:00:00Z,2026-11-06T11:24:27.985985+00:00
