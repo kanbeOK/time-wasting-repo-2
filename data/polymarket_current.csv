@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3151186,0x81c9b8e5e3522483c83cc1d071754c32d7a4942cad2e61e63291deb5a9756c5d,760509,FK Zorya Luhansk vs. FK Kryvbas Kryvyi Rih - Total Corners,FK Zorya Luhansk vs. FK Kryvbas Kryvyi Rih: Team to Take First Corner,,0.01,,,,,,,,2026-08-09T10:00:00Z,2026-11-06T11:24:27.985985+00:00
+3154289,0x24109f8af8643617627fa6510c36dcb93746f84c349e829aeb4ae43a8c363b3e,761127,Carlisle United FC vs. Worthing FC - Total Corners,Carlisle United FC vs. Worthing FC: Team to Take First Corner,,0.01,,,,,,,,2026-08-08T14:00:00Z,2026-11-06T18:18:32.201836+00:00
