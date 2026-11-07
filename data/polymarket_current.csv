@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3156971,0xa674392c8e25f346e8308ec24eae6a826119af4eb30fad4abcf21f9289c1a242,761666,Oscars 2027: Best Actor Winner,Will another actor win Best Actor at the 99th Academy Awards?,,0.0,0.0,,,,,,,2027-03-14T23:59:00Z,2026-11-07T03:05:51.335432+00:00
+3162068,0x2a18ff774532c571f5f4219b540de017c6f8f145c440d220df44ad0d064875a9,762458,CA Central Norte Salta vs. Club Atletico Los Andes - Total Corners,CA Central Norte Salta vs. Club Atletico Los Andes: Team to Take First Corner,,,,,,,,,,2026-08-02T19:30:00Z,2026-11-07T10:37:38.869694+00:00
