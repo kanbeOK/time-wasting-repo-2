@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3154519,0x05959bd6035d7294f90aa750e72bf16e970762ce1b7d6325d82294f10c285de2,761137,Boston United FC vs. Aldershot Town FC - Total Corners,Boston United FC vs. Aldershot Town FC: Team to Take First Corner,,0.01,,,,,,,,2026-08-08T14:00:00Z,2026-11-06T23:26:06.199555+00:00
+3156971,0xa674392c8e25f346e8308ec24eae6a826119af4eb30fad4abcf21f9289c1a242,761666,Oscars 2027: Best Actor Winner,Will another actor win Best Actor at the 99th Academy Awards?,,0.0,0.0,,,,,,,2027-03-14T23:59:00Z,2026-11-07T03:05:51.335432+00:00
