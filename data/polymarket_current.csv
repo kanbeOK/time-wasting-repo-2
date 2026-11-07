@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3162068,0x2a18ff774532c571f5f4219b540de017c6f8f145c440d220df44ad0d064875a9,762458,CA Central Norte Salta vs. Club Atletico Los Andes - Total Corners,CA Central Norte Salta vs. Club Atletico Los Andes: Team to Take First Corner,,,,,,,,,,2026-08-02T19:30:00Z,2026-11-07T10:37:38.869694+00:00
+3162091,0x825cc1d20225282f61ec14b2d7aeb14cd44cc7c47efdb16da5f7a182252338ef,762459,CA Guemes vs. CSD Tristan Suarez - Total Corners,CA Guemes vs. CSD Tristan Suarez: Team to Take First Corner,,,,,,,,,,2026-08-03T19:00:00Z,2026-11-07T16:47:25.182731+00:00
