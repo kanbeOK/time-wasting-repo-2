@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3162278,0x0b27e0b7c81b6c7e8ce4c449454c168f7e2e394fc0d94ef863768891aff1c3e6,762467,Nueva Chicago vs. San Martin de Tucuman - Total Corners,Nueva Chicago vs. San Martin de Tucuman: Team to Take First Corner,,,,,,,,,,2026-08-01T18:00:00Z,2026-11-08T06:35:16.633523+00:00
+3162372,0xb63109d632a59bc604afe4dbaab4ece7d852e7b5cbb01b46523755bcf3065b04,762470,CA Defensores de Belgrano vs. CA Estudiantes - Total Corners,CA Defensores de Belgrano vs. CA Estudiantes: Team to Take First Corner,,,,,,,,,,2026-08-01T18:00:00Z,2026-11-08T14:12:56.696747+00:00
