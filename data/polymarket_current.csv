@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3162419,0xc60be10a42c2ec7ba7c79c1ad1a180a4d8b3bf5101f36948e5ad813f0ddb7203,762479,Club Nacional de Football vs. CA Progreso - Total Corners,Club Nacional de Football vs. CA Progreso: Team to Take First Corner,,,,,,,,,,2026-08-02T21:30:00Z,2026-11-09T02:32:19.218473+00:00
+3162443,0xa5f94a1865b99260bb39fbe0f75e5c9436a627492b2e61ca608638e37721488a,762480,Central Espanol FC vs. Liverpool Montevideo - Total Corners,Central Espanol FC vs. Liverpool Montevideo: Team to Take First Corner,,,,,,,,,,2026-08-02T18:00:00Z,2026-11-09T11:16:31.659853+00:00
