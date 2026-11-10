@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3162490,0x663fd30d4a27be7b9045ad8564a7231f210847c7235542b5c56d11f009adf9dd,762482,Deportivo Maldonado vs. CA Juventud de Las Piedras - Total Corners,Deportivo Maldonado vs. CA Juventud de Las Piedras: Team to Take First Corner,,,,,,,,,,2026-08-01T18:00:00Z,2026-11-09T21:36:21.525677+00:00
+3162699,0xdc362f8f44379b32a5d5fc51cb9a0ddab32817fe721dbd91758c2c7d4f37ed11,762491,Bohemians Dublin FC vs. Galway United FC - Total Corners,Bohemians Dublin FC vs. Galway United FC: Team to Take First Corner,,,,,,,,,,2026-08-02T18:00:00Z,2026-11-10T04:01:33.272880+00:00
