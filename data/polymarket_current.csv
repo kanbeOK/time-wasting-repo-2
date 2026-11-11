@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3162884,0x2781bc456c314b4ead6ecf2770f27a488823b35082bd65e08c715225866e1d2a,762499,Lyn 1896 FK vs. Sogndal Fotball - Total Corners,Lyn 1896 FK vs. Sogndal Fotball: Team to Take First Corner,,,,,,,,,,2026-08-02T15:00:00Z,2026-11-10T20:24:25.220099+00:00
+3162953,0x3474d53a75ddf56880b286e3cd5b735f005ec3dd9e511958470553d8a079e936,762502,Egersunds IK vs. Sandnes Ulf - Total Corners,Egersunds IK vs. Sandnes Ulf: Team to Take First Corner,,,,,,,,,,2026-08-02T15:00:00Z,2026-11-11T00:49:46.612718+00:00
