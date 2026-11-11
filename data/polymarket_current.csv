@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3163137,0xd819f4c30cf35926e392ad2241248147e2d656849b4eea02530ddcf49ec89104,762510,IK Oddevold vs. Norrby IF - Total Corners,IK Oddevold vs. Norrby IF: Team to Take First Corner,,,,,,,,,,2026-07-31T17:00:00Z,2026-11-11T16:01:43.400128+00:00
+3163404,0x9bc28618e817ff9317717159fb1d0b603276cc89821705ac170967be74272fc9,762535,Orange County SC vs. El Paso Locomotive FC - Total Corners,Orange County SC vs. El Paso Locomotive FC: Team to Take First Corner,,,,,,,,,,2026-08-02T02:00:00Z,2026-11-11T22:56:53.906480+00:00
