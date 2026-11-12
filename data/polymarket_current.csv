@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3163680,0x5af56c7a872743943f7041b2ecd50811448c54774df6750cb09caae9dc832bbe,762547,SK Rapid vs. SCR Altach - Total Corners,SK Rapid vs. SCR Altach: Team to Take First Corner,,,,,,,,,,2026-08-02T17:00:00Z,2026-11-12T03:44:47.471354+00:00
+3163958,0xc9980a6161e53cf7231e4d0d2d0a87d6b56d18e3a1f43a5b76b61bc0739e1dde,762559,Olimpija Ljubljana vs. Aluminij Kidricevo - Total Corners,Olimpija Ljubljana vs. Aluminij Kidricevo: Team to Take First Corner,,,,,,,,,,2026-08-02T18:15:00Z,2026-11-12T12:29:50.490396+00:00
