@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3163958,0xc9980a6161e53cf7231e4d0d2d0a87d6b56d18e3a1f43a5b76b61bc0739e1dde,762559,Olimpija Ljubljana vs. Aluminij Kidricevo - Total Corners,Olimpija Ljubljana vs. Aluminij Kidricevo: Team to Take First Corner,,,,,,,,,,2026-08-02T18:15:00Z,2026-11-12T12:29:50.490396+00:00
+3164004,0x337ddb2a79016169e4464826321b404db0f5c9d15772b706bdc2656b061c6da7,762561,NK Celje vs. NK Maribor - Total Corners,NK Celje vs. NK Maribor: Team to Take First Corner,,,,,,,,,,2026-08-01T18:15:00Z,2026-11-12T20:23:21.838507+00:00
