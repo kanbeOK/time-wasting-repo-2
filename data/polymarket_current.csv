@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3164258,0x6de6e0677fcf1e6fd1afa95275870fda8bff93441f1bf10c8cf7d9f85e0d5fdf,762572,LKP Motor Lublin vs. Jagiellonia Bialystok - Total Corners,LKP Motor Lublin vs. Jagiellonia Bialystok: Team to Take First Corner,,0.04,,,,,,,,2026-07-31T18:30:00Z,2026-11-13T08:40:59.232625+00:00
+3167801,0x40640879795327d3aff5f39b7fdbaedb14e4701829160dc3f2140c61cc74d504,762709,California Palms vs. Boston Guard,California Palms vs. Boston Guard,,0.5,,,,,,,,2026-08-15T21:30:00Z,2026-11-13T17:06:25.479768+00:00
