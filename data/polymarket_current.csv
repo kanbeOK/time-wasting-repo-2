@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3164050,0xa49f9921b9d7e67b40ad29c337d19bf0501baecb3b0000b6d1afed5ddba09619,762563,Grasshopper Club Zurich vs. FC Lugano - Total Corners,Grasshopper Club Zurich vs. FC Lugano: Team to Take First Corner,,,,,,,,,,2026-08-02T14:30:00Z,2026-11-13T01:24:59.579730+00:00
+3164258,0x6de6e0677fcf1e6fd1afa95275870fda8bff93441f1bf10c8cf7d9f85e0d5fdf,762572,LKP Motor Lublin vs. Jagiellonia Bialystok - Total Corners,LKP Motor Lublin vs. Jagiellonia Bialystok: Team to Take First Corner,,0.04,,,,,,,,2026-07-31T18:30:00Z,2026-11-13T08:40:59.232625+00:00
