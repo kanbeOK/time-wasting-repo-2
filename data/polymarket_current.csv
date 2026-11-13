@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3164004,0x337ddb2a79016169e4464826321b404db0f5c9d15772b706bdc2656b061c6da7,762561,NK Celje vs. NK Maribor - Total Corners,NK Celje vs. NK Maribor: Team to Take First Corner,,,,,,,,,,2026-08-01T18:15:00Z,2026-11-12T20:23:21.838507+00:00
+3164050,0xa49f9921b9d7e67b40ad29c337d19bf0501baecb3b0000b6d1afed5ddba09619,762563,Grasshopper Club Zurich vs. FC Lugano - Total Corners,Grasshopper Club Zurich vs. FC Lugano: Team to Take First Corner,,,,,,,,,,2026-08-02T14:30:00Z,2026-11-13T01:24:59.579730+00:00
