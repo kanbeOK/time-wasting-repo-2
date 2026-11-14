@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3187673,0x2127849b3d507125abeae18a1563e1e7d7a8df5c34c1dd6f3985b7459d556237,765141,Hamarkameratene vs. Aalesunds FK - Total Corners,Hamarkameratene vs. Aalesunds FK: Team to Take First Corner,,0.01,,,,,,,,2026-08-09T15:00:00Z,2026-11-14T03:01:04.687309+00:00
+3190239,0x91353564a1f23f089f9d82f8be7893ac08dffa193aa47357b738bb3c7650d745,765343,Bologna FC vs. SC Cambuur - More Markets,Bologna FC vs. SC Cambuur: SC Cambuur 2nd Half O/U 1.5,,0.0,,,,,,,,2026-08-01T12:00:00Z,2026-11-14T10:50:11.057491+00:00
