@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3190404,0x437e50d096e1b8a2f7ff7351da7443291723d7049918c1a0613ee36911d66838,765348,RB Leipzig vs. SC Verl - More Markets,RB Leipzig vs. SC Verl: SC Verl 2nd Half O/U 1.5,,0.0,,,,,,,,2026-08-01T10:00:00Z,2026-11-15T01:14:36.824884+00:00
+3191632,0x9334292893d1ad0463b5b5f60526cee57fbcc4a9c414a12e276826f58b772d7a,765449,Kim Kardashian announces passing the Bar Exam by 2027?,Kim Kardashian announces passing the Bar Exam by 2027?,,234.88627,436.332875,,,,,,,2028-01-01T04:59:00Z,2026-11-15T08:22:05.844417+00:00
