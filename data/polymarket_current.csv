@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3191632,0x9334292893d1ad0463b5b5f60526cee57fbcc4a9c414a12e276826f58b772d7a,765449,Kim Kardashian announces passing the Bar Exam by 2027?,Kim Kardashian announces passing the Bar Exam by 2027?,,234.88641,436.332875,,,,,,,2028-01-01T04:59:00Z,2026-11-15T15:49:23.622637+00:00
+3192212,0x2acef7dca973d23805ba109054e9f6ededee211c48afb5c83130fb6418787f38,765684,Will Alix Earle attend an F1 race in 2026?,Will Alix Earle attend an F1 race in 2026?,,177.659,3618.541808,,,,,,,2027-01-01T04:59:00Z,2026-11-15T20:57:59.494263+00:00
