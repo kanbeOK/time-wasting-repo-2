@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3192212,0x2acef7dca973d23805ba109054e9f6ededee211c48afb5c83130fb6418787f38,765684,Will Alix Earle attend an F1 race in 2026?,Will Alix Earle attend an F1 race in 2026?,,177.659,3618.541808,,,,,,,2027-01-01T04:59:00Z,2026-11-15T20:57:59.494263+00:00
+3195639,0x93ae99358e54a4db8c12659d6b29e9e8c9cbe7e0e9566cabaaf1fef5475602f6,766238,Nitto ATP Finals: Player to Qualify,Will Stefanos Tsitsipas Qualify for the Nitto ATP Finals 2026?,,,730.7090000000001,,,,,,,,2026-11-16T00:55:36.307656+00:00
