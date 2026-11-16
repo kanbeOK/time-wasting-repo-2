@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3201985,0xc446b37e6bd543ce0d574c02174d2a3216388fbeff26d8ef5a464528f13dbb6c,768161,Power Slap 22: Daniyar Daurenovich vs. Darren Godfrey (Fight 1),Will Darren Godfrey win by KO or TKO?,,,,,,,,,,2026-08-14T03:59:00Z,2026-11-16T07:50:51.015287+00:00
+3203656,0x378dc1603b5b533366c0daaa0e8a66c9aad31f003bf20513d500a8943a7707a2,768607,CD Maipu vs. CA Atlanta - Total Corners,CD Maipu vs. CA Atlanta: Team to Take First Corner,,,,,,,,,,2026-08-02T18:30:00Z,2026-11-16T18:18:22.303255+00:00
