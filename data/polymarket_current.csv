@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3203656,0x378dc1603b5b533366c0daaa0e8a66c9aad31f003bf20513d500a8943a7707a2,768607,CD Maipu vs. CA Atlanta - Total Corners,CD Maipu vs. CA Atlanta: Team to Take First Corner,,,,,,,,,,2026-08-02T18:30:00Z,2026-11-16T18:18:22.303255+00:00
+3203989,0x0813923d27b498f34032857c17c4fa7b8f826ceed693d14849539cdfa711cf24,768637,Ranheim vs. FK Haugesund - Total Corners,Ranheim vs. FK Haugesund: Team to Take First Corner,,,,,,,,,,2026-08-03T17:00:00Z,2026-11-17T02:00:09.939945+00:00
