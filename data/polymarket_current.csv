@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3203989,0x0813923d27b498f34032857c17c4fa7b8f826ceed693d14849539cdfa711cf24,768637,Ranheim vs. FK Haugesund - Total Corners,Ranheim vs. FK Haugesund: Team to Take First Corner,,,,,,,,,,2026-08-03T17:00:00Z,2026-11-17T02:00:09.939945+00:00
+3204035,0x73cdf6ed4149c9f70c813b5db46bc5357015530035d312ffbf59fd45bdf24cf5,768639,FC Nomme United vs. JK Narva Trans - Total Corners,FC Nomme United vs. JK Narva Trans: Team to Take First Corner,,,,,,,,,,2026-07-31T16:00:00Z,2026-11-17T10:36:00.896539+00:00
