@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3205475,0xc16944b46040793532653149a39874fbe9df35c153166be4052c55a31635c02b,768742,Will FNS Announce a 2028 Presidential Run by the End of the Year?,Will FNS Announce a 2028 Presidential Run by the End of the Year?,,196.031,52.900000000000006,,,,,,,2027-01-01T04:59:00Z,2026-11-18T02:18:06.306574+00:00
+3208142,0x1e8a0b9690c236018e4b2acc1d6555028dc5297d52533ea01712fce0ac818116,769413,ESTAC Troyes vs. FC Goal - Total Corners,ESTAC Troyes vs. FC Goal: Team to Take First Corner,,,,,,,,,,2026-07-31T13:00:00Z,2026-11-18T10:36:55.738539+00:00
