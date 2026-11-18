@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3208142,0x1e8a0b9690c236018e4b2acc1d6555028dc5297d52533ea01712fce0ac818116,769413,ESTAC Troyes vs. FC Goal - Total Corners,ESTAC Troyes vs. FC Goal: Team to Take First Corner,,,,,,,,,,2026-07-31T13:00:00Z,2026-11-18T10:36:55.738539+00:00
+3210529,0xbf688d5ae2adfd598128a6dece9d1ce115935259898f0cf0f753c459021fad17,769667,SV Waldhof Mannheim 07 vs. Eintracht Frankfurt - Total Corners,SV Waldhof Mannheim 07 vs. Eintracht Frankfurt: Team to Take First Corner,,,,,,,,,,2026-08-01T15:00:00Z,2026-11-18T19:20:27.104439+00:00
