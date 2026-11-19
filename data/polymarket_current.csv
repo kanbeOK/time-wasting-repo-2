@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3210529,0xbf688d5ae2adfd598128a6dece9d1ce115935259898f0cf0f753c459021fad17,769667,SV Waldhof Mannheim 07 vs. Eintracht Frankfurt - Total Corners,SV Waldhof Mannheim 07 vs. Eintracht Frankfurt: Team to Take First Corner,,,,,,,,,,2026-08-01T15:00:00Z,2026-11-18T19:20:27.104439+00:00
+3210895,0xac5ee74a84ea2bb18b34f63175ddb2941841eaf627297fb863d1105b9b24e2be,769785,Liga MX: 2027 Clausura Most Assists,Will someone else record the most assists in the 2027 Liga MX Clausura?,,0.0,0.0,,,,,,,2027-06-13T23:59:00Z,2026-11-19T01:25:06.991118+00:00
