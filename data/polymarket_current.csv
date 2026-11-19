@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3210895,0xac5ee74a84ea2bb18b34f63175ddb2941841eaf627297fb863d1105b9b24e2be,769785,Liga MX: 2027 Clausura Most Assists,Will someone else record the most assists in the 2027 Liga MX Clausura?,,0.0,0.0,,,,,,,2027-06-13T23:59:00Z,2026-11-19T01:25:06.991118+00:00
+3212308,0x325f133a76e21236dfbcb4277088078247f8216509bc6c1907b5c5bad99085ec,770117,John Ratcliffe out as CIA Director by December 31?,John Ratcliffe out as CIA Director by December 31?,,1301.4219,6016.662854,,,,,,,2027-01-01T04:59:00Z,2026-11-19T09:22:32.116984+00:00
