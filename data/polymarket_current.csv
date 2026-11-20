@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3222374,0x64c0573d6d7c36068d185c4c719199bb4663315424ff3c04c6c8cef84db087ae,772582,Toulouse FC vs. Real Sociedad San Sebastian - Total Corners,Toulouse FC vs. Real Sociedad San Sebastian: Team to Take First Corner,,,,,,,,,,2026-07-31T17:00:00Z,2026-11-20T17:57:59.019479+00:00
+3222753,0xa986066a4a07d3f424a7e1418e3815e7742135c2c71cecacd493fabc0ec3b405,772736,Will Trump's first pick win the 2028 US presidential election?,Will Trump's first pick win the 2028 US presidential election?,,31770.9976,1920.925248,,,,,,,2028-11-08T04:59:00Z,2026-11-20T23:56:11.203822+00:00
