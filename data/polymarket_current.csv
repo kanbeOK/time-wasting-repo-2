@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3222903,0x823163411e8f1eb5a1ae4465be02145637cc47513b5b655f7d799262ccd6215f,772751,Will Trump's first endorsement before the primaries be the 2028 GOP nominee?,Will Trump's first endorsement before the primaries be the 2028 GOP nominee?,,99.0917,121.728276,,,,,,,2028-08-31T23:59:00Z,2026-11-21T21:01:36.849047+00:00
+3224267,0x58fa2b1ad633d0c455a8c49e762519db240a5891ddc232325b3755ea09c8f200,773095,Club Almagro vs. CA Ferrocarril Midland - Total Corners,Club Almagro vs. CA Ferrocarril Midland: Team to Take First Corner,,,,,,,,,,2026-08-02T18:00:00Z,2026-11-22T01:31:04.618709+00:00
