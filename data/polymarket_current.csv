@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3224509,0xd08e0d478be8d4add43c0e2d1583d3b72353533495c196eeab8fbff2b4ffa490,773112,Paide Linnameeskond vs. FC Kuressaare - Total Corners,Paide Linnameeskond vs. FC Kuressaare: Team to Take First Corner,,,,,,,,,,2026-08-02T14:00:00Z,2026-11-22T23:30:06.796822+00:00
+3224532,0x5aad27595ba4645c402c075b1a1cf142719536eee93f0d0258ea359f080002f0,773113,Nomme Kalju FC vs. Tartu JK Tammeka - Total Corners,Nomme Kalju FC vs. Tartu JK Tammeka: Team to Take First Corner,,,,,,,,,,2026-08-02T14:00:00Z,2026-11-23T03:57:55.668598+00:00
