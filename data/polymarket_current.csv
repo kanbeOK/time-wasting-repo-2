@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3224608,0x7433ed035e062e7594796ad0d395842a11c70182e1812ace7be113a93e8fc889,773116,CD Real Santander vs. Boyaca Patriotas - Total Corners,CD Real Santander vs. Boyaca Patriotas: Team to Take First Corner,,0.04,,,,,,,,2026-07-31T21:00:00Z,2026-11-24T22:42:47.509297+00:00
+3224725,0xb8203c98b0947b3bdc1194ebd293368941c16d970b19d0e872e639a4bb077c1f,773128,FK Vojvodina Novi Sad vs. FK Macva Sabac - Total Corners,FK Vojvodina Novi Sad vs. FK Macva Sabac: Team to Take First Corner,,,,,,,,,,2026-08-03T17:00:00Z,2026-11-25T05:21:21.855975+00:00
