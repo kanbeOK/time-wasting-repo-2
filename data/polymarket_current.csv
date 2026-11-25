@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3224725,0xb8203c98b0947b3bdc1194ebd293368941c16d970b19d0e872e639a4bb077c1f,773128,FK Vojvodina Novi Sad vs. FK Macva Sabac - Total Corners,FK Vojvodina Novi Sad vs. FK Macva Sabac: Team to Take First Corner,,,,,,,,,,2026-08-03T17:00:00Z,2026-11-25T05:21:21.855975+00:00
+3224749,0x908c34581ed41dd9abb085fd2d72990969e2e9c4f2b7daecd4c4b489745b60e7,773129,FK Partizan Belgrade vs. FK IMT Novi Beograd - Total Corners,FK Partizan Belgrade vs. FK IMT Novi Beograd: Team to Take First Corner,,,,,,,,,,2026-08-02T18:00:00Z,2026-11-25T15:58:14.183008+00:00
