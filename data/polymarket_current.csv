@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3224749,0x908c34581ed41dd9abb085fd2d72990969e2e9c4f2b7daecd4c4b489745b60e7,773129,FK Partizan Belgrade vs. FK IMT Novi Beograd - Total Corners,FK Partizan Belgrade vs. FK IMT Novi Beograd: Team to Take First Corner,,,,,,,,,,2026-08-02T18:00:00Z,2026-11-25T15:58:14.183008+00:00
+3224772,0x382b52c67ae0c46edc7161e895a96d2bf0a36558ee932dd0577c62da2c1cdc49,773130,FK Zemun vs. FK Radnicki Nis - Total Corners,FK Zemun vs. FK Radnicki Nis: Team to Take First Corner,,,,,,,,,,2026-08-02T18:00:00Z,2026-11-26T00:12:05.563588+00:00
