@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3224772,0x382b52c67ae0c46edc7161e895a96d2bf0a36558ee932dd0577c62da2c1cdc49,773130,FK Zemun vs. FK Radnicki Nis - Total Corners,FK Zemun vs. FK Radnicki Nis: Team to Take First Corner,,,,,,,,,,2026-08-02T18:00:00Z,2026-11-26T00:12:05.563588+00:00
+3240232,0x266ab514664629dc4873da33c5cff2f7c33fbd586e8c75214ae541864548f9c5,776657,Hawick Royal Albert United FC vs. Penicuik Athletic FC - Exact Score,Exact Score: Any Other Score?,,0.0,,,,,,,,2026-08-08T14:00:00Z,2026-11-26T08:49:12.334961+00:00
