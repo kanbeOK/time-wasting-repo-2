@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3265178,0x2cea7ffd0d93f0f5d2cfa8277b854b533d0680707b33bd8c5dc2d18349c7b5c1,782056,CD Antofagasta vs. Union San Felipe - Total Corners,CD Antofagasta vs. Union San Felipe: Team to Take First Corner,,,,,,,,,,2026-08-01T19:00:00Z,2026-11-27T11:18:50.206105+00:00
+3294226,0x7d01fae6ea6dbc89c6dfda907a197d5c899b2403b1b696e9b64e73f8e055cce7,787506,Skhabitskiy Sergii vs. Novakov Daniil,Game Handicap: Novakov Daniil (-1.5) vs Skhabitskiy Sergii (+1.5),,0.0,,,,,,,,2026-08-10T06:50:00Z,2026-11-27T20:13:06.450916+00:00
