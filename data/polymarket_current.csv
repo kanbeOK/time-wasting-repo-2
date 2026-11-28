@@ -1,2 +1,2 @@
 ﻿market_id,condition_id,event_id,event_title,question,category,liquidity,volume,best_bid_yes,best_ask_yes,mid_price_yes,implied_probability_pct,spread,market_status,end_date,fetched_at
-3294226,0x7d01fae6ea6dbc89c6dfda907a197d5c899b2403b1b696e9b64e73f8e055cce7,787506,Skhabitskiy Sergii vs. Novakov Daniil,Game Handicap: Novakov Daniil (-1.5) vs Skhabitskiy Sergii (+1.5),,0.0,,,,,,,,2026-08-10T06:50:00Z,2026-11-27T20:13:06.450916+00:00
+3294214,0x15d8e292c99c62d1a4c76152588649d1947a6a38eb216cd853a582fdb47f8eb2,787509,Novakov Daniil vs. Melnykov Volodymyr,Game Handicap: Melnykov Volodymyr (-1.5) vs Novakov Daniil (+1.5),,0.0,,,,,,,,2026-08-10T12:50:00Z,2026-11-28T02:55:00.775979+00:00
